@@ -1,0 +1,141 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+# Data collection in small (animal) studies  
+
+## General information 
+In small (animal) studies and experiments in general, data collection should already be an integral part of the scientific procedure and experimental design. Later analysis determines how data need to be structured. It is much easier to conduct experiments when the overall workflow is clear from the beginning. In the following sections a structured way of data collection for statistical analyses is described. You’ll be a much happier scientist if you adhere to this.
+
+#### Data collection software
+If possible use Microsoft Excel for data collection. However, do not simply collect your data in a way that fits your own style. Keep in mind that one day all of your fancy tables need to analyzed – probably by somebody who is not familiar with your creative color schemes or statements. Maybe you may even get confused yourself after looking at your data again after a couple of weeks.
+
+There are a couple of popular file formats such as \*.txt files. With some software it is even easier to work with more specialized formats such as \*.json or \*.xml files. You may not even have heard of these but they are rather popular with Data Scientists/Statisticians. However, the most common formats come with MS-Excel: \*.xls, \*.xlsx or even \*.csv. So, save and organize your data in MS-Excel. If you have more complex data or need to collect data over longer periods of time, you may consider using MS-Access or even MySQL (SQL=Structured Query Language). The latter two even allow specialized forms of data entry but require decent knowledge on using relational databases.
+
+Now you should be asking yourself: “**How do I…**”
+
+
+## Build a table for data collection
+It is best practice (and this means that almost every analytical software can read this format) to organize patients/animals in rows and variables in columns. **Keep this structure. Period.**
+
+<span style="color:red">**Also, keep your main data table clean and structured!**</span> 
+
+From experience, I can tell that people love making calculations in their collection sheets or like using fancy highlights. Another good sport: introducing empty rows or variables. Don’t! You can use other tabs for doing this but never ever your main data sheet! Any software reading your data will get problems when your table is not strictly organized. Save yourself and your data analyst some decent amount of lifetime by keeping your main data table clean. The table starts in Excel at A1.
+
+Now, how should a table look like? Here is a very general structure of how your data can be organized. Please keep in mind that this is just an example and your data might need some adaptation.
+
+| index | id     | group          | sex | day | bodyweight | death | variable |
+|:------|:-------|:---------------|:----|:----|:-----------|:------|:---------|
+|1      |animal1 |Sham            |1    |1    |100         |       |          |
+|2      |animal1 |Sham            |1    |1    |99          |       |1         |
+|3      |animal1 |Sham            |1    |1    |101         |       |          |
+|4      |animal2 |Nasty_Treatment |0    |1    |95          |       |1         |
+|5      |animal2 |Nasty_Treatment |0    |1    |91          |1      |          |
+|6      |animal2 |Nasty_Treatment |0    |1    |            |       |          |
+|...    |...     |...     |...    |...        |...         |...    |...       |
+
+
+**Important**: If you have no data: (in most cases) leave the cells empty!
+
+## Repeated measures
+Collecting data for repeated measures leaves you with two options – depending on your experimental setup.
+
+1. Multiple measurements over time (i.e., days: this is called a longitudinal measurement)
+2. Multiple measurements over time per time (i.e., three per day for n days)
+
+**Example for 1.**
+
+| index | id     | group          | sex | day | bodyweight | death | censored |
+|:------|:-------|:---------------|:----|:----|:-----------|:------|:---------|
+|1      |animal1 |Sham            |1    |1    |100         |       |          |
+|2      |animal1 |Sham            |1    |2    |99          |       |          |
+|3      |animal1 |Sham            |1    |3    |101         |       |          |
+|4      |animal2 |Nasty_Treatment |1    |1    |95          |       |          |
+|5      |animal2 |Nasty_Treatment |1    |2    |91          |       |          |
+|6      |animal2 |Nasty_Treatment |1    |3    |89          |       |          |
+|...    |...     |...     |...    |...        |...         |...    |...       |
+
+**Note** that animal ids are repetitive but the number for each day is different. Do this for every day you have data for and adjust all the variables in your table accordingly. 
+
+
+**Example for 2.**
+
+| index | id     | group          | sex | day | before | after | longafter |
+|:------|:-------|:---------------|:----|:----|:-------|:------|:----------|
+|1      |animal1 |Sham            |1    |1    |100     |98     |99         |
+|2      |animal1 |Sham            |1    |1    |99      |95     |96         |
+|3      |animal1 |Sham            |1    |1    |101     |97     |94         |
+|4      |animal2 |Nasty_Treatment |1    |1    |95      |81     |87         |
+|5      |animal2 |Nasty_Treatment |1    |1    |91      |91     |90         |
+|6      |animal2 |Nasty_Treatment |1    |1    |89      |88     |84         |
+|...    |...     |...     |...    |...        |...     |...    |...        |
+
+If you have **repeated measures** per day, you can divide your measurements into time segments (e.g., before application, after application and long time after application *on the same day*!) and enter the repeated measures individually. In this case, each of the time points is treatet like a variable and gets a column in the table.
+
+Names for time-segments should be intuitive and easy to follow. This approach is only applicable if you have multiple measurements for the time period measured (i.e. days). This is called the **“wide”** format. It is only possible when all objects in a database follow the same structure. If you have multiple conditions on multiple days, you simply create another variable column for the conditions and enter values for each day.
+
+In order to address repeated measures of different lengths (e.g., due to the combination of various different experiments from other work groups), the **“long”** format is used. Here, only one column for the repeated measures (repeats) is introduced but coded for the repetitions (0=before, 1=after, 2=longafter etc.). Each measurement gets a row and all the other variables remain unchanged.
+
+**Example for repeated measures in the long format.**
+
+| index | id     | group          | sex | day | before | repeats | censoring |
+|:------|:-------|:---------------|:----|:----|:-------|:--------|:----------|
+|1      |animal1 |Sham            |1    |1    |100     |0        |           |
+|2      |animal1 |Sham            |1    |1    |99      |1        |0          |
+|3      |animal1 |Sham            |1    |1    |99      |2        |           |
+|...    |...     |...             |...  |...  |...     |...      |...        |
+
+
+## Variable definition
+Variable names should follow standard rules of informatics. Try to obey the following rules when naming the columns in your data table.
+
+* Names should contain numbers and characters (=letters) only and need to start with a character
+* Special characters like empty spaces, Umlaute, / + - * () : etc. should be avoided. The only exception is underscore “_” which can be used to separate names to make them more readable (i.e., funny_variable)
+* Capital letters may be used but may not necessarily lead to different names. Be careful here!
+
+**Good names**: ID, Id, index, PatNo, group, sex, measure_1, measure_2  
+**Bad names**:  1.measurement, weight(kg), PatNo.
+
+Variable names should give a good indication for what they are coding. At the beginning of each experiment it may be a good idea to define variables and document them in a data dictionary. Along with a short explanation a data dictionary also explains possible coding (such as 0 = male, 1=female) and data types (ordinal, nominal, metric). You may abbreviate longer names, but it must be either clear from the context for what they stand for or they should be defined in the data dictionary.
+
+
+## Rules for patient/animal data entry
+Data collection always starts with base data. If you have patient data you may have to anonymize your data. For animal data, other information such as strain, breeder and laboratory may be important as well. Key for a correct identification is a **unique identification number**. Unique means, the number you give an animal should never be given again to any other animal within the same data set. In larger databases (with entries from different work groups or experiments), text **and** number identifiers such as animal1/animal2/animal3 may also be an option. However, it is better using numbers and another variable such as the laboratory etc. for making contrasts.
+
+A good way to organize animals/patients is by using consecutive numbers (1, 2, 3…). You may further distinguish control groups by adding 10 prior to the consecutive number (101, 102, 103 …). Although this is already a good protection against mixing up the individuals in your analysis, you’ll always want to add a grouping variable in another column, e.g., where sham=0 and treatment =1.
+
+## Variable formats
+In experimental studies, variables are collected in different formats. Age is usually collected as a numeric value (21 weeks, 1 year, 6 days etc.). But there are other variables such as sex or animal strain data. In order to use these data in your analysis as well, you need to code them with a numeric value. You can code, e.g., 0=male and 1=female. This is critical, since most software cannot use entries such as “present” or “not present” to make calculations. Even “m” for “male” or “f” for “female” may prove problematic. Therefore, it is best to code all variables as numbers. Think of how much you will benefit from this by including variables you would otherwise not have had included in your analysis!
+
+Of course, there are some rules attached to coding variable formats as well…
+
+* Ordinal data should be scaled with integer numbers in an ascending order (1=very good, 2=good, 3=bad, 4=very bad etc.)
+* For multiple dichotomous variables with yes/no answers the coding should be the same for the whole data set (i.e., always: 0=no, 1=yes).
+* Keep an eye on metric data dimensions (e.g., for physiological data). Although most statistical tests are insensitive to dimensional transformations, it may still be important to know whether you are measuring seconds or milliseconds. But in general, metric data don’t need to be coded. They are ready to use.
+
+If you plan on coding your variables, there are another couple of minor points you need to know.
+
+**a) No additional annotations for numeric data**  
+Most statistical programs can read numbers only. Percent (%) or <> signs etc. should not be included in any variable field. 5% would therefore simply be 5. Although Excel makes it really easy to code numbers as percentages, avoid this. Also, do not use lists in a single field (i.e., 1,2,7 etc.). For such cases, you can code dummy variables with 0=no and 1=yes in additional columns.
+
+**b) Delimiters**  
+For your own sanity: use English delimiters in your data table. Although most analytical software can detect “comma” as decimal delimiter, it may still lead to errors when reading in data. German and English Excel versions do some things differently. Value=5,000 in German means 5, whereas in the English version it means 5000. The same value in the English version would be 5.000. Point and comma have different meanings here and may even come into conflict with your natural OS language. In Excel under “options” you can change decimal delimiters. Keep a close eye on what your Excel is doing and how your data are imported later.
+
+**c) Imputation of missing values**  
+Ok, this is a big one. There is no general rule on how to handle missing values. You can either choose to leave the fields empty or add a point “.”. The latter is only good for SPSS or SAS. If you plan on using anything else: **leave empty fields empty**. Do NOT write “?” or “none” etc.
+There are several methods on how to calculate values for missing data (called imputations). If you plan on using these techniques because you need a full matrix and have only a few missing values, contact your local statistician to work something out.
+
+Before analysis it is strongly advised to control your data table thoroughly. Especially when data are collated from different sources by hand, lots of copy/paste errors may occur. Ask your colleague(s) to have a look on your data table(s) and spend a decent amount of time organizing it. It will simplify your analysis and will also make your work much more reproducible and transparent.
+
+Good look with your research!
+
+
+
+
+
+
+
+

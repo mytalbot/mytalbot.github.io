@@ -1,0 +1,20 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+  
+I’d love to hear from you, so feel free to reach out:
+
+**Dr. rer. nat. Steven R. Talbot**
+Data Scientist  
+Laboratory Animal Science  
+Medizinische Hochschule Hannover  
+OE 8600, Carl-Neuberg-Str. 1, 
+30625 Hannover, Germany   
+
+info@talbot-science.de
+ 
+Or connect with me on Linkedin (links in top right).
+

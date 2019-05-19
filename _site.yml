@@ -1,0 +1,29 @@
+name: "Steven R. Talbot"
+output_dir: "."
+navbar:
+  title: "Steven R. Talbot"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Speaking"
+      href: speaking.html
+    - text: "Ressources"
+      href: ressources.html
+  right:
+   - icon: fa-envelope fa-lg
+     href: contact.html
+   - icon: fa-linkedin fa-lg
+     href: https://www.linkedin.com/in/stevenrtalbot/
+   - icon: fa-github fa-lg
+     href: https://github.com/mytalbot
+   - text: "Imprint"
+     href: impressum.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
+    
+    
+    
