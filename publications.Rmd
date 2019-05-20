@@ -8,11 +8,11 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
-Häger C, Keubler LM, **Talbot SR**, Biernot S, Weegh N, et al. (2018) Running in the wheel: Defining individual severity levels in mice. PLOS Biology 16(10): e2006159. https://doi.org/10.1371/journal.pbio.2006159.
+Häger C, Keubler LM, **Talbot SR**, Biernot S, Weegh N, et al. (2018) Running in the wheel: Defining individual severity levels in mice. PLOS Biology 16(10): e2006159. https://doi.org/10.1371/journal.pbio.2006159.  
 
-Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel M (2018) IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. *Front. Cell. Neurosci.* 12:352. doi: 10.3389/fncel.2018.00352.
+Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel M (2018) IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. *Front. Cell. Neurosci.* 12:352. doi: 10.3389/fncel.2018.00352.  
 
-Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.
+Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.  
 
 Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
 
