@@ -20,7 +20,7 @@ I'm offering various courses in and around Statistics/Design of Experiments and 
 For keeping things simple, in most statistics courses GraphPad Prism is used. However, you'll probably need a valid software licence for that. There is a 30 day trial version on their website... 
 
 ## Curricular courses
-At the Hannover Medical School I'm offering two regular courses (roughly twice every six months) for MHH staff/students.
+At the Hannover Medical School I'm offering two regular courses (roughly every six months) for MHH staff/students.
 
 **1. Basic course in statistics** ( [e.g, Statistics in Laboratory Animal Science](https://www.mh-hannover.de/ztl-kurse.html#c155391) )  
 **2. How to plan & design animal experiments** ( [e.g, Power analysis and preparation of applications for animal experiments](https://www.mh-hannover.de/ztl-kurse.html#c155391) )

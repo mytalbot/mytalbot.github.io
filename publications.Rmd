@@ -14,7 +14,7 @@ Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel 
 
 Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.
 
-Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.
+Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
 
 Schwarzer, A., **Talbot, S. R.**, Dittrich-Breiholz, O., Thrasher, A. J., Gaspar, B., Modlich, U., Baum, C., Schambach, A., & Rothe, M. (2016). New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA). *Blood*, 128(22), 4710. 
 C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.
