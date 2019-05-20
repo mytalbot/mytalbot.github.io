@@ -21,5 +21,5 @@ FORm is built in several tabs. It is good practice to give each study a separate
 5. Comments - a free to use field for comments
 
 ## Download the latest version of FORm
-[Get FORm here!](https://talbotsr.com/files/FORm_1.1.1.xls)
+[Get FORm here!](https://talbotsr.com/content/FORm_1.1.1.xls)
 
