@@ -17,20 +17,21 @@ Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Klein
 Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
 
 Schwarzer, A., **Talbot, S. R.**, Dittrich-Breiholz, O., Thrasher, A. J., Gaspar, B., Modlich, U., Baum, C., Schambach, A., & Rothe, M. (2016). New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA). *Blood*, 128(22), 4710. 
-C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.
 
-Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus Kostrzewa, Brigitte Schlegelberger, Nils von Neuhoff, Susanne Häußler; Comprehensive MALDI-TOF biotyping of the non-redundant Harvard Pseudomonas aeruginosa PA14 transposon insertion mutant library, *PLOS ONE*, 2014, DOI: 10.1371/journal.pone.0117144.
+C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.  
 
-G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.
+Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus Kostrzewa, Brigitte Schlegelberger, Nils von Neuhoff, Susanne Häußler; Comprehensive MALDI-TOF biotyping of the non-redundant Harvard Pseudomonas aeruginosa PA14 transposon insertion mutant library, *PLOS ONE*, 2014, DOI: 10.1371/journal.pone.0117144.  
 
-**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000137.
+G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
+
+**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000137.  
  
-Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000136.
+Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000136.  
 
-**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.
+**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.  
 
 ## Book contributions
-**Steven R. Talbot**, Pschyrembel (Klinisches Wörterbuch) - Medizinische Statistik und Studiendesign, 2018.
+**Steven R. Talbot**, Pschyrembel (Klinisches Wörterbuch) - Medizinische Statistik und Studiendesign, 2018.  
 
 ## Patent
 W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Detektion von Kampfstoffen. *German patent*, DE 10 2008 054 345 A1, 2010.05.20, 2010.
