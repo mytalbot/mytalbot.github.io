@@ -40,6 +40,11 @@ output:
 
 
 ## Contributions & Posters
+**2019** Simeon O.A. Helgers, Ann-Kristin Riedesel, Laura Wassermann, Christine Häger, Steven R. Talbot, Joachim K. Krauss, André Bleich, Kerstin Schwabe; Telemetric measures in a rat model with intracranial tumor, FELASA Prague.
+
+**2019** Laura Wassermann   , FELASA Prague.
+
+**2019** Guanglin Tang, Nico Seume, **Steven R. Talbot**, Christine Häger, Simone Kumstel, Kerstin Abshagen, André Bleich, Brigitte Vollmar, Xianbin Zhang and Dietmar Zechner; A multifactorial distress analysis of animal models for liver fibrosis, FELASA Prague. 
 
 **2019** S. Helgers, **S. R. Talbot**, A. - K. Riedesel, J. K. Krauss, A. Bleich, K. Schwabe; Humane endpoint determination in rat models with intracranial tumor using body weight course analysis.
 
