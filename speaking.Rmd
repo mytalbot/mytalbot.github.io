@@ -6,6 +6,7 @@ output:
 ---
 
 ## Invited
+**2019** AG Potschka, (Ludwigs-Maximilian University (LMU), Munich): Conquering human bias - Feature selection for severity assessment.
 
 **2019** Institut für Mathematik (Universität Zürich, Zurich): An Example for Computational Methods in the Animal Sciences - Tackling Severity Assessment
 
