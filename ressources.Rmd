@@ -12,7 +12,7 @@ output:
 
 ## R packages
 
-* SAGA (Surrogate Assay for Genotoxicity Assessment)
+* [SAGA (Surrogate Assay for Genotoxicity Assessment)](https://talbotsr.com/saga_package/index.html)
 * [endpointR](https://talbotsr.com/endpointR/index.html)
 * [RELSA (Relative Severity Assessment score)](https://talbotsr.com/RELSA/index.html)
 
