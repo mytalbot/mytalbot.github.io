@@ -9,6 +9,7 @@ output:
 
 * [Tutorial: How to collect and format data](Tutorial_DataCollection.html)
 * [FORm: FOR2591 data collection form](FORm.html)
+* [Severity Assessment (VWR/BWC) - ShinyApp](https://calliope.shinyapps.io/severity_assessment/)
 
 ## R packages
 
