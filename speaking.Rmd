@@ -39,8 +39,9 @@ output:
 **2007** ANGCCP Meeting (Sanitätsakademie der Bundeswehr, München) - Identification and Classification of Pathogens with Raman Spectroscopy
 
 
-
 ## Contributions & Posters
+**2019** Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Isabel Seiffert, Valentina di Liberto, Christina Möller, André Bleich and Heidrun Potschka; Developing composite measure schemes for the assessment of severity in animal models, Vetpharm Symposium Munich.
+
 **2019** Simeon O.A. Helgers, Ann-Kristin Riedesel, Laura Wassermann, Christine Häger, Steven R. Talbot, Joachim K. Krauss, André Bleich, Kerstin Schwabe; Telemetric measures in a rat model with intracranial tumor, FELASA Prague.
 
 **2019** L. Wassermann, Ann-Kristin Riedesel, Simeon Helgers, **Steven R. Talbot**, André Bleich, Kerstin Schwabe, Christine Häger; Experimental procedures and their impact on heart rate and activity in rats, FELASA Prague.
