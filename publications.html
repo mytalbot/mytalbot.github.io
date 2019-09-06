@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -89,7 +90,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -250,48 +250,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -434,6 +395,7 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <div id="publications" class="section level2">
 <h2>Publications</h2>
+<p><strong>Steven R. Talbot</strong>, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branco Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. <em>Laboratory Animals</em>. DOI: 10.1177/0023677219872228.</p>
 <p>Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, <strong>Steven R. Talbot</strong>, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. <em>Laboratory Animals</em>. <a href="https://doi.org/10.1177/0023677219853600" class="uri">https://doi.org/10.1177/0023677219853600</a>.</p>
 <p>Häger C, Keubler LM, <strong>Talbot SR</strong>, Biernot S, Weegh N, et al. (2018) Running in the wheel: Defining individual severity levels in mice. PLOS Biology 16(10): e2006159. <a href="https://doi.org/10.1371/journal.pbio.2006159" class="uri">https://doi.org/10.1371/journal.pbio.2006159</a>.</p>
 <p>Prajeeth CK, Dittrich-Breiholz O, <strong>Talbot SR</strong>, Robert PA, Huehn J and Stangel M (2018) IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. <em>Front. Cell. Neurosci.</em> 12:352. doi: 10.3389/fncel.2018.00352.</p>
@@ -500,6 +462,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
