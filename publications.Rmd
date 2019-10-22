@@ -8,6 +8,8 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
+Anne S Mallien , Christine Häger , Rupert Palme, **Steven R. Talbot** , Miriam A Vogt , Natascha Pfeiffer, Christiane Brandwein, Birgitta Struve, Dragos Inta, Sabine Chourbaji, Rainer Hellweg, Barbara Vollmayr, Andre Bleich and Peter Gass (2019) Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*. DOI: 10.1177/0023677219874831.
+
 **Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. DOI: 10.1177/0023677219872228.
 
 Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, **Steven R. Talbot**, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. *Laboratory Animals*. https://doi.org/10.1177/0023677219853600.  
