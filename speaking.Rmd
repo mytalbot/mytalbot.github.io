@@ -52,6 +52,8 @@ output:
 
 **2019** S. Helgers, **S. R. Talbot**, A. - K. Riedesel, J. K. Krauss, A. Bleich, K. Schwabe; Humane endpoint determination in rat models with intracranial tumor using body weight course analysis.
 
+**2018** Häger, C., L. Keubler, **S. Talbot**, S. Biernot, N. Weegh, M. Büttner, S. Glage, A. Bleich. Severity assessment through classification of wheel wheel-running behaviour in laboratory mice. 56th Annual Meeting of the Society for Animal Laboratory Science (GV-SOLAS), 2018, Munich, Germany
+
 **2018** Leonie Zieglowski, Anna Kümmecke, Mareike Schulz, Lisa Ernst, **Steven Talbot**, René H. Tolba, GV-Solas Munich, Titel: Severity Assessment after visceral surgery in rats. 
 
 **2018** Simone Kumstel, Guanglin Tang, Ahmed Abdelrahman, **Steven Talbot**, Johanna Eichberg, Edgar Wendt, Nico Seume, Kerstin Abshagen, Xianbin Zhang, Andre Bleich, Brigitte Vollmar, Dietmar Zechner; Grading of distress in gastrointestinal animal models.
