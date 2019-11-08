@@ -1,4 +1,4 @@
----
+)--
 output:
   html_document: 
     toc: true
@@ -8,7 +8,8 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
-
+Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, Heidrun Potschka, Birgitta Struve, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger (2019) A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881481.
+ 
 **Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
  
 Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, Birgitta Struve, Christine Häger, André Bleich, Mattea Durst, Paulin Jirkof, Margarete Arras, Roelof Maarten van Dijk, Nina Miljanovic, Heidrun Potschka, Dorit Merhof, Rene H Tolba (2019) Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals*. DOI: https://journals.sagepub.com/doi/full/10.1177/0023677219881664. 
