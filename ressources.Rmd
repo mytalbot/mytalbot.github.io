@@ -8,6 +8,7 @@ output:
 ## Ressources
 
 * [Tutorial: How to collect and format data](Tutorial_DataCollection.html)
+* [Some definitions (statistics)](definitions.html)
 * [FORm: FOR2591 data collection form](FORm.html)
 * [Severity Assessment (VWR/BWC) - ShinyApp](https://calliope.shinyapps.io/severity_assessment/)
 

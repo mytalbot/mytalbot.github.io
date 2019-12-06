@@ -1,0 +1,63 @@
+---
+output:
+  html_document: 
+   toc: true
+   toc_float: true
+---
+  
+## Some (short) statistical definitions
+
+
+### Logistic regression
+LR is a mathematical method to model the probability of a binary dependent variable (alive/dead, pass/fail, male/female) and an independent variable. There are different kinds of LRs, e.g., when there is more than one independent variable LR is called multiple LR. There are also solutions for ordinal variables. The resulting coefficients can be used to calculate the Odds and Odds-ratios of certain events. These probabilities can be optimised, e.g., by using ROC analysis. The so found cut-off values can then be applied to validation or test sets to assess the generalisability of the model. LR can also be used for classification tasks. 
+
+### Support Vector Machine (SVM)
+SVM classification is a supervised learning method using kernel functions for finding solutions for maximum margin data separation. This means, a line or a non-linear separation is mapped to a high dimensional feature space to find solutions where the distances to the kernel function are maximal. The points defining this threshold are called Support Vectors. This approach allows data separation and class attribution even for very complex data structures. Linear classifiers can be represented graphically, e.g., with a hyperplane. Supervised learning needs labelled data. Therefore, all data points in the SVM-training set need a class. One solution to this problem is the k-means algorithm. It uses a heuristic to label data based on their individual distances to a cluster centroid (=mean). The resulting classes can then be used for labelling the data. K-means is an unsupervised technique. A finely trained, optimized, tuned and cross-validated model (to avoid overfitting) can then be used to classify (predict) unknown data. However, test and validation data must not be in the training set under any circumstances. SVMs can also be used for regression tasks.
+
+### Bootstrapping 
+Bootstrapping is a resampling technique. It is based on random resampling with replacements. It allows assigning measures of accuracy to sample estimates (e.g. regression coefficients, 95% confidence intervals, etc). For example, data of 5 mice are randomly sampled (with replacements = same data can be chosen more than once; e.g., data of mouse 1, 2, 2, 2 and 5 can be chosen). This process is repeated, e.g., 10.000-times and the mean of each “sampling” can be put into a histogram in order to visualize the sample distribution (statistic). This can be used, e.g., in calculations to assess how much the mean varies across samples. The advantage of bootstrapping is that it can be applied to samples even though nothing is known about the underlying statistic (distribution).
+
+### Principal Component Analysis (PCA)
+PCA is a method for data reduction that uses an orthogonal transformation of (possibly correlated) data into a set uncorrelated variables called **principal components (PC)**. The transformation is such that the first PC has the largest possible variance (in other words: it accounts for as much of the variance as possible). The next PC is calculated orthogonally to the first etc. The resulting (eigen)vectors are linear combinations of the variables and can be used, e.g., to determine the "direction" of variables. PCA has also some disadvantages (which are commonly ignored):
+
+* It does not reflect collinearity of variables and would in return show something artificial.   
+
+* PCA requires complete data in order to calculate linear combinations. The nature of experimental data does not allow this every time so that PCA is highly unsuited for finding something sensitive as a “best set” of variables.  
+
+* PCA generalizes variable contributions (e.g., over time). With this it is not possible to calculate "best" variables on specific time points. Only the generalized contribution over the whole data set can be shown. In severity assessment this does not necessarily reflect what is going on in the data locally.
+
+### Receiver operating characteristic (ROC curve)
+The ROC curve is a graphical plot that illustrates the diagnostic ability of a binary classifier (e.g., healthy vs diseased). The ROC curve is created by plotting the true positive rate (TPR) against the false positive rate (FPR = 1-specificity) at various cut-off settings. The performance is the diagnostic ability of the entire diagnostic test (not of a specific cut-off) and can be defined by the area under the curve (AUC). If AUC = 1, the test has perfect sensitivity and specificity, if the AUC= 0.5 the test has no diagnostic ability.
+
+### The Youden’s index (J)
+J indicates the performance (diagnostic ability at a certain value = cut-off) by summarizing the specificity and sensitivity for this cut-off. J ranges from 0 through 1. It is 0 when the cut-off is indifferent A value of 1 indicates that there are no false positives or false negatives, thus the cut-off is perfect. The cut-off with the highest Youden’s index is used to define the optimal cut-off for a binary classifier system (healthy or diseased) in form of a trade-off between sensitivity and specificity (since sensitivity and specificity are equally important for calculating the Youden’s index).
+
+J = sensitivity + specificity – 1
+
+### The Cox proportional hazards model (CoxPh)
+The CoxPh evaluates the effect of one or several factors (so-called predictors) on survival. It allows an examination of how specified factors influence the rate of death at a particular point in time. The Cox model is expressed by the hazard function denoted by h(t). Briefly, the hazard function can be interpreted as the risk of dying at time t. It can be estimated as follow:
+
+$$h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})$$
+where,
+•	t represents the survival time
+•	h(t) is the hazard function determined by a set of p covariates (x1,x2,...,xpx1,x2,...,xp)
+•	the coefficients (b1,b2,...,bpb1,b2,...,bp) measure the impact (i.e., the effect size) of covariates.
+•	the term h0 is called the baseline hazard. It corresponds to the value of the hazard if all the xi are equal to zero (the quantity exp(0) equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over time.
+
+The Cox Proportional hazards model calculates the hazard rate.   
+HR = 1: The predictors have no effect  
+HR < 1: The predictors reduce the hazard to die  
+HR > 1: The predictors increase the hazard to die  
+
+The **hazard ratio (HR)** is the ratio of the hazard rates to die when considering two conditions:
+e.g. HR=2 would mean that animals with 10-20% body weight reduction die 2x more likely than animals without body weight reduction.
+
+
+### Harrell’s Concordance index (HC)
+HC measures how well a prediction model discriminates between a binary outcome (e.g., the animal will die or will live within the next time unit). It is a number between 0.5 and 1 (thus very similar to the area under curve when doing ROC analysis): 1 is a perfect prediction. A Harrell’s concordance index of 0.5 means the prediction is as good as random guessing - therefore, the model has no predictive value. 
+
+Harrell’s concordance index is calculated by analyzing pairs of animals: 
+It counts whether the binary outcomes (predictions) of a CoxPh model are similar (concordant) at each time point. Finally, the C-index is the mean value of total concordances over the time of analysis. 
+
+
+

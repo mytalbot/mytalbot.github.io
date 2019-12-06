@@ -8,6 +8,10 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
+Leonardo Silva de Araujo, Marcelo Ribeiro-Alves, Thyago Leal-Calvo, Janaína Leung, Verónica Durán, Mohamed Samir, **Steven Talbot**, Aravind Tallam, Fernanda Carvalho de Queiroz Mello, Robert Geffers, Maria Helena Féres Saad, Frank Pesslera (2019) Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio*. DOI: https://mbio.asm.org/content/10/6/e01037-19
+
+Lydia M Keubler, Nils Hoppe, Heidrun Potschka, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger, and André Bleich (2019) Where are we heading? Challenges in evidence-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219877216.
+
 Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, Heidrun Potschka, Birgitta Struve, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger (2019) A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881481.
  
 **Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
