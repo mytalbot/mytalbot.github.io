@@ -43,9 +43,9 @@ The CoxPh evaluates the effect of one or several factors (so-called predictors) 
 
 $$h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})$$
 where,
-•	t represents the survival time
-•	h(t) is the hazard function determined by a set of p covariates (x1,x2,...,xpx1,x2,...,xp)
-•	the coefficients (b1,b2,...,bpb1,b2,...,bp) measure the impact (i.e., the effect size) of covariates.
+•	t represents the survival time  
+•	h(t) is the hazard function determined by a set of p covariates (x1,x2,...,xpx1,x2,...,xp)  
+•	the coefficients (b1,b2,...,bpb1,b2,...,bp) measure the impact (i.e., the effect size) of covariates.  
 •	the term h0 is called the baseline hazard. It corresponds to the value of the hazard if all the xi are equal to zero (the quantity exp(0) equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over time.
 
 The Cox Proportional hazards model calculates the hazard rate.   

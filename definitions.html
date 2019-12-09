@@ -438,7 +438,10 @@ div.tocify {
 <div id="the-cox-proportional-hazards-model-coxph" class="section level3">
 <h3>The Cox proportional hazards model (CoxPh)</h3>
 <p>The CoxPh evaluates the effect of one or several factors (so-called predictors) on survival. It allows an examination of how specified factors influence the rate of death at a particular point in time. The Cox model is expressed by the hazard function denoted by h(t). Briefly, the hazard function can be interpreted as the risk of dying at time t. It can be estimated as follow:</p>
-<p><span class="math display">\[h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})\]</span> where, • t represents the survival time • h(t) is the hazard function determined by a set of p covariates (x1,x2,…,xpx1,x2,…,xp) • the coefficients (b1,b2,…,bpb1,b2,…,bp) measure the impact (i.e., the effect size) of covariates. • the term h0 is called the baseline hazard. It corresponds to the value of the hazard if all the xi are equal to zero (the quantity exp(0) equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over time.</p>
+<p><span class="math display">\[h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})\]</span> where, • t represents the survival time<br />
+• h(t) is the hazard function determined by a set of p covariates (x1,x2,…,xpx1,x2,…,xp)<br />
+• the coefficients (b1,b2,…,bpb1,b2,…,bp) measure the impact (i.e., the effect size) of covariates.<br />
+• the term h0 is called the baseline hazard. It corresponds to the value of the hazard if all the xi are equal to zero (the quantity exp(0) equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over time.</p>
 <p>The Cox Proportional hazards model calculates the hazard rate.<br />
 HR = 1: The predictors have no effect<br />
 HR &lt; 1: The predictors reduce the hazard to die<br />
