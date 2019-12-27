@@ -60,6 +60,8 @@ output:
 
 **2017** Adrian Schwarzer, **Steven R Talbot**, Juliane W Schott, Anton Selich, Axel Schambach, and Michael Rothe; Molecular immortalization signature of murine HSPC.
 
+**2016** Schwarzer, A., **Talbot, S. R.**, Dittrich-Breiholz, O., Thrasher, A. J., Gaspar, B., Modlich, U., Baum, C., Schambach, A., & Rothe, M. (2016). New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA). *Blood*, 128(22), 4710. 
+
 **2013** Gerhard Sartorius, **S. R. Talbot**; Fast classification process MAE+.
 
 **2009** **Steven R. Talbot**, Heiko Russmann, Thomas Scheper, Medizinische B-Schutztagung, Sanitätsakademie der Bundeswehr; Identification of potential biological warfare agents with Raman spectroscopy.

@@ -8,7 +8,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
-Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in amurine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
+Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
 
 Leonardo Silva de Araujo, Marcelo Ribeiro-Alves, Thyago Leal-Calvo, Janaína Leung, Verónica Durán, Mohamed Samir, **Steven Talbot**, Aravind Tallam, Fernanda Carvalho de Queiroz Mello, Robert Geffers, Maria Helena Féres Saad, Frank Pesslera (2019) Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio*. DOI: https://mbio.asm.org/content/10/6/e01037-19.
 
@@ -20,13 +20,13 @@ Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, He
  
 Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, Birgitta Struve, Christine Häger, André Bleich, Mattea Durst, Paulin Jirkof, Margarete Arras, Roelof Maarten van Dijk, Nina Miljanovic, Heidrun Potschka, Dorit Merhof, Rene H Tolba (2019) Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals*. DOI: https://journals.sagepub.com/doi/full/10.1177/0023677219881664. 
 
-Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, L Zieglowski, M Meyer, S Bruch, Dorit Merhof, Rene H Tolba (2019) Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). DOI: https://doi.org/10.1177/0023677219881655.
+Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, L Zieglowski, M Meyer, S Bruch, Dorit Merhof, Rene H Tolba (2019) Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881655.
 
 Cathalijn H.C. Leenaars, Stevie van der Mierden, Mattea Durst, Vivian C Goerlich-Jansson, Florenza Lüder Ripoli, Lydia M Keubler, **Steven R Talbot**, Erin Boyle, Anne Habedank, Paulin Jirkof, Lars Lewejohann, Peter Gass, René Tolba, André Bleich (2019) Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219868499
 
-Anne S Mallien , Christine Häger , Rupert Palme, **Steven R. Talbot** , Miriam A Vogt , Natascha Pfeiffer, Christiane Brandwein, Birgitta Struve, Dragos Inta, Sabine Chourbaji, Rainer Hellweg, Barbara Vollmayr, Andre Bleich and Peter Gass (2019) Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*. DOI: 10.1177/0023677219874831.
+Anne S Mallien , Christine Häger , Rupert Palme, **Steven R. Talbot** , Miriam A Vogt , Natascha Pfeiffer, Christiane Brandwein, Birgitta Struve, Dragos Inta, Sabine Chourbaji, Rainer Hellweg, Barbara Vollmayr, Andre Bleich and Peter Gass (2019) Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219874831.
 
-**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. DOI: 10.1177/0023677219872228.
+**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. https://doi.org/10.1177/0023677219872228
 
 Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, **Steven R. Talbot**, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. *Laboratory Animals*. https://doi.org/10.1177/0023677219853600.  
 
@@ -37,8 +37,6 @@ Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel 
 Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.  
 
 Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
-
-Schwarzer, A., **Talbot, S. R.**, Dittrich-Breiholz, O., Thrasher, A. J., Gaspar, B., Modlich, U., Baum, C., Schambach, A., & Rothe, M. (2016). New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA). *Blood*, 128(22), 4710. 
 
 C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.  
 
