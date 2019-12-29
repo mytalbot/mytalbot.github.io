@@ -5,9 +5,9 @@ output:
     toc_float: true
 ---
   
-I’d love to hear from you, so feel free to reach out:
+Feel free to reach out:
 
-**Dr. rer. nat. Steven R. Talbot**
+**Dr. rer. nat. Steven R. Talbot**  
 Data Scientist  
 Laboratory Animal Science  
 Medizinische Hochschule Hannover  
