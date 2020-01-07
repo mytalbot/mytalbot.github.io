@@ -51,6 +51,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 **Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.  
 
 ## Book contributions
+Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structures. Autonomous Systems 2019: An Almanac, Herwig Unger (Ed.), Pages 159-169, VDI-Verlag GmbH, Düsseldorf.  
+
 **Steven R. Talbot**, Pschyrembel (Klinisches Wörterbuch) - Medizinische Statistik und Studiendesign, 2018.  
 
 ## Patent
