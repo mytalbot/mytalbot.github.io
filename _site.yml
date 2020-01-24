@@ -21,7 +21,7 @@ navbar:
    - icon: fa-github fa-lg
      href: https://github.com/mytalbot
    - icon: fab fa-researchgate
-     href: https://www.researchgate.net/profile/Steven_Talbot2  
+     href: https://www.researchgate.net/profile/Steven_Talbot2
    - text: "Imprint"
      href: impressum.html
 output:
