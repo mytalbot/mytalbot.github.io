@@ -11,7 +11,7 @@
 
 I like data. I really do!  
 
-Solving the mysteries of hidden knowledge in heaps of data have become my passion the very moment I have initiated myself into Machine Learning during my dissertation over 13 years ago. 
+Solving the mysteries of hidden knowledge in heaps of data have become my passion the very moment I have initiated myself into Machine Learning / Artificial Intelligence during my dissertation over 13 years ago. 
 
 Currently I'm working as a **Data Scientist** at the Institute for [Laboratory Animal Science](https://www.mh-hannover.de/index.php?id=219&L=1) at the [Hannover Medical School (Germany)](https://www.mh-hannover.de/index.php?&L=1). My focus lies on the development of mathematical models for [severity assessment in laboratory animals](https://severity-assessment.de/) as well as in contributing to the 3R principle via the [R2N](https://r2n.eu/) network with my computational expertise.  
 

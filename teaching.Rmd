@@ -6,15 +6,15 @@ output:
 ---
 
 ## Teaching
-I'm offering various courses in and around Statistics/Design of Experiments and Bioinformatics. If you are interested in a custom course, please feel free to write me an email. At the moment, I'm happy addressing roughly the following topics:
+I'm offering various courses in and around Statistics/Design of Experiments and Artificial Intelligence (AI). If you are interested in a custom course, please feel free to write me an email. At the moment, I will address roughly the following topics:
 
 * Basic statistics
 * Basic R course
-* Basic Machine Learning
+* Basic Machine Learning / AI
 * Basic GraphPad Prism
 * When to use which statistical test?
 * Power analysis & sample size calculation
-* Linear & non-linear analyses
+* Linear & non-linear analyses / Classification
 * And whatever else you can come up with around the listed topics...
 
 For keeping things simple, in most statistics courses GraphPad Prism is used. However, you'll probably need a valid software licence for that. There is a 30 day trial version on their website... 
