@@ -8,6 +8,8 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
+Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. Laboratory Animals, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
+
 Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
 
 Leonardo Silva de Araujo, Marcelo Ribeiro-Alves, Thyago Leal-Calvo, Janaína Leung, Verónica Durán, Mohamed Samir, **Steven Talbot**, Aravind Tallam, Fernanda Carvalho de Queiroz Mello, Robert Geffers, Maria Helena Féres Saad, Frank Pesslera (2019) Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio*. DOI: https://mbio.asm.org/content/10/6/e01037-19.
