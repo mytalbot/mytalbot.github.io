@@ -8,6 +8,8 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
+Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. Laboratory Animals. https://doi.org/10.1177/0023677220911680.
+
 Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14338.
 
 Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. Laboratory Animals, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
