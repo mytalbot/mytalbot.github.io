@@ -71,6 +71,7 @@ W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Dete
 Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany every experimental application using animals is required to provide a proper power analysis. Most of the following titles are therefore in German.
 
 #### Selected projects
+**2020** Eine lentivirale Vektor-Toolbox zur Erleichterung der HLA-Anpassung und Optimierung der adaptiven menschlichen Immunantwort bei humanisierten Mäusen (MHH)
 
 **2019** Evidenz-basierte Untersuchung von Refinement-Maßnahmen in Tiermodellen der neurowissenschaftlichen Forschung (LMU München)
 
