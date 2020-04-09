@@ -8,6 +8,20 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
+
+### First or last authorship 
+**Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
+
+**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. https://doi.org/10.1177/0023677219872228
+
+**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000137.  
+
+Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000136.  
+
+**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.  
+
+
+### Co-authorships 
 Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. Laboratory Animals. https://doi.org/10.1177/0023677220911680.
 
 Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14338.
@@ -22,15 +36,11 @@ Lydia M Keubler, Nils Hoppe, Heidrun Potschka, **Steven R Talbot**, Brigitte Vol
 
 Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, Heidrun Potschka, Birgitta Struve, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger (2019) A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881481.
  
-**Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
- 
 Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, Birgitta Struve, Christine Häger, André Bleich, Mattea Durst, Paulin Jirkof, Margarete Arras, Roelof Maarten van Dijk, Nina Miljanovic, Heidrun Potschka, Dorit Merhof, Rene H Tolba (2019) Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals*. DOI: https://journals.sagepub.com/doi/full/10.1177/0023677219881664. 
 
 Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, L Zieglowski, M Meyer, S Bruch, Dorit Merhof, Rene H Tolba (2019) Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881655.
 
 Cathalijn H.C. Leenaars, Stevie van der Mierden, Mattea Durst, Vivian C Goerlich-Jansson, Florenza Lüder Ripoli, Lydia M Keubler, **Steven R Talbot**, Erin Boyle, Anne Habedank, Paulin Jirkof, Lars Lewejohann, Peter Gass, René Tolba, André Bleich (2019) Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219868499
-
-**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. https://doi.org/10.1177/0023677219872228
 
 Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, **Steven R. Talbot**, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. *Laboratory Animals*. https://doi.org/10.1177/0023677219853600.  
 
@@ -48,12 +58,6 @@ Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus K
 
 G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
 
-**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000137.  
- 
-Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000136.  
-
-**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.  
-
 ## Book contributions
 Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structures. Autonomous Systems 2019: An Almanac, Herwig Unger (Ed.), Pages 159-169, VDI-Verlag GmbH, Düsseldorf.  
 
@@ -61,8 +65,6 @@ Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structure
 
 ## Patent
 W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Detektion von Kampfstoffen. *German patent*, DE 10 2008 054 345 A1, 2010.05.20, 2010.
-
-
 
 ## Reports & Power Analysis
 
