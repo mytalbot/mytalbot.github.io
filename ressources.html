@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>ressources.utf8.md</title>
+<title>ressources.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -239,6 +238,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -267,6 +267,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -417,6 +423,7 @@ div.tocify {
 <div id="r-packages" class="section level2">
 <h2>R packages</h2>
 <ul>
+<li><a href="https://talbotsr.com/tiefightR/">tiefightR</a></li>
 <li><a href="https://talbotsr.com/saga_package/index.html">SAGA (Surrogate Assay for Genotoxicity Assessment)</a></li>
 <li><a href="https://talbotsr.com/endpointR/index.html">endpointR</a></li>
 <li><a href="https://talbotsr.com/cms/index.html">cms (Composite Measures Schemes)</a></li>

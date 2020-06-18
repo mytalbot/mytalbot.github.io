@@ -14,6 +14,7 @@ output:
 
 ## R packages
 
+* [tiefightR](https://talbotsr.com/tiefightR/)
 * [SAGA (Surrogate Assay for Genotoxicity Assessment)](https://talbotsr.com/saga_package/index.html)
 * [endpointR](https://talbotsr.com/endpointR/index.html)
 * [cms (Composite Measures Schemes)](https://talbotsr.com/cms/index.html)
