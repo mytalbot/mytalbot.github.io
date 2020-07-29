@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>Tutorial_DataCollection.utf8.md</title>
+<title>Tutorial_DataCollection.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -239,6 +238,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -267,6 +267,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -763,7 +769,7 @@ div.tocify {
 <li>Capital letters may be used but may not necessarily lead to different names. Be careful here!</li>
 </ul>
 <p><strong>Good names</strong>: ID, Id, index, PatNo, group, sex, measure_1, measure_2<br />
-<strong>Bad names</strong>: 1.measurement, weight(kg), PatNo.</p>
+<strong>Bad names</strong>: 1.measurement, weight(kg), PatNo_0n.</p>
 <p>Variable names should give a good indication of what they are coding. At the beginning of each experiment, it may be a good idea to define variables and document them in a data dictionary. Along with a short explanation, a data dictionary also explains possible coding (such as 0 = male, 1=female) and data types (ordinal, nominal, metric). You may abbreviate longer names, but it must be either clear from the context for what they stand for or they should be defined in the data dictionary.</p>
 </div>
 <div id="rules-for-patientanimal-data-entry" class="section level2">

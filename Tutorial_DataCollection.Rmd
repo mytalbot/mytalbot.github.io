@@ -97,7 +97,7 @@ Variable names should follow standard rules of informatics. Try to obey the foll
 * Capital letters may be used but may not necessarily lead to different names. Be careful here!
 
 **Good names**: ID, Id, index, PatNo, group, sex, measure_1, measure_2  
-**Bad names**:  1.measurement, weight(kg), PatNo.
+**Bad names**:  1.measurement, weight(kg), PatNo_0n.
 
 Variable names should give a good indication of what they are coding. At the beginning of each experiment, it may be a good idea to define variables and document them in a data dictionary. Along with a short explanation, a data dictionary also explains possible coding (such as 0 = male, 1=female) and data types (ordinal, nominal, metric). You may abbreviate longer names, but it must be either clear from the context for what they stand for or they should be defined in the data dictionary.
 
