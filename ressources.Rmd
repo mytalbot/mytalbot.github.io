@@ -14,10 +14,12 @@ output:
 
 ## R packages
 
-* [tiefightR](https://talbotsr.com/tiefightR/)
-* [SAGA (Surrogate Assay for Genotoxicity Assessment)](https://talbotsr.com/saga_package/index.html)
+* [RELSA (Relative Severity Assessment)](https://talbotsr.com/relsa/index.html)
 * [endpointR](https://talbotsr.com/endpointR/index.html)
 * [cms (Composite Measures Schemes)](https://talbotsr.com/cms/index.html)
+* [tiefightR](https://talbotsr.com/tiefightR/)
+* [SAGA (Surrogate Assay for Genotoxicity Assessment)](https://talbotsr.com/saga_package/index.html)
+
  
 
 ## Data sets
