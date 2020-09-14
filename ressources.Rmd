@@ -14,7 +14,7 @@ output:
 
 ## R packages
 
-* [RELSA (Relative Severity Assessment)](https://talbotsr.com/relsa/index.html)
+* [RELSA (Relative Severity Assessment)](https://talbotsr.com/RELSA/index.html)
 * [endpointR](https://talbotsr.com/endpointR/index.html)
 * [cms (Composite Measures Schemes)](https://talbotsr.com/cms/index.html)
 * [tiefightR](https://talbotsr.com/tiefightR/)
