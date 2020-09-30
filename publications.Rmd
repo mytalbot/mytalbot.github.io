@@ -26,6 +26,9 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+
+Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. Sci Rep 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
+
 Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. Laboratory Animals. https://doi.org/10.1177/0023677220911680.
 
 Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14338.
@@ -62,6 +65,11 @@ Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus K
 
 G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
 
+### Preprints
+
+**Steven R. Talbot**, Birgitta Struve, Laura Wassermann, Miriam Heider, Nora Weegh, Tilo Knape, Martine C. J. Hofmann, Andreas von Knethen, Paulin Jirkof, Lydia Keubler, André Bleich, Christine Häger. One score to rule them all: severity assessment in laboratory mice. bioRxiv **2020**.06.23.166801; doi: https://doi.org/10.1101/2020.06.23.166801.
+
+
 ## Book contributions
 Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structures. Autonomous Systems 2019: An Almanac, Herwig Unger (Ed.), Pages 159-169, VDI-Verlag GmbH, Düsseldorf.  
 
@@ -72,9 +80,12 @@ W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Dete
 
 ## Reports & Power Analysis
 
-Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany every experimental application using animals is required to provide a proper power analysis. Most of the following titles are therefore in German.
+Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
 #### Selected projects
+
+**2020** Verbesserung der Flüssigkeitsresorption und der Entzündung im Dickdarm von SLC26a3-defizienten Mäusen durch kurzkettige Fettsäuren (MHH)
+
 **2020** Verwendung von Multiplexing-Assays zur Chrakterisierung der Stammzellnische in einem akuten myeloischen Leukämiemodell (MHH)
 
 **2020** Charakterisierung von AAV-Kapsidvarianten für die Leber-gerichtete in vivo-Gentherapie (MHH)

@@ -10,16 +10,17 @@ output:
 * [Tutorial: How to collect and format data](Tutorial_DataCollection.html)
 * [Some definitions (statistics)](definitions.html)
 * [FORm: FOR2591 data collection form](FORm.html)
-* [Severity Assessment (VWR/BWC) - ShinyApp](https://calliope.shinyapps.io/severity_assessment/)
 
 ## R packages
 
 * [RELSA (Relative Severity Assessment)](https://talbotsr.com/RELSA/index.html)
 * [endpointR](https://talbotsr.com/endpointR/index.html)
 * [cms (Composite Measures Schemes)](https://talbotsr.com/cms/index.html)
-* [tiefightR](https://talbotsr.com/tiefightR/)
 * [SAGA (Surrogate Assay for Genotoxicity Assessment)](https://talbotsr.com/saga_package/index.html)
 
+# Shiny Apps
+* [Severity Assessment (VWR/BWC) - ShinyApp](https://calliope.shinyapps.io/severity_assessment/)
+* [endpointR - ShinyApp](https://calliope.shinyapps.io/endpointer/)
  
 
 ## Data sets
