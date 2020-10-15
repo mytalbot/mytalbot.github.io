@@ -27,6 +27,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 ### Co-authorships 
 
+van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H. and Bleich, A. . (2020) “Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database”, ALTEX - Alternatives to animal experimentation, 00. doi: 10.14573/altex.2004221.
+
 Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. Sci Rep 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
 
 Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. Laboratory Animals. https://doi.org/10.1177/0023677220911680.
