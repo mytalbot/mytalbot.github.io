@@ -23,5 +23,8 @@ output:
 * [endpointR - ShinyApp](https://calliope.shinyapps.io/endpointer/)
  
 
-## Data sets
+## Raw data
 * [Body weight/wheel running data](https://talbotsr.com/content/Haeger_2019.txt) from [Häger et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006159)
+
+* [RELSA post-OP TM data](https://github.com/mytalbot/RELSA/blob/master/raw_data/tm_post-op.txt)
+
