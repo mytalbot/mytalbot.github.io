@@ -10,9 +10,9 @@ output:
 ## Publications
 
 ### First or last authorship 
-Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. Sci Rep 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
+Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Sci Rep* 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
 
-Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. "PLOS One". DOI: https://doi.org/10.1371/journal.pone.0230141.
+Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS One*. DOI: https://doi.org/10.1371/journal.pone.0230141.
 
 **Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
 
@@ -26,16 +26,19 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Guanglin Tang, Nico Seume, Christine Häger, Simone Kumstel, Kerstin Abshagen, André Bleich, Brigitte Vollmar, **Steven R. Talbot**, Xianbin Zhang & Dietmar Zechner; (2020). Comparing distress of mouse models for liver damage. *Sci Rep* 10, 19814. https://doi.org/10.1038/s41598-020-76391-w. 
 
-van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H. and Bleich, A. . (2020) “Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database”, ALTEX - Alternatives to animal experimentation, 00. doi: 10.14573/altex.2004221.
+Veronica Begni, Alice Sanson, Natascha Pfeiffer, Christiane Brandwein, Dragos Inta, **Steven R. Talbot**, Marco Andrea Riva, Peter Gass, Anne Stephanie Mallien; (2020). Social isolation in rats: Effects on animal welfare and molecular markers for neuroplasticity. *PLOS ONE*,  https://doi.org/10.1371/journal.pone.0240439. 
 
-Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. Sci Rep 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
+van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H. and Bleich, A. (2020) “Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database”, *ALTEX - Alternatives to animal experimentation*, https://doi.org/10.14573/altex.2004221.
 
-Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. Laboratory Animals. https://doi.org/10.1177/0023677220911680.
+Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. *Sci Rep* 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
 
-Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14338.
+Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. *Laboratory Animals*. https://doi.org/10.1177/0023677220911680.
 
-Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. Laboratory Animals, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
+Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. *Annals of the New York Academy of Sciences*. https://doi.org/10.1111/nyas.14338.
+
+Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
 
 Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
 
