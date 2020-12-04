@@ -6,6 +6,8 @@ output:
 ---
 
 ## Invited
+**2020** 58. Wissenschaftliche Tagung der Gesellschaft für Versuchstierkunde GV-SOLAS und 19. Fortbildungsveranstaltung der IGTP. Neue Strategien für das Composite Scoring zur Belastungsbewertung in der Versuchstierkunde (Online Workshop).
+
 **2019** Bundesinstitut für Risikobewertung (BfR, Berlin): Quantitative Charakterisierung der Belastung von Versuchstieren (48. Seminar über Versuchstiere und Tierversuche der GV-SOLAS).
 
 **2019** Institute of Pharmacology, Toxicology & Pharmacy (Ludwig-Maximilians-University (LMU), Munich): Conquering human bias - Feature selection for severity assessment. 

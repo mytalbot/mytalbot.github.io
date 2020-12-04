@@ -83,7 +83,7 @@ Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structure
 ## Patent
 W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Detektion von Kampfstoffen. *German patent*, DE 10 2008 054 345 A1, 2010.05.20, 2010.
 
-## Reports & Power Analysis
+## Reports & Power Analyses
 
 Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
