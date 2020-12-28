@@ -26,6 +26,10 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
+
+Wassermann Laura, Helgers Simeon O. A., Riedesel Ann-Kristin, **Talbot Steven R.**, Bleich André, Schwabe Kerstin, Häger Christine; (2020). Monitoring of Heart Rate and Activity Using Telemetry Allows Grading of Experimental Procedures Used in Neuroscientific Rat Models. *Frontiers in Neuroscience*, 14:587760. https://www.frontiersin.org/articles/10.3389/fnins.2020.587760/full.
+
 Qinghai Tan,  Gabriella di Stefano,  Xinjie Tan,  Xiu Renjie,  Dorothee Römermann,  **Steven R. Talbot**,  Ursula E. Seidler; (2020). Linaclotide, lubiprostone and tenapanor improve gut fluidity and alkalinity in CFTR‐deficient and F508del mutant mice via NHE3 inhibition. *British Journal of Pharmacology*. https://doi.org/10.1111/bph.15323.
 
 Guanglin Tang, Nico Seume, Christine Häger, Simone Kumstel, Kerstin Abshagen, André Bleich, Brigitte Vollmar, **Steven R. Talbot**, Xianbin Zhang & Dietmar Zechner; (2020). Comparing distress of mouse models for liver damage. *Sci Rep* 10, 19814. https://doi.org/10.1038/s41598-020-76391-w. 
