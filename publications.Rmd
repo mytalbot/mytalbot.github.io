@@ -26,7 +26,9 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
-Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
+Lena Boldt, Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Nina Miljanovic, Rupert Palme, André Bleich, Heidrun Potschka; (2021). Toward evidence-based severity assessment in mouse models with repeated seizures: I. Electrical kindling. **Epilepsy & Behavior** 115. https://doi.org/10.1016/j.yebeh.2020.107689.
+
+Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; (2020). Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
 
 Wassermann Laura, Helgers Simeon O. A., Riedesel Ann-Kristin, **Talbot Steven R.**, Bleich André, Schwabe Kerstin, Häger Christine; (2020). Monitoring of Heart Rate and Activity Using Telemetry Allows Grading of Experimental Procedures Used in Neuroscientific Rat Models. *Frontiers in Neuroscience*, 14:587760. https://www.frontiersin.org/articles/10.3389/fnins.2020.587760/full.
 
