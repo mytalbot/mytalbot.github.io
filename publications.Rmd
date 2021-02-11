@@ -26,6 +26,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+S. Van der Mierden, L. M. Spineli, **S. R. Talbot**, Ch. Yiannakou, E. Zentrich, N. Weegh, B. Struve, T. Zur Brügge, A. Bleich, C. Leenaars; (2021). Extracting data from graphs: a case‐study on animal research with implications for meta‐analyses. **Research Synthesis Methods**. https://doi.org/10.1002/jrsm.1481. 
+
 Lena Boldt, Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Nina Miljanovic, Rupert Palme, André Bleich, Heidrun Potschka; (2021). Toward evidence-based severity assessment in mouse models with repeated seizures: I. Electrical kindling. **Epilepsy & Behavior** 115. https://doi.org/10.1016/j.yebeh.2020.107689.
 
 Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; (2020). Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
