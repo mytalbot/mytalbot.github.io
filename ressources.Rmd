@@ -1,4 +1,5 @@
 ---
+pagetitle: "Ressources"
 output:
   html_document: 
     toc: true

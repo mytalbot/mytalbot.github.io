@@ -1,4 +1,5 @@
 ---
+pagetitle: "Teaching"
 output:
   html_document: 
     toc: true

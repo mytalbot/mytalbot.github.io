@@ -1,4 +1,5 @@
 ---
+pagetitle: "Tutorial_DataCollection"
 output:
   html_document: 
     toc: true
