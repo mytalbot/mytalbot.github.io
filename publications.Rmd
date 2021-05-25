@@ -27,7 +27,7 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
-Mattea S. Durst, Margarete Arras, Rupert Palme, **Steven R. Talbot** & Paulin Jirkof. Lidocaine and bupivacaine as part of multimodal pain management in a C57BL/6J laparotomy mouse model. **Sci Rep 11**, 10918 (2021).
+Mattea S. Durst, Margarete Arras, Rupert Palme, **Steven R. Talbot** & Paulin Jirkof. Lidocaine and bupivacaine as part of multimodal pain management in a C57BL/6J laparotomy mouse model. **Sci Rep 11**, 10918 (2021). https://doi.org/10.1038/s41598-021-90331-2. 
 
 Julia K. Bialek-Waldmann, (...), **Steven R. Talbot**, Andre Bleich, Loukia M. Spineli, (...), Renata Stripecke; (2021). Induced Dendritic Cells Co-expressing GM-CSF/ IFN-α/ tWT1 Priming T and B cells and Automated Manufacturing to Boost GvL. **Molecular Therapy**. DOI: 10.1016/j.omtm.2021.04.004.
 
