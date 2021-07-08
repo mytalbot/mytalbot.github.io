@@ -7,6 +7,8 @@ output:
 ---
 
 ## Invited
+**2021** DECIDE Statistics Consensus Workshop: Towards best practice in preclinical confirmatory animal research.
+
 **2021** 3R-Webninar (Berlin). The severity of "stress" in animal models: science & technologies - 3R-supporting approaches improving the validity of biomedical studies: The RELSA Algorithm: Approaching the Comparative Quantification of Severity in Laboratory Animals.
 
 **2021** 27. Essener Informationstreffen für Tierschutzbeauftragte, Tierexperimentatoren und mit Tierversuchen befasste Behördenvertreter (Online Tagung): Künstliche Intelligenz - Zukunft und Chancen.
@@ -49,6 +51,13 @@ output:
 
 
 ## Contributions & Posters
+
+**2021** Eva Zentrich, **Steven R. Talbot**, Andre Bleich, Christine Häger. Digital Ventilated Cage (DVC®) System – A useful tool for severity assessment in mice in an acute DSS-induced colitis model? 59. GV-SOLAS und 20. IGTP.
+
+**2021** T. Schmidt, S. Meller, **S.R. Talbot**, B.A. Berk, T.H. Law, S.L. Hobbs, R.M.A. Packer, H.A. Volk. URINARY NEUROTRANSMITTER PATTERNS ARE ALTERED IN CANINE EPILEPSY. ESVN symposium 2021.
+
+**2021** T. Schmidt1, S. Meller, R.M.A. Packer, **S.R. Talbot**, H.A. Volk. Urinary neurotransmitter analysis in canine behavioural disorders. Journal of Veterinary Internal Medicine (JVIM); ACVIM (American College of Veterinary Internal Medicine).
+
 **2019** Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Isabel Seiffert, Valentina di Liberto, Christina Möller, André Bleich and Heidrun Potschka; Developing composite measure schemes for the assessment of severity in animal models, Vetpharm Symposium Munich.
 
 **2019** Simeon O.A. Helgers, Ann-Kristin Riedesel, Laura Wassermann, Christine Häger, Steven R. Talbot, Joachim K. Krauss, André Bleich, Kerstin Schwabe; Telemetric measures in a rat model with intracranial tumor, FELASA Prague.
