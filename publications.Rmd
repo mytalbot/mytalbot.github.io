@@ -11,6 +11,9 @@ output:
 ## Publications
 
 ### First or last authorship 
+Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, *Molecular Therapy*, 2021,
+ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
+
 Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Sci Rep* 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
 
 Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS One*. DOI: https://doi.org/10.1371/journal.pone.0230141.
