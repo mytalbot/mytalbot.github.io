@@ -110,6 +110,11 @@ W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Dete
 Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
 #### Selected projects
+**2021** Präklinische Prüfung gen-editierter CAR-T-Zellen gegen EBV+ -Tumoren (MHH)
+
+**2021** Tierexperimentelle Untersuchungen zur Behandlung von NASH und NASH induzierter Leberfibrose/Leberzirrhose sowie zur Prävention von NASH/DEN bzw. onkogen induzierter induzierter Karzinomentwicklung durch Lipidnanopartikel- und AAV vermittelte Expression von kodonoptimierter HNF-4 alpha mRNA (TWINCORE, MHH)
+
+**2021** Charakterisierung von Kandidatengenen und Einfluss auf das Differenzierungsverhalten von leukämischen Stammzellpopulationen (MHH)
 
 **2020** Verbesserung der Flüssigkeitsresorption und der Entzündung im Dickdarm von SLC26a3-defizienten Mäusen durch kurzkettige Fettsäuren (MHH)
 
