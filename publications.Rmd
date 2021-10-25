@@ -30,6 +30,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Zentrich E, **Talbot SR**, Bleich A and Häger C (2021) Automated Home-Cage Monitoring During Acute Experimental Colitis in Mice. **Front. Neurosci.**. 2021; 15:760606. https://doi.org/10.3389/fnins.2021.760606.
+
 Kumar S, Koenig J, Schneider A, Wermeling F, Boddul S, Theobald SJ, Vollmer M, Kloos D, Lachmann N, Klawonn F, Lienenklaus S, **Talbot SR**, Bleich A, Wenzel N, von Kaisenberg C, Keck J, Stripecke R. In Vivo Lentiviral Gene Delivery of HLA-DR and Vaccination of Humanized Mice for Improving the Human T and B Cell Immune Reconstitution. **Biomedicines**. 2021; 9(8):961. https://doi.org/10.3390/biomedicines9080961
 
 Zieglowski L, Kümmecke AM, Ernst L, Palme R, Weiskirchen R, **Talbot SR**, et al. (2021) Assessing the severity of laparotomy and partial hepatectomy in male rats—A multimodal approach. **PLoS ONE** 16(8): e0255175. https://doi.org/10.1371/journal.pone.0255175. 
