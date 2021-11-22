@@ -30,6 +30,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Durst M, Graf TR, Graf R, Kron M, Arras M, Zechner D, Palme R, **Talbot SR** and Jirkof P (2021) Analysis of Pain and Analgesia Protocols in Acute Cerulein-Induced Pancreatitis in Male C57BL/6 Mice. **Front. Physiol.** 12:744638. doi: https://doi.org/10.3389/fphys.2021.744638.
+
 Min Yang, Zengkai Pan, Kezhi Huang, Guntram Büsche, Hongyun Liu, Gudrun Göhring, Regina Rumpel, Oliver Dittrich-Breiholz, **Steven Talbot**, Michaela Scherr, Anuhar Chaturvedi, Matthias Eder, Julia Skokowa, Jianfeng Zhou, Karl Welte, Nils von Neuhoff, Ligen Liu, Arnold Ganser & Zhixiong Li. A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. **Leukemia** (2021). https://doi.org/10.1038/s41375-021-01452-6.
 
 Zentrich E, **Talbot SR**, Bleich A and Häger C (2021) Automated Home-Cage Monitoring During Acute Experimental Colitis in Mice. **Front. Neurosci.**. 2021; 15:760606. https://doi.org/10.3389/fnins.2021.760606.
