@@ -101,6 +101,7 @@ Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus K
 G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
 
 ### Preprints
+Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, Ulrike Heinicke; Plasma RIPK3 And HMGB1 Predict Severe COVID-19 Progression In ICU Patients: A Single-Center Cohort Study, researchsquare.com **2021**. doi: https://doi.org/10.21203/rs.3.rs-1064345/v1.
 
 **Steven R. Talbot**, Birgitta Struve, Laura Wassermann, Miriam Heider, Nora Weegh, Tilo Knape, Martine C. J. Hofmann, Andreas von Knethen, Paulin Jirkof, Lydia Keubler, André Bleich, Christine Häger. One score to rule them all: severity assessment in laboratory mice. bioRxiv **2020**.06.23.166801; doi: https://doi.org/10.1101/2020.06.23.166801.
 
