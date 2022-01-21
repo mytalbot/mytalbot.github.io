@@ -30,6 +30,10 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Meumann N, Schmithals C, Elenschneider L, Hansen T, Balakrishnan A, Hu Q, Hook S, Schmitz J, Bräsen JH, Franke A-C, Olarewaju O, Brandenberger C, **Talbot SR**, Fangmann J, Hacker UT, Odenthal M, Ott M, Piiper A, Büning H. Hepatocellular Carcinoma Is a Natural Target for Adeno-Associated Virus (AAV) 2 Vectors. **Cancers**. 2022; 14(2):427. https://doi.org/10.3390/cancers14020427
+
+Weegh N, Zentrich E, Zechner D, Struve B, Wassermann L, **Talbot SR**, et al. (2021) Voluntary wheel running behaviour as a tool to assess the severity in a mouse pancreatic cancer model. **PLoS ONE** 16(12): e0261662. https://doi.org/10.1371/journal.pone.0261662
+
 Durst M, Graf TR, Graf R, Kron M, Arras M, Zechner D, Palme R, **Talbot SR** and Jirkof P (2021) Analysis of Pain and Analgesia Protocols in Acute Cerulein-Induced Pancreatitis in Male C57BL/6 Mice. **Front. Physiol.** 12:744638. doi: https://doi.org/10.3389/fphys.2021.744638.
 
 Min Yang, Zengkai Pan, Kezhi Huang, Guntram Büsche, Hongyun Liu, Gudrun Göhring, Regina Rumpel, Oliver Dittrich-Breiholz, **Steven Talbot**, Michaela Scherr, Anuhar Chaturvedi, Matthias Eder, Julia Skokowa, Jianfeng Zhou, Karl Welte, Nils von Neuhoff, Ligen Liu, Arnold Ganser & Zhixiong Li. A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. **Leukemia** (2021). https://doi.org/10.1038/s41375-021-01452-6.
@@ -121,9 +125,13 @@ W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Dete
 Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
 #### Selected projects
+**2022** Testung von pharmakologischen Formulierungen und Applikationswegen eines neuartigen antiviralen Wirkprinzips zur Prophylaxe und Therapie von SARS-CoV-2 Infektionen im Mausmodell (TWINCORE, Hannover)
+
+**2022** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien – Teil 2 (LMU)
+
 **2021** Präklinische Prüfung gen-editierter CAR-T-Zellen gegen EBV+ -Tumoren (MHH)
 
-**2021** Tierexperimentelle Untersuchungen zur Behandlung von NASH und NASH induzierter Leberfibrose/Leberzirrhose sowie zur Prävention von NASH/DEN bzw. onkogen induzierter induzierter Karzinomentwicklung durch Lipidnanopartikel- und AAV vermittelte Expression von kodonoptimierter HNF-4 alpha mRNA (TWINCORE, MHH)
+**2021** Tierexperimentelle Untersuchungen zur Behandlung von NASH und NASH induzierter Leberfibrose/Leberzirrhose sowie zur Prävention von NASH/DEN bzw. onkogen induzierter induzierter Karzinomentwicklung durch Lipidnanopartikel- und AAV vermittelte Expression von kodonoptimierter HNF-4 alpha mRNA (TWINCORE, MHH, Hannover)
 
 **2021** Charakterisierung von Kandidatengenen und Einfluss auf das Differenzierungsverhalten von leukämischen Stammzellpopulationen (MHH)
 
