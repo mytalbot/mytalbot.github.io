@@ -30,6 +30,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs SL, Meyerhoff N, Packer RMA and Volk HA (2022) Urinary Neurotransmitter Patterns Are Altered in Canine Epilepsy. **Front. Vet. Sci**. 9:893013. doi: 10.3389/fvets.2022.893013
+
 Nicole Brüder, Jan T Kielstein, Luca-Marie Heinze, Catherina Lück, Victoria Panagiota, Elke Dammann, Sophia Köhler, **Steven Talbot**, Michael Stadler, Michael Heuser, Arnold Ganser, Matthias Eder, Gernot Beutel, MO343: Deep Analysis of The AKI—CKD in Allogeneic Stem Cell Transplantation—A Big Data Approach, **Nephrology Dialysis Transplantation**, Volume 37, Issue Supplement_3, May 2022, gfac068.053, https://doi.org/10.1093/ndt/gfac068.053
 
 Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, and Ulrike Heinicke. Persistently Elevated Plasma Levels of RIPK3, MLKL, HMGB1, and RIPK1 in COVID-19 ICU Patients. **American Journal of Respiratory Cell and Molecular Biology**. 2022. doi: https://doi.org/10.1165/rcmb.2022-0039LE.
