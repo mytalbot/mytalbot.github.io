@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366
+
 Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, *Molecular Therapy*, 2021,
 ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
