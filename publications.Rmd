@@ -11,27 +11,31 @@ output:
 ## Publications
 
 ### First or last authorship 
+Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba & **Steven R. Talbot**. A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. **Sci Rep** 12, 10910 (2022). https://doi.org/10.1038/s41598-022-14852-0
+
 Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366
 
-Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, *Molecular Therapy*, 2021,
+Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, **Molecular Therapy**, 2021,
 ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
-Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Sci Rep* 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
+Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. **Sci Rep** 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
 
-Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS One*. DOI: https://doi.org/10.1371/journal.pone.0230141.
+Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. **PLOS One**. DOI: https://doi.org/10.1371/journal.pone.0230141.
 
-**Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219883319.
+**Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. **Laboratory Animals**. DOI: https://doi.org/10.1177/0023677219883319.
 
-**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*. https://doi.org/10.1177/0023677219872228.
+**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. **Laboratory Animals**. https://doi.org/10.1177/0023677219872228.
 
-**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000137.  
+**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000137.  
 
-Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, *Eng. Life Sci.*, 2011, DOI: 10.1002/elsc.201000136.  
+Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000136.  
 
-**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, *Eng. Life Sci.*, 2010, 10(2) 109-120.  
+**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, **Eng. Life Sci.**, 2010, 10(2) 109-120.  
 
 
 ### Co-authorships 
+Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R.G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., Franke, A.-C., Schmithals, C., Piiper, A., Vogt, A., Gonzalez-Carmona, M., Frueh, J.T., Ullrich, E., Meuleman, P., **Talbot, S.R.**, Odenthal, M., Ott, M., Seifried, E., Schoeder, C.T., Schwäble, J., Lisowski, L. and Büning, H. (2022), Novel Adeno-Associated Virus (AAV) Serotype 2 Capsid Variants for Improved Liver-Directed Gene Therapy. **Hepatology**. https://doi.org/10.1002/hep.32733.
+
 Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs SL, Meyerhoff N, Packer RMA and Volk HA (2022) Urinary Neurotransmitter Patterns Are Altered in Canine Epilepsy. **Front. Vet. Sci**. 9:893013. doi: 10.3389/fvets.2022.893013
 
 Nicole Brüder, Jan T Kielstein, Luca-Marie Heinze, Catherina Lück, Victoria Panagiota, Elke Dammann, Sophia Köhler, **Steven Talbot**, Michael Stadler, Michael Heuser, Arnold Ganser, Matthias Eder, Gernot Beutel, MO343: Deep Analysis of The AKI—CKD in Allogeneic Stem Cell Transplantation—A Big Data Approach, **Nephrology Dialysis Transplantation**, Volume 37, Issue Supplement_3, May 2022, gfac068.053, https://doi.org/10.1093/ndt/gfac068.053
