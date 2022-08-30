@@ -120,6 +120,10 @@ Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus K
 
 G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
 
+### Conference Papers
+T. Schmidt, S. Meller, **S.R. Talbot**, A.B. Berk, H.T. Law, L.S. Hobbs, A.RM. Packer, A.H. Volk; Urinanalyse von Neurotransmitter-Mustern bei kaniner Epilepsie. Tierarztl Prax Ausg K Kleintiere Heimtiere **2022**; 50(02): 150-151
+DOI: 10.1055/s-0042-1744101.
+
 ### Preprints
 Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba, **Steven R. Talbot**; Closing an Eye for the Reliability of Orbital Tightening in Pain Detection: A Model-Specific Simplification of the Mouse Grimace Scale, researchsquare.com **2021**. DOI: 10.21203/rs.3.rs-1152582/v1.
 

@@ -7,6 +7,8 @@ output:
 ---
 
 ## Invited
+**2022** 3R Summerschool: The Digital Fingerprint of Severity in Laboratory Animals (Charité, Berlin)  
+
 **2021** DECIDE Statistics Consensus Workshop: Towards best practice in preclinical confirmatory animal research.
 
 **2021** 3R-Webninar (Berlin). The severity of "stress" in animal models: science & technologies - 3R-supporting approaches improving the validity of biomedical studies: The RELSA Algorithm: Approaching the Comparative Quantification of Severity in Laboratory Animals.
