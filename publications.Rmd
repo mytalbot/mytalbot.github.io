@@ -34,6 +34,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Alice Rovai, BoMee Chung, Qingluan Hu, Sebastian Hook, Qinggong Yuan, Tibor Kempf, Florian Schmidt, Dirk Grimm, **Steven R. Talbot**, Lars Steinbrück, Jasper Götting, Jens Bohne, Simon A. Krooss & Michael Ott. In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. **Nat Commun** 13, 5215 (2022). https://doi.org/10.1038/s41467-022-32906-9.
+
 Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R.G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., Franke, A.-C., Schmithals, C., Piiper, A., Vogt, A., Gonzalez-Carmona, M., Frueh, J.T., Ullrich, E., Meuleman, P., **Talbot, S.R.**, Odenthal, M., Ott, M., Seifried, E., Schoeder, C.T., Schwäble, J., Lisowski, L. and Büning, H. (2022), Novel Adeno-Associated Virus (AAV) Serotype 2 Capsid Variants for Improved Liver-Directed Gene Therapy. **Hepatology**. https://doi.org/10.1002/hep.32733.
 
 Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs SL, Meyerhoff N, Packer RMA and Volk HA (2022) Urinary Neurotransmitter Patterns Are Altered in Canine Epilepsy. **Front. Vet. Sci**. 9:893013. doi: 10.3389/fvets.2022.893013
