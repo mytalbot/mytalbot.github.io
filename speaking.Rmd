@@ -7,10 +7,13 @@ output:
 ---
 
 ## Invited
-**2022** 2nd Digital Vivarium Forum: Use of activity measurements for severity 
-assessment (Tecniplast, Buguggiate (VA), Italy)
+**2022** Max Planck Lab Animal Science Lectures. The Digital Fingerprint of Evidence-Based 
+Methods in the Severity Assessment of Laboratory Animals.
 
-**2022** 3R Summerschool: The Digital Fingerprint of Severity in Laboratory Animals (Charité, Berlin)  
+**2022** 2nd Digital Vivarium Forum: Use of activity measurements for severity 
+assessment (Tecniplast, Buguggiate (VA), Italy).
+
+**2022** 3R Summerschool: The Digital Fingerprint of Severity in Laboratory Animals (Charité, Berlin).  
 
 **2021** DECIDE Statistics Consensus Workshop: Towards best practice in preclinical confirmatory animal research.
 
