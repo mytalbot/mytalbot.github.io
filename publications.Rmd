@@ -129,6 +129,8 @@ DOI: 10.1055/s-0042-1744101.
 ### Preprints
 Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther M. Pogatzki-Zahn, André Bleich, Anke Tappe-Theodor; Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **bioRxiv** 2022.10.03.510524; doi: https://doi.org/10.1101/2022.10.03.510524.
 
+Leonie Tix, Lisa Ernst, Britta G. Bungardt, **Steven R. Talbot**, Gero Hilken, René H. Tolba; Establishment of the Body Condition Score for adult female Xenopus laevis, **bioRxiv** 2022.08.03.484250; doi: https://doi.org/10.1101/2022.08.03.484250.
+
 Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba, **Steven R. Talbot**; Closing an Eye for the Reliability of Orbital Tightening in Pain Detection: A Model-Specific Simplification of the Mouse Grimace Scale, **researchsquare.com** 2021. DOI: 10.21203/rs.3.rs-1152582/v1.
 
 Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, Ulrike Heinicke; Plasma RIPK3 And HMGB1 Predict Severe COVID-19 Progression In ICU Patients: A Single-Center Cohort Study, researchsquare.com **2021**. doi: https://doi.org/10.21203/rs.3.rs-1064345/v1.
