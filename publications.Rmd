@@ -34,6 +34,8 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
+Bufe S, Zimmermann A, Ravens S, Prinz I, Buitrago-Molina L, E, Geffers R, Woller N, Kühnel F, **Talbot S**, R, Noyan F, Manns M, P, Wedemeyer H, Hardtke-Wolenski M, Jaeckel E, Davalos-Misslitz A, C: PD-1/CTLA-4 blockade leads to expansion of CD8+PD-1int TILs and results in tumor remission in experimental liver cancer. **Liver Cancer** 2022. doi: 10.1159/000526899.
+
 Alice Rovai, BoMee Chung, Qingluan Hu, Sebastian Hook, Qinggong Yuan, Tibor Kempf, Florian Schmidt, Dirk Grimm, **Steven R. Talbot**, Lars Steinbrück, Jasper Götting, Jens Bohne, Simon A. Krooss & Michael Ott. In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. **Nat Commun** 13, 5215 (2022). https://doi.org/10.1038/s41467-022-32906-9.
 
 Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R.G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., Franke, A.-C., Schmithals, C., Piiper, A., Vogt, A., Gonzalez-Carmona, M., Frueh, J.T., Ullrich, E., Meuleman, P., **Talbot, S.R.**, Odenthal, M., Ott, M., Seifried, E., Schoeder, C.T., Schwäble, J., Lisowski, L. and Büning, H. (2022), Novel Adeno-Associated Virus (AAV) Serotype 2 Capsid Variants for Improved Liver-Directed Gene Therapy. **Hepatology**. https://doi.org/10.1002/hep.32733.
@@ -127,6 +129,9 @@ T. Schmidt, S. Meller, **S.R. Talbot**, A.B. Berk, H.T. Law, L.S. Hobbs, A.RM. P
 DOI: 10.1055/s-0042-1744101.
 
 ### Preprints
+Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot**, Fabian Kiessling
+**medRxiv** 2022.06.27.22276377; doi: https://doi.org/10.1101/2022.06.27.22276377
+
 Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther M. Pogatzki-Zahn, André Bleich, Anke Tappe-Theodor; Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **bioRxiv** 2022.10.03.510524; doi: https://doi.org/10.1101/2022.10.03.510524.
 
 Leonie Tix, Lisa Ernst, Britta G. Bungardt, **Steven R. Talbot**, Gero Hilken, René H. Tolba; Establishment of the Body Condition Score for adult female Xenopus laevis, **bioRxiv** 2022.08.03.484250; doi: https://doi.org/10.1101/2022.08.03.484250.
