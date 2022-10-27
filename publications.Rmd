@@ -11,212 +11,212 @@ output:
 ## Publications
 
 ### First or last authorship 
-Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba & **Steven R. Talbot**. A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. **Sci Rep** 12, 10910 (2022). https://doi.org/10.1038/s41598-022-14852-0
+* Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba & **Steven R. Talbot**. A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. **Sci Rep** 12, 10910 (2022). https://doi.org/10.1038/s41598-022-14852-0
 
-Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366
+* Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366
 
-Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, **Molecular Therapy**, 2021,
+* Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, **Molecular Therapy**, 2021,
 ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
-Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. **Sci Rep** 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
+* Helgers, S.O.A., **Talbot, S.R.**, Riedesel, A. et al. Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. **Sci Rep** 10, 9020 (2020). https://doi.org/10.1038/s41598-020-65783-7.
 
-Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. **PLOS One**. DOI: https://doi.org/10.1371/journal.pone.0230141.
+* Roelof Maarten van Dijk, Ines Koska, Andre Bleich, Rene Tolba, Isabel Seiffert, Christina Möller, Valentina Di Liberto, **Steven Roger Talbot**, Heidrun Potschka (2020) Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. **PLOS One**. DOI: https://doi.org/10.1371/journal.pone.0230141.
 
-**Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. **Laboratory Animals**. DOI: https://doi.org/10.1177/0023677219883319.
+* **Steven R Talbot**, Svenja Biernot, Andre Bleich, Roelof Maarten van Dijk, Lisa Ernst, Christine Häger, Simeon Oscar Arnulfo Helgers, Babette Koegel, Ines Koska, Angela Kuhla, Nina Miljanovic, Franz-Tassilo Müller-Graff, Kerstin Schwabe, Rene Tolba, Brigitte Vollmar, Nora Weegh, Tjark Wölk, Fabio Wolf, Andreas Wree, Leonie Zieglowski, Heidrun Potschka, Dietmar Zechner (2019) Defining body-weight reduction as a humane endpoint: a critical appraisal. **Laboratory Animals**. DOI: https://doi.org/10.1177/0023677219883319.
 
-**Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. **Laboratory Animals**. https://doi.org/10.1177/0023677219872228.
+* **Steven R. Talbot**, Stefan Bruch, Fabian Kießling, Michael Marschollek, Branko Jandric, René H. Tolba and André Bleich (2019) Design of a joint research data platform: A use case for severity assessment. **Laboratory Animals**. https://doi.org/10.1177/0023677219872228.
 
-**Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000137.  
+* **Steven R. Talbot** and Gerhard Sartorius; Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000137.  
 
-Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000136.  
+* Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classification method for characteristic sample properties, **Eng. Life Sci.**, 2011, DOI: 10.1002/elsc.201000136.  
 
-**Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, **Eng. Life Sci.**, 2010, 10(2) 109-120.  
+* **Steven R. Talbot**, Heiko Russmann, Stefan Köhne, Bärbel Niederwöhrmeier, Gudrun Grote, Thomas Scheper; Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS, **Eng. Life Sci.**, 2010, 10(2) 109-120.  
 
 
 ### Co-authorships 
-Pfeffer, T. J., Mueller, J. H., Haebel, L., Erschow, S., Yalman, K. C., **Talbot, S. R.**, Koenig, T., Berliner, D., Zwadlo, C., Scherr, M., Hilfiker-Kleiner, D., Bauersachs, J., and Ricke-Hoch, M. (2022) Cabergoline treatment promotes myocardial recovery in peripartum cardiomyopathy, **ESC Heart Failure**, doi: https://doi.org/10.1002/ehf2.14210
+* Pfeffer, T. J., Mueller, J. H., Haebel, L., Erschow, S., Yalman, K. C., **Talbot, S. R.**, Koenig, T., Berliner, D., Zwadlo, C., Scherr, M., Hilfiker-Kleiner, D., Bauersachs, J., and Ricke-Hoch, M. (2022) Cabergoline treatment promotes myocardial recovery in peripartum cardiomyopathy, **ESC Heart Failure**, doi: https://doi.org/10.1002/ehf2.14210
 
-Bufe S, Zimmermann A, Ravens S, Prinz I, Buitrago-Molina L, E, Geffers R, Woller N, Kühnel F, **Talbot S**, R, Noyan F, Manns M, P, Wedemeyer H, Hardtke-Wolenski M, Jaeckel E, Davalos-Misslitz A, C; PD-1/CTLA-4 blockade leads to expansion of CD8+PD-1int TILs and results in tumor remission in experimental liver cancer. **Liver Cancer** 2022. doi: 10.1159/000526899.
+* Bufe S, Zimmermann A, Ravens S, Prinz I, Buitrago-Molina L, E, Geffers R, Woller N, Kühnel F, **Talbot S**, R, Noyan F, Manns M, P, Wedemeyer H, Hardtke-Wolenski M, Jaeckel E, Davalos-Misslitz A, C; PD-1/CTLA-4 blockade leads to expansion of CD8+PD-1int TILs and results in tumor remission in experimental liver cancer. **Liver Cancer** 2022. doi: 10.1159/000526899.
 
-Alice Rovai, BoMee Chung, Qingluan Hu, Sebastian Hook, Qinggong Yuan, Tibor Kempf, Florian Schmidt, Dirk Grimm, **Steven R. Talbot**, Lars Steinbrück, Jasper Götting, Jens Bohne, Simon A. Krooss & Michael Ott. In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. **Nat Commun** 13, 5215 (2022). https://doi.org/10.1038/s41467-022-32906-9.
+* Alice Rovai, BoMee Chung, Qingluan Hu, Sebastian Hook, Qinggong Yuan, Tibor Kempf, Florian Schmidt, Dirk Grimm, **Steven R. Talbot**, Lars Steinbrück, Jasper Götting, Jens Bohne, Simon A. Krooss & Michael Ott. In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. **Nat Commun** 13, 5215 (2022). https://doi.org/10.1038/s41467-022-32906-9.
 
-Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R.G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., Franke, A.-C., Schmithals, C., Piiper, A., Vogt, A., Gonzalez-Carmona, M., Frueh, J.T., Ullrich, E., Meuleman, P., **Talbot, S.R.**, Odenthal, M., Ott, M., Seifried, E., Schoeder, C.T., Schwäble, J., Lisowski, L. and Büning, H. (2022), Novel Adeno-Associated Virus (AAV) Serotype 2 Capsid Variants for Improved Liver-Directed Gene Therapy. **Hepatology**. https://doi.org/10.1002/hep.32733.
+* Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R.G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., Franke, A.-C., Schmithals, C., Piiper, A., Vogt, A., Gonzalez-Carmona, M., Frueh, J.T., Ullrich, E., Meuleman, P., **Talbot, S.R.**, Odenthal, M., Ott, M., Seifried, E., Schoeder, C.T., Schwäble, J., Lisowski, L. and Büning, H. (2022), Novel Adeno-Associated Virus (AAV) Serotype 2 Capsid Variants for Improved Liver-Directed Gene Therapy. **Hepatology**. https://doi.org/10.1002/hep.32733.
 
-Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs SL, Meyerhoff N, Packer RMA and Volk HA (2022) Urinary Neurotransmitter Patterns Are Altered in Canine Epilepsy. **Front. Vet. Sci**. 9:893013. doi: 10.3389/fvets.2022.893013
+* Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs SL, Meyerhoff N, Packer RMA and Volk HA (2022) Urinary Neurotransmitter Patterns Are Altered in Canine Epilepsy. **Front. Vet. Sci**. 9:893013. doi: 10.3389/fvets.2022.893013
 
-Nicole Brüder, Jan T Kielstein, Luca-Marie Heinze, Catherina Lück, Victoria Panagiota, Elke Dammann, Sophia Köhler, **Steven Talbot**, Michael Stadler, Michael Heuser, Arnold Ganser, Matthias Eder, Gernot Beutel, MO343: Deep Analysis of The AKI—CKD in Allogeneic Stem Cell Transplantation—A Big Data Approach, **Nephrology Dialysis Transplantation**, Volume 37, Issue Supplement_3, May 2022, gfac068.053, https://doi.org/10.1093/ndt/gfac068.053
+* Nicole Brüder, Jan T Kielstein, Luca-Marie Heinze, Catherina Lück, Victoria Panagiota, Elke Dammann, Sophia Köhler, **Steven Talbot**, Michael Stadler, Michael Heuser, Arnold Ganser, Matthias Eder, Gernot Beutel, MO343: Deep Analysis of The AKI—CKD in Allogeneic Stem Cell Transplantation—A Big Data Approach, **Nephrology Dialysis Transplantation**, Volume 37, Issue Supplement_3, May 2022, gfac068.053, https://doi.org/10.1093/ndt/gfac068.053
 
-Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, and Ulrike Heinicke. Persistently Elevated Plasma Levels of RIPK3, MLKL, HMGB1, and RIPK1 in COVID-19 ICU Patients. **American Journal of Respiratory Cell and Molecular Biology**. 2022. doi: https://doi.org/10.1165/rcmb.2022-0039LE.
+* Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, and Ulrike Heinicke. Persistently Elevated Plasma Levels of RIPK3, MLKL, HMGB1, and RIPK1 in COVID-19 ICU Patients. **American Journal of Respiratory Cell and Molecular Biology**. 2022. doi: https://doi.org/10.1165/rcmb.2022-0039LE.
 
-Ann-Kristin Riedesel, Annika Bach-Hagemann, Arif Abdulbaki, **Steven R Talbot**, René Tolba, Kerstin Schwabe, Ute Lindauer. Burrowing behaviour of rats: Strain differences and applicability as well-being parameter after intracranial surgery. Laboratory Animals. February 2022. doi:https://doi.org/10.1177/00236772211072977.
+* Ann-Kristin Riedesel, Annika Bach-Hagemann, Arif Abdulbaki, **Steven R Talbot**, René Tolba, Kerstin Schwabe, Ute Lindauer. Burrowing behaviour of rats: Strain differences and applicability as well-being parameter after intracranial surgery. Laboratory Animals. February 2022. doi:https://doi.org/10.1177/00236772211072977.
 
-Buchecker V, Koska I, Pace C, **Talbot S, R**, Palme R, Bleich A, Potschka H: Toward evidence-based severity assessment in mouse models with repeated seizures: (II.) Impact of surgery and intrahippocampal kainate. **Eur Surg Res** 2022. doi: https://doi.org/10.1159/000522156.
+* Buchecker V, Koska I, Pace C, **Talbot S, R**, Palme R, Bleich A, Potschka H: Toward evidence-based severity assessment in mouse models with repeated seizures: (II.) Impact of surgery and intrahippocampal kainate. **Eur Surg Res** 2022. doi: https://doi.org/10.1159/000522156.
 
-Meumann N, Schmithals C, Elenschneider L, Hansen T, Balakrishnan A, Hu Q, Hook S, Schmitz J, Bräsen JH, Franke A-C, Olarewaju O, Brandenberger C, **Talbot SR**, Fangmann J, Hacker UT, Odenthal M, Ott M, Piiper A, Büning H. Hepatocellular Carcinoma Is a Natural Target for Adeno-Associated Virus (AAV) 2 Vectors. **Cancers**. 2022; 14(2):427. https://doi.org/10.3390/cancers14020427
+* Meumann N, Schmithals C, Elenschneider L, Hansen T, Balakrishnan A, Hu Q, Hook S, Schmitz J, Bräsen JH, Franke A-C, Olarewaju O, Brandenberger C, **Talbot SR**, Fangmann J, Hacker UT, Odenthal M, Ott M, Piiper A, Büning H. Hepatocellular Carcinoma Is a Natural Target for Adeno-Associated Virus (AAV) 2 Vectors. **Cancers**. 2022; 14(2):427. https://doi.org/10.3390/cancers14020427
 
-Weegh N, Zentrich E, Zechner D, Struve B, Wassermann L, **Talbot SR**, et al. (2021) Voluntary wheel running behaviour as a tool to assess the severity in a mouse pancreatic cancer model. **PLoS ONE** 16(12): e0261662. https://doi.org/10.1371/journal.pone.0261662
+* Weegh N, Zentrich E, Zechner D, Struve B, Wassermann L, **Talbot SR**, et al. (2021) Voluntary wheel running behaviour as a tool to assess the severity in a mouse pancreatic cancer model. **PLoS ONE** 16(12): e0261662. https://doi.org/10.1371/journal.pone.0261662
 
-Durst M, Graf TR, Graf R, Kron M, Arras M, Zechner D, Palme R, **Talbot SR** and Jirkof P (2021) Analysis of Pain and Analgesia Protocols in Acute Cerulein-Induced Pancreatitis in Male C57BL/6 Mice. **Front. Physiol.** 12:744638. doi: https://doi.org/10.3389/fphys.2021.744638.
+* Durst M, Graf TR, Graf R, Kron M, Arras M, Zechner D, Palme R, **Talbot SR** and Jirkof P (2021) Analysis of Pain and Analgesia Protocols in Acute Cerulein-Induced Pancreatitis in Male C57BL/6 Mice. **Front. Physiol.** 12:744638. doi: https://doi.org/10.3389/fphys.2021.744638.
 
-Min Yang, Zengkai Pan, Kezhi Huang, Guntram Büsche, Hongyun Liu, Gudrun Göhring, Regina Rumpel, Oliver Dittrich-Breiholz, **Steven Talbot**, Michaela Scherr, Anuhar Chaturvedi, Matthias Eder, Julia Skokowa, Jianfeng Zhou, Karl Welte, Nils von Neuhoff, Ligen Liu, Arnold Ganser & Zhixiong Li. A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. **Leukemia** (2021). https://doi.org/10.1038/s41375-021-01452-6.
+* Min Yang, Zengkai Pan, Kezhi Huang, Guntram Büsche, Hongyun Liu, Gudrun Göhring, Regina Rumpel, Oliver Dittrich-Breiholz, **Steven Talbot**, Michaela Scherr, Anuhar Chaturvedi, Matthias Eder, Julia Skokowa, Jianfeng Zhou, Karl Welte, Nils von Neuhoff, Ligen Liu, Arnold Ganser & Zhixiong Li. A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. **Leukemia** (2021). https://doi.org/10.1038/s41375-021-01452-6.
 
-Zentrich E, **Talbot SR**, Bleich A and Häger C (2021) Automated Home-Cage Monitoring During Acute Experimental Colitis in Mice. **Front. Neurosci.**. 2021; 15:760606. https://doi.org/10.3389/fnins.2021.760606.
+* Zentrich E, **Talbot SR**, Bleich A and Häger C (2021) Automated Home-Cage Monitoring During Acute Experimental Colitis in Mice. **Front. Neurosci.**. 2021; 15:760606. https://doi.org/10.3389/fnins.2021.760606.
 
-Kumar S, Koenig J, Schneider A, Wermeling F, Boddul S, Theobald SJ, Vollmer M, Kloos D, Lachmann N, Klawonn F, Lienenklaus S, **Talbot SR**, Bleich A, Wenzel N, von Kaisenberg C, Keck J, Stripecke R. In Vivo Lentiviral Gene Delivery of HLA-DR and Vaccination of Humanized Mice for Improving the Human T and B Cell Immune Reconstitution. **Biomedicines**. 2021; 9(8):961. https://doi.org/10.3390/biomedicines9080961
+* Kumar S, Koenig J, Schneider A, Wermeling F, Boddul S, Theobald SJ, Vollmer M, Kloos D, Lachmann N, Klawonn F, Lienenklaus S, **Talbot SR**, Bleich A, Wenzel N, von Kaisenberg C, Keck J, Stripecke R. In Vivo Lentiviral Gene Delivery of HLA-DR and Vaccination of Humanized Mice for Improving the Human T and B Cell Immune Reconstitution. **Biomedicines**. 2021; 9(8):961. https://doi.org/10.3390/biomedicines9080961
 
-Zieglowski L, Kümmecke AM, Ernst L, Palme R, Weiskirchen R, **Talbot SR**, et al. (2021) Assessing the severity of laparotomy and partial hepatectomy in male rats—A multimodal approach. **PLoS ONE** 16(8): e0255175. https://doi.org/10.1371/journal.pone.0255175. 
+* Zieglowski L, Kümmecke AM, Ernst L, Palme R, Weiskirchen R, **Talbot SR**, et al. (2021) Assessing the severity of laparotomy and partial hepatectomy in male rats—A multimodal approach. **PLoS ONE** 16(8): e0255175. https://doi.org/10.1371/journal.pone.0255175. 
 
-Safia O, **Talbot SR**, Kuebler S and Mall JW. Another Brick in the Wall of an Ongoing Discussion–Reduction of Anastomotic Leaks after Colorectal Resection by Preoperative Mechanical Bowel Preparation in Combination with Oral and Parenteral Antibiotics?–A Clinical Retrospective Single Center Study. **Austin J ClinCase Rep.**, 2021; 8(5): 1211.
+* Safia O, **Talbot SR**, Kuebler S and Mall JW. Another Brick in the Wall of an Ongoing Discussion–Reduction of Anastomotic Leaks after Colorectal Resection by Preoperative Mechanical Bowel Preparation in Combination with Oral and Parenteral Antibiotics?–A Clinical Retrospective Single Center Study. **Austin J ClinCase Rep.**, 2021; 8(5): 1211.
 
-Mattea S. Durst, Margarete Arras, Rupert Palme, **Steven R. Talbot** & Paulin Jirkof. Lidocaine and bupivacaine as part of multimodal pain management in a C57BL/6J laparotomy mouse model. **Sci Rep 11**, 10918 (2021). https://doi.org/10.1038/s41598-021-90331-2.  
+* Mattea S. Durst, Margarete Arras, Rupert Palme, **Steven R. Talbot** & Paulin Jirkof. Lidocaine and bupivacaine as part of multimodal pain management in a C57BL/6J laparotomy mouse model. **Sci Rep 11**, 10918 (2021). https://doi.org/10.1038/s41598-021-90331-2.  
 
-Julia K. Bialek-Waldmann, (...), **Steven R. Talbot**, Andre Bleich, Loukia M. Spineli, (...), Renata Stripecke; (2021). Induced Dendritic Cells Co-expressing GM-CSF/ IFN-α/ tWT1 Priming T and B cells and Automated Manufacturing to Boost GvL. **Molecular Therapy**. DOI: 10.1016/j.omtm.2021.04.004.
+* Julia K. Bialek-Waldmann, (...), **Steven R. Talbot**, Andre Bleich, Loukia M. Spineli, (...), Renata Stripecke; (2021). Induced Dendritic Cells Co-expressing GM-CSF/ IFN-α/ tWT1 Priming T and B cells and Automated Manufacturing to Boost GvL. **Molecular Therapy**. DOI: 10.1016/j.omtm.2021.04.004.
 
-S. Van der Mierden, L. M. Spineli, **S. R. Talbot**, Ch. Yiannakou, E. Zentrich, N. Weegh, B. Struve, T. Zur Brügge, A. Bleich, C. Leenaars; (2021). Extracting data from graphs: a case‐study on animal research with implications for meta‐analyses. **Research Synthesis Methods**. https://doi.org/10.1002/jrsm.1481. 
+* S. Van der Mierden, L. M. Spineli, **S. R. Talbot**, Ch. Yiannakou, E. Zentrich, N. Weegh, B. Struve, T. Zur Brügge, A. Bleich, C. Leenaars; (2021). Extracting data from graphs: a case‐study on animal research with implications for meta‐analyses. **Research Synthesis Methods**. https://doi.org/10.1002/jrsm.1481. 
 
-Lena Boldt, Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Nina Miljanovic, Rupert Palme, André Bleich, Heidrun Potschka; (2021). Toward evidence-based severity assessment in mouse models with repeated seizures: I. Electrical kindling. **Epilepsy & Behavior** 115. https://doi.org/10.1016/j.yebeh.2020.107689.
+* Lena Boldt, Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Nina Miljanovic, Rupert Palme, André Bleich, Heidrun Potschka; (2021). Toward evidence-based severity assessment in mouse models with repeated seizures: I. Electrical kindling. **Epilepsy & Behavior** 115. https://doi.org/10.1016/j.yebeh.2020.107689.
 
-Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; (2020). Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
+* Hanna Kirchhoff, Uemran Karsli, Caroline Schoenherr, Karin Battmer, Sergej Erschow, **Steven Roger Talbot**, Doris Steinemann, Michael Heuser, Olaf Heidenreich, Denise Hilfiker-Kleiner, Arnold Ganser, Matthias Eder, Michaela Scherr; (2020). Venetoclax and dexamethasone synergize with inotuzumab-ozogamicin induced DNA damage signaling in B-lineage ALL. **Blood** blood.2020008544. https://doi.org/10.1182/blood.2020008544.
 
-Wassermann Laura, Helgers Simeon O. A., Riedesel Ann-Kristin, **Talbot Steven R.**, Bleich André, Schwabe Kerstin, Häger Christine; (2020). Monitoring of Heart Rate and Activity Using Telemetry Allows Grading of Experimental Procedures Used in Neuroscientific Rat Models. *Frontiers in Neuroscience*, 14:587760. https://www.frontiersin.org/articles/10.3389/fnins.2020.587760/full.
+* Wassermann Laura, Helgers Simeon O. A., Riedesel Ann-Kristin, **Talbot Steven R.**, Bleich André, Schwabe Kerstin, Häger Christine; (2020). Monitoring of Heart Rate and Activity Using Telemetry Allows Grading of Experimental Procedures Used in Neuroscientific Rat Models. *Frontiers in Neuroscience*, 14:587760. https://www.frontiersin.org/articles/10.3389/fnins.2020.587760/full.
 
-Qinghai Tan,  Gabriella di Stefano,  Xinjie Tan,  Xiu Renjie,  Dorothee Römermann,  **Steven R. Talbot**,  Ursula E. Seidler; (2020). Inhibition of Na+/H+ exchanger isoform 3 improves gut fluidity and alkalinity in cystic fibrosis transmembrane conductance regulator‐deficient and F508del mutant mice. *British Journal of Pharmacology*. https://doi.org/10.1111/bph.15323.
+* Qinghai Tan,  Gabriella di Stefano,  Xinjie Tan,  Xiu Renjie,  Dorothee Römermann,  **Steven R. Talbot**,  Ursula E. Seidler; (2020). Inhibition of Na+/H+ exchanger isoform 3 improves gut fluidity and alkalinity in cystic fibrosis transmembrane conductance regulator‐deficient and F508del mutant mice. *British Journal of Pharmacology*. https://doi.org/10.1111/bph.15323.
 
-Guanglin Tang, Nico Seume, Christine Häger, Simone Kumstel, Kerstin Abshagen, André Bleich, Brigitte Vollmar, **Steven R. Talbot**, Xianbin Zhang & Dietmar Zechner; (2020). Comparing distress of mouse models for liver damage. *Sci Rep* 10, 19814. https://doi.org/10.1038/s41598-020-76391-w. 
+* Guanglin Tang, Nico Seume, Christine Häger, Simone Kumstel, Kerstin Abshagen, André Bleich, Brigitte Vollmar, **Steven R. Talbot**, Xianbin Zhang & Dietmar Zechner; (2020). Comparing distress of mouse models for liver damage. *Sci Rep* 10, 19814. https://doi.org/10.1038/s41598-020-76391-w. 
 
-Veronica Begni, Alice Sanson, Natascha Pfeiffer, Christiane Brandwein, Dragos Inta, **Steven R. Talbot**, Marco Andrea Riva, Peter Gass, Anne Stephanie Mallien; (2020). Social isolation in rats: Effects on animal welfare and molecular markers for neuroplasticity. *PLOS ONE*,  https://doi.org/10.1371/journal.pone.0240439. 
+* Veronica Begni, Alice Sanson, Natascha Pfeiffer, Christiane Brandwein, Dragos Inta, **Steven R. Talbot**, Marco Andrea Riva, Peter Gass, Anne Stephanie Mallien; (2020). Social isolation in rats: Effects on animal welfare and molecular markers for neuroplasticity. *PLOS ONE*,  https://doi.org/10.1371/journal.pone.0240439. 
 
-van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H. and Bleich, A. (2020) “Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database”, *ALTEX - Alternatives to animal experimentation*, https://doi.org/10.14573/altex.2004221.
+* van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H. and Bleich, A. (2020) “Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database”, *ALTEX - Alternatives to animal experimentation*, https://doi.org/10.14573/altex.2004221.
 
-Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. *Sci Rep* 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
+* Lisa Ernst, Leonie Zieglowski, Mareike Schulz, Michaela Moss, Marco Meyer, Ralf Weiskirchen, Rupert Palme, Melanie Hamann, **Steven R. Talbot** & René H. Tolba. Severity assessment in mice subjected to carbon tetrachloride. *Sci Rep* 10, 15790 (2020). https://doi.org/10.1038/s41598-020-72801-1.
 
-Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. *Laboratory Animals*. https://doi.org/10.1177/0023677220911680.
+* Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik M., Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. *Laboratory Animals*. https://doi.org/10.1177/0023677220911680.
 
-Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. *Annals of the New York Academy of Sciences*. https://doi.org/10.1111/nyas.14338.
+* Simone Kumstel,  Edgar H. U. Wendt,  Johanna Eichberg,  **Steven R. Talbot**,  Christine Haeger,  Xianbin Zhang,  Ahmed Abdelrahman,  Maria Schoenrogge,  Rupert Palme,  André Bleich,  Brigitte Vollmar,  Dietmar Zechner. (2020). Grading animal distress and side effects of therapies. *Annals of the New York Academy of Sciences*. https://doi.org/10.1111/nyas.14338.
 
-Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
+* Mallien, A. S., Häger, C., Palme, **R., Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., … Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals*, 54(1), 40–49. https://doi.org/10.1177/0023677219874831.
 
-Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
+* Xianbin Zhang, Simone Kumstel, Guanglin Tang, **Steven R.Talbot**, Nico Seume, Kerstin Abshagen, Brigitte Vollmar and Dietmar Zechner (2019) A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX*. DOI: https://doi.org/10.14573/altex.1909111.
 
-Leonardo Silva de Araujo, Marcelo Ribeiro-Alves, Thyago Leal-Calvo, Janaína Leung, Verónica Durán, Mohamed Samir, **Steven Talbot**, Aravind Tallam, Fernanda Carvalho de Queiroz Mello, Robert Geffers, Maria Helena Féres Saad, Frank Pesslera (2019) Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio*. DOI: https://mbio.asm.org/content/10/6/e01037-19.
+* Leonardo Silva de Araujo, Marcelo Ribeiro-Alves, Thyago Leal-Calvo, Janaína Leung, Verónica Durán, Mohamed Samir, **Steven Talbot**, Aravind Tallam, Fernanda Carvalho de Queiroz Mello, Robert Geffers, Maria Helena Féres Saad, Frank Pesslera (2019) Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio*. DOI: https://mbio.asm.org/content/10/6/e01037-19.
 
-Lydia M Keubler, Nils Hoppe, Heidrun Potschka, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger, and André Bleich (2019) Where are we heading? Challenges in evidence-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219877216.
+* Lydia M Keubler, Nils Hoppe, Heidrun Potschka, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger, and André Bleich (2019) Where are we heading? Challenges in evidence-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219877216.
 
-Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, Heidrun Potschka, Birgitta Struve, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger (2019) A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881481.
+* Paulin Jirkof, Ahmed Abdelrahman, André Bleich, Mattea Durst, Lydia Keubler, Heidrun Potschka, Birgitta Struve, **Steven R Talbot**, Brigitte Vollmar, Dietmar Zechner, Christine Häger (2019) A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881481.
  
-Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, Birgitta Struve, Christine Häger, André Bleich, Mattea Durst, Paulin Jirkof, Margarete Arras, Roelof Maarten van Dijk, Nina Miljanovic, Heidrun Potschka, Dorit Merhof, Rene H Tolba (2019) Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals*. DOI: https://journals.sagepub.com/doi/full/10.1177/0023677219881664. 
+* Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, Birgitta Struve, Christine Häger, André Bleich, Mattea Durst, Paulin Jirkof, Margarete Arras, Roelof Maarten van Dijk, Nina Miljanovic, Heidrun Potschka, Dorit Merhof, Rene H Tolba (2019) Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals*. DOI: https://journals.sagepub.com/doi/full/10.1177/0023677219881664. 
 
-Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, L Zieglowski, M Meyer, S Bruch, Dorit Merhof, Rene H Tolba (2019) Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881655.
+* Lisa Ernst, Marcin Kopaczka, Mareike Schulz, **Steven R Talbot**, L Zieglowski, M Meyer, S Bruch, Dorit Merhof, Rene H Tolba (2019) Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219881655.
 
-Cathalijn H.C. Leenaars, Stevie van der Mierden, Mattea Durst, Vivian C Goerlich-Jansson, Florenza Lüder Ripoli, Lydia M Keubler, **Steven R Talbot**, Erin Boyle, Anne Habedank, Paulin Jirkof, Lars Lewejohann, Peter Gass, René Tolba, André Bleich (2019) Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219868499
+* Cathalijn H.C. Leenaars, Stevie van der Mierden, Mattea Durst, Vivian C Goerlich-Jansson, Florenza Lüder Ripoli, Lydia M Keubler, **Steven R Talbot**, Erin Boyle, Anne Habedank, Paulin Jirkof, Lars Lewejohann, Peter Gass, René Tolba, André Bleich (2019) Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals*. DOI: https://doi.org/10.1177/0023677219868499
 
-Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, **Steven R. Talbot**, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. *Laboratory Animals*. https://doi.org/10.1177/0023677219853600.  
+* Stephanie Buchheister, Florian Roegener, Nils-Holger Zschemisch, **Steven R. Talbot**, Henrik Christensen, André Bleich (2019) One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii in environmental sample material. *Laboratory Animals*. https://doi.org/10.1177/0023677219853600.  
 
-Häger C, Keubler LM, **Talbot SR**, Biernot S, Weegh N, et al. (2018) Running in the wheel: Defining individual severity levels in mice. PLOS Biology 16(10): e2006159. https://doi.org/10.1371/journal.pbio.2006159.  
+* Häger C, Keubler LM, **Talbot SR**, Biernot S, Weegh N, et al. (2018) Running in the wheel: Defining individual severity levels in mice. PLOS Biology 16(10): e2006159. https://doi.org/10.1371/journal.pbio.2006159.  
 
-Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel M (2018) IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. *Front. Cell. Neurosci.* 12:352. doi: 10.3389/fncel.2018.00352.  
+* Prajeeth CK, Dittrich-Breiholz O, **Talbot SR**, Robert PA, Huehn J and Stangel M (2018) IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. *Front. Cell. Neurosci.* 12:352. doi: 10.3389/fncel.2018.00352.  
 
-Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.  
+* Skuljec J, Jirmo AC, Habener A, **Talbot SR**, Pul R, Grychtol R, Aydin M, Kleinschnitz C, Happle C and Hansen G (2018) Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Front. Immunol.* 9:2458. doi: 10.3389/fimmu.2018.02458.  
 
-Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
+* Felix F. Adams, Dirk Heckl, Thomas Hoffmann, **Steven R. Talbot**, Arnold Kloos, Felicitas Thol, Michael Heuser, Johannes Zuber, Axel Schambach, Adrian Schwarzer; An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries, *Biomaterials*, 139 (2017) 102e115. DOI: 10.1016/j.biomaterials.2017.05.032.  
 
-C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.  
+* C. Häger, S. Biernot, M. Buettner, S. Glage, L.M. Keubler, N. Held, E.M. Bleich, K. Otto, C.W. Müller, S. Decker, **S.R. Talbot** and A. Bleich; The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep, *PONE*-D-16-36391R2.  
 
-Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus Kostrzewa, Brigitte Schlegelberger, Nils von Neuhoff, Susanne Häußler; Comprehensive MALDI-TOF biotyping of the non-redundant Harvard Pseudomonas aeruginosa PA14 transposon insertion mutant library, *PLOS ONE*, 2014, DOI: 10.1371/journal.pone.0117144.  
+* Tonio Oumeraci, Vanessa Jensen, **Steven R. Talbot**, Winfried Hofmann, Markus Kostrzewa, Brigitte Schlegelberger, Nils von Neuhoff, Susanne Häußler; Comprehensive MALDI-TOF biotyping of the non-redundant Harvard Pseudomonas aeruginosa PA14 transposon insertion mutant library, *PLOS ONE*, 2014, DOI: 10.1371/journal.pone.0117144.  
 
-G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
+* G. Sartorius, **Steven R. Talbot**; Classification of inactivated pathogens using multivariate adaptive embedding, *Fortschritt-Berichte VDI* (Autonomous Systems, Proceedings), 2013, Reihe 10-827.  
 
 ### Conference Papers
-T. Schmidt, S. Meller, **S.R. Talbot**, A.B. Berk, H.T. Law, L.S. Hobbs, A.RM. Packer, A.H. Volk; Urinanalyse von Neurotransmitter-Mustern bei kaniner Epilepsie. Tierarztl Prax Ausg K Kleintiere Heimtiere **2022**; 50(02): 150-151
+* T. Schmidt, S. Meller, **S.R. Talbot**, A.B. Berk, H.T. Law, L.S. Hobbs, A.RM. Packer, A.H. Volk; Urinanalyse von Neurotransmitter-Mustern bei kaniner Epilepsie. Tierarztl Prax Ausg K Kleintiere Heimtiere **2022**; 50(02): 150-151
 DOI: 10.1055/s-0042-1744101.
 
 ### Preprints
-Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot**, Fabian Kiessling
+* Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot**, Fabian Kiessling
 **medRxiv** 2022.06.27.22276377; doi: https://doi.org/10.1101/2022.06.27.22276377
 
-Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther M. Pogatzki-Zahn, André Bleich, Anke Tappe-Theodor; Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **bioRxiv** 2022.10.03.510524; doi: https://doi.org/10.1101/2022.10.03.510524.
+* Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther M. Pogatzki-Zahn, André Bleich, Anke Tappe-Theodor; Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **bioRxiv** 2022.10.03.510524; doi: https://doi.org/10.1101/2022.10.03.510524.
 
-Leonie Tix, Lisa Ernst, Britta G. Bungardt, **Steven R. Talbot**, Gero Hilken, René H. Tolba; Establishment of the Body Condition Score for adult female Xenopus laevis, **bioRxiv** 2022.08.03.484250; doi: https://doi.org/10.1101/2022.08.03.484250.
+* Leonie Tix, Lisa Ernst, Britta G. Bungardt, **Steven R. Talbot**, Gero Hilken, René H. Tolba; Establishment of the Body Condition Score for adult female Xenopus laevis, **bioRxiv** 2022.08.03.484250; doi: https://doi.org/10.1101/2022.08.03.484250.
 
-Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba, **Steven R. Talbot**; Closing an Eye for the Reliability of Orbital Tightening in Pain Detection: A Model-Specific Simplification of the Mouse Grimace Scale, **researchsquare.com** 2021. DOI: 10.21203/rs.3.rs-1152582/v1.
+* Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba, **Steven R. Talbot**; Closing an Eye for the Reliability of Orbital Tightening in Pain Detection: A Model-Specific Simplification of the Mouse Grimace Scale, **researchsquare.com** 2021. DOI: 10.21203/rs.3.rs-1152582/v1.
 
-Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, Ulrike Heinicke; Plasma RIPK3 And HMGB1 Predict Severe COVID-19 Progression In ICU Patients: A Single-Center Cohort Study, researchsquare.com **2021**. doi: https://doi.org/10.21203/rs.3.rs-1064345/v1.
+* Katharina Ruskowski, Holger Neb, **Steven R Talbot**, Suma Choorapoikayil, Elisabeth H Adam, Andreas von Knethen, Kai Zacharowski, Ulrike Heinicke; Plasma RIPK3 And HMGB1 Predict Severe COVID-19 Progression In ICU Patients: A Single-Center Cohort Study, researchsquare.com **2021**. doi: https://doi.org/10.21203/rs.3.rs-1064345/v1.
 
-**Steven R. Talbot**, Birgitta Struve, Laura Wassermann, Miriam Heider, Nora Weegh, Tilo Knape, Martine C. J. Hofmann, Andreas von Knethen, Paulin Jirkof, Lydia Keubler, André Bleich, Christine Häger. One score to rule them all: severity assessment in laboratory mice. bioRxiv **2020**.06.23.166801; doi: https://doi.org/10.1101/2020.06.23.166801.
+* **Steven R. Talbot**, Birgitta Struve, Laura Wassermann, Miriam Heider, Nora Weegh, Tilo Knape, Martine C. J. Hofmann, Andreas von Knethen, Paulin Jirkof, Lydia Keubler, André Bleich, Christine Häger. One score to rule them all: severity assessment in laboratory mice. bioRxiv **2020**.06.23.166801; doi: https://doi.org/10.1101/2020.06.23.166801.
 
 
 ## Book contributions
-Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structures. Autonomous Systems 2019: An Almanac, Herwig Unger (Ed.), Pages 159-169, VDI-Verlag GmbH, Düsseldorf.  
+* Gerhard Sartorius, **Steven Talbot**: Evaluation of Hybrid Measurement Structures. Autonomous Systems 2019: An Almanac, Herwig Unger (Ed.), Pages 159-169, VDI-Verlag GmbH, Düsseldorf.  
 
-**Steven R. Talbot**, Pschyrembel (Klinisches Wörterbuch) - Medizinische Statistik und Studiendesign, 2018.  
+* **Steven R. Talbot**, Pschyrembel (Klinisches Wörterbuch) - Medizinische Statistik und Studiendesign, 2018.  
 
 ## Patent
-W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Detektion von Kampfstoffen. *German patent*, DE 10 2008 054 345 A1, 2010.05.20, 2010.
+* W. A. Halang, G. Sartorius, **S. R. Talbot**; Verfahren und Vorrichtung zur Detektion von Kampfstoffen. *German patent*, DE 10 2008 054 345 A1, 2010.05.20, 2010.
 
 ## Reports & Power Analyses
 
-Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
+* Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
 #### Selected projects
-**2022** Testung von pharmakologischen Formulierungen und Applikationswegen eines neuartigen antiviralen Wirkprinzips zur Prophylaxe und Therapie von SARS-CoV-2 Infektionen im Mausmodell (TWINCORE, Hannover)
+* **2022** Testung von pharmakologischen Formulierungen und Applikationswegen eines neuartigen antiviralen Wirkprinzips zur Prophylaxe und Therapie von SARS-CoV-2 Infektionen im Mausmodell (TWINCORE, Hannover)
 
-**2022** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien – Teil 2 (LMU)
+* **2022** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien – Teil 2 (LMU)
 
-**2021** Präklinische Prüfung gen-editierter CAR-T-Zellen gegen EBV+ -Tumoren (MHH)
+* **2021** Präklinische Prüfung gen-editierter CAR-T-Zellen gegen EBV+ -Tumoren (MHH)
 
-**2021** Tierexperimentelle Untersuchungen zur Behandlung von NASH und NASH induzierter Leberfibrose/Leberzirrhose sowie zur Prävention von NASH/DEN bzw. onkogen induzierter induzierter Karzinomentwicklung durch Lipidnanopartikel- und AAV vermittelte Expression von kodonoptimierter HNF-4 alpha mRNA (TWINCORE, MHH, Hannover)
+* **2021** Tierexperimentelle Untersuchungen zur Behandlung von NASH und NASH induzierter Leberfibrose/Leberzirrhose sowie zur Prävention von NASH/DEN bzw. onkogen induzierter induzierter Karzinomentwicklung durch Lipidnanopartikel- und AAV vermittelte Expression von kodonoptimierter HNF-4 alpha mRNA (TWINCORE, MHH, Hannover)
 
-**2021** Charakterisierung von Kandidatengenen und Einfluss auf das Differenzierungsverhalten von leukämischen Stammzellpopulationen (MHH)
+* **2021** Charakterisierung von Kandidatengenen und Einfluss auf das Differenzierungsverhalten von leukämischen Stammzellpopulationen (MHH)
 
-**2020** Verbesserung der Flüssigkeitsresorption und der Entzündung im Dickdarm von SLC26a3-defizienten Mäusen durch kurzkettige Fettsäuren (MHH)
+* **2020** Verbesserung der Flüssigkeitsresorption und der Entzündung im Dickdarm von SLC26a3-defizienten Mäusen durch kurzkettige Fettsäuren (MHH)
 
-**2020** Verwendung von Multiplexing-Assays zur Chrakterisierung der Stammzellnische in einem akuten myeloischen Leukämiemodell (MHH)
+* **2020** Verwendung von Multiplexing-Assays zur Chrakterisierung der Stammzellnische in einem akuten myeloischen Leukämiemodell (MHH)
 
-**2020** Charakterisierung von AAV-Kapsidvarianten für die Leber-gerichtete in vivo-Gentherapie (MHH)
+* **2020** Charakterisierung von AAV-Kapsidvarianten für die Leber-gerichtete in vivo-Gentherapie (MHH)
 
-**2020** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien (LMU München)
+* **2020** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien (LMU München)
 
-**2020** Eine lentivirale Vektor-Toolbox zur Erleichterung der HLA-Anpassung und Optimierung der adaptiven menschlichen Immunantwort bei humanisierten Mäusen (MHH)
+* **2020** Eine lentivirale Vektor-Toolbox zur Erleichterung der HLA-Anpassung und Optimierung der adaptiven menschlichen Immunantwort bei humanisierten Mäusen (MHH)
 
-**2019** Evidenz-basierte Untersuchung von Refinement-Maßnahmen in Tiermodellen der neurowissenschaftlichen Forschung (LMU München)
+* **2019** Evidenz-basierte Untersuchung von Refinement-Maßnahmen in Tiermodellen der neurowissenschaftlichen Forschung (LMU München)
 
-**2019** ICC Multilab Analysis (RWTH Aachen).
+* **2019** ICC Multilab Analysis (RWTH Aachen).
 
-**2019** Multilab-Studie: Bestimmung der idealen Haltungsform von Mäusen im Multilaborvergleich (FOR2591).
+* **2019** Multilab-Studie: Bestimmung der idealen Haltungsform von Mäusen im Multilaborvergleich (FOR2591).
 
-**2019** Myokardiale Hypertrophie: die Rolle der circRNAs circ2, circ24, circA, circB.
+* **2019** Myokardiale Hypertrophie: die Rolle der circRNAs circ2, circ24, circA, circB.
 
-**2018** Etablierung neuer Therapiemöglichkeiten zur Behandlung pädiatrischer Leukämien (Universitätsklinikum Halle (Saale))
+* **2018** Etablierung neuer Therapiemöglichkeiten zur Behandlung pädiatrischer Leukämien (Universitätsklinikum Halle (Saale))
 
-**2018** Auslösen des Whitten-Effekts in einem IVC-Haltesystem im Vergleich zur „offenen“ Käfighaltung.
+* **2018** Auslösen des Whitten-Effekts in einem IVC-Haltesystem im Vergleich zur „offenen“ Käfighaltung.
 
-**2018** Zucht von Rattenstämmen, die einen autoimmunen Diabetes entwickeln können.
+* **2018** Zucht von Rattenstämmen, die einen autoimmunen Diabetes entwickeln können.
 
-**2018** Charakterisierung der Alpk1 Knock-out-Maus im Colitis Modell.
+* **2018** Charakterisierung der Alpk1 Knock-out-Maus im Colitis Modell.
 
-**2018** Lentivirale Behandlung des Omenn Syndroms.
+* **2018** Lentivirale Behandlung des Omenn Syndroms.
 
-**2018** Immuntherapie zur Behandlung des hepatozellulären Karzinoms: Anwendung von Checkpoint Inhibitoren und CAR-T-Zellen.
+* **2018** Immuntherapie zur Behandlung des hepatozellulären Karzinoms: Anwendung von Checkpoint Inhibitoren und CAR-T-Zellen.
 
-**2018** Rolle der – im septischen Endothel überexprimierten – microRNA (MIR) 155 an der Pathogenese des septischen Kapillarlecks.
+* **2018** Rolle der – im septischen Endothel überexprimierten – microRNA (MIR) 155 an der Pathogenese des septischen Kapillarlecks.
 
-**2018** Verbesserung der Flüssigkeitsbalance und des Mikrobioms im CFTR-defizienten Darm.
+* **2018** Verbesserung der Flüssigkeitsbalance und des Mikrobioms im CFTR-defizienten Darm.
 
-**2018** ldentifizierung HIF1alpha-vermittelter und unabhängiger kardioprotektiver Mechanismen bei chronischer Hypoxie.
+* **2018** ldentifizierung HIF1alpha-vermittelter und unabhängiger kardioprotektiver Mechanismen bei chronischer Hypoxie.
 
-**2018** Die Bedeutung von MIRO1 und MIRO2 im embryonalen und adulten Herzen.
+* **2018** Die Bedeutung von MIRO1 und MIRO2 im embryonalen und adulten Herzen.
 
-**2017** Potent and Reversible Lentiviral Vector Restriction in Murine Induced Pluripotent Stem Cells.
+* **2017** Potent and Reversible Lentiviral Vector Restriction in Murine Induced Pluripotent Stem Cells.
 
-**2017** Zellersatztherapie des Diabetes mellitus.
+* **2017** Zellersatztherapie des Diabetes mellitus.
 
-**2017** LEW.WKY-Dnd1ter - Gruppenvergleiche.
+* **2017** LEW.WKY-Dnd1ter - Gruppenvergleiche.
 
-**2017** Analyse zellulärer, DNS-, MikroRNA-, Transkriptionsfaktor- und Peptid- basierter Therapien in genetischen, akuten und chronischen Schädigungen der Mausleber.
+* **2017** Analyse zellulärer, DNS-, MikroRNA-, Transkriptionsfaktor- und Peptid- basierter Therapien in genetischen, akuten und chronischen Schädigungen der Mausleber.
 
-**2017** Vergleichende Untersuchungen potentieller Knochenersatzmaterialien unter besonderer Berücksichtigung der Angiogenese in der Rückenhautkammer an der Maus.
+* **2017** Vergleichende Untersuchungen potentieller Knochenersatzmaterialien unter besonderer Berücksichtigung der Angiogenese in der Rückenhautkammer an der Maus.
 
-**2016** MHC silencing und Nierentransplantation.
+* **2016** MHC silencing und Nierentransplantation.
 
 
 
