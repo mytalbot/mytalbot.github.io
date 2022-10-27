@@ -34,7 +34,9 @@ Gerhard Sartorius and **Steven R. Talbot**; Multivariate adaptation and classifi
 
 
 ### Co-authorships 
-Bufe S, Zimmermann A, Ravens S, Prinz I, Buitrago-Molina L, E, Geffers R, Woller N, Kühnel F, **Talbot S**, R, Noyan F, Manns M, P, Wedemeyer H, Hardtke-Wolenski M, Jaeckel E, Davalos-Misslitz A, C: PD-1/CTLA-4 blockade leads to expansion of CD8+PD-1int TILs and results in tumor remission in experimental liver cancer. **Liver Cancer** 2022. doi: 10.1159/000526899.
+Pfeffer, T. J., Mueller, J. H., Haebel, L., Erschow, S., Yalman, K. C., **Talbot, S. R.**, Koenig, T., Berliner, D., Zwadlo, C., Scherr, M., Hilfiker-Kleiner, D., Bauersachs, J., and Ricke-Hoch, M. (2022) Cabergoline treatment promotes myocardial recovery in peripartum cardiomyopathy, **ESC Heart Failure**, doi: https://doi.org/10.1002/ehf2.14210
+
+Bufe S, Zimmermann A, Ravens S, Prinz I, Buitrago-Molina L, E, Geffers R, Woller N, Kühnel F, **Talbot S**, R, Noyan F, Manns M, P, Wedemeyer H, Hardtke-Wolenski M, Jaeckel E, Davalos-Misslitz A, C; PD-1/CTLA-4 blockade leads to expansion of CD8+PD-1int TILs and results in tumor remission in experimental liver cancer. **Liver Cancer** 2022. doi: 10.1159/000526899.
 
 Alice Rovai, BoMee Chung, Qingluan Hu, Sebastian Hook, Qinggong Yuan, Tibor Kempf, Florian Schmidt, Dirk Grimm, **Steven R. Talbot**, Lars Steinbrück, Jasper Götting, Jens Bohne, Simon A. Krooss & Michael Ott. In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. **Nat Commun** 13, 5215 (2022). https://doi.org/10.1038/s41467-022-32906-9.
 
