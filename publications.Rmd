@@ -158,6 +158,8 @@ DOI: 10.1055/s-0042-1744101.
 * Since 2016 I'm offering professional statistical reports (German: **Gutachten**) for sample size calculations & Power Analyses. The following reports are a selection of the major projects for which I did the power analysis. Please note: in Germany, every experiment using laboratory animals requires a proper power analysis. Most of the following titles are, therefore, in German.
 
 #### Selected projects
+* **2022** Entwicklung und Terminierung präzisionsmedizinischer Therapieansätze für das Dravet-Syndrom (LMU)
+
 * **2022** Testung von pharmakologischen Formulierungen und Applikationswegen eines neuartigen antiviralen Wirkprinzips zur Prophylaxe und Therapie von SARS-CoV-2 Infektionen im Mausmodell (TWINCORE, Hannover)
 
 * **2022** Untersuchung der funktionellen Rolle des Sigma-1-Rezeptors während der Epilepsieentstehung: Eignung als Zielstruktur für präventive Strategien – Teil 2 (LMU)
