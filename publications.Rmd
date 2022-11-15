@@ -131,11 +131,10 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 DOI: 10.1055/s-0042-1744101.
 
 ### Preprints
-* Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases
-**Steven R. Talbot**, Simone Kumstel, Benjamin Schulz, Guanglin Tang, Ahmed Abdelrahman, Nico Seume, Edgar Heinz Uwe Wendt, Johanna Eichberg, Christine Häger, André Bleich, Brigitte Vollmar, Dietmar Zechner, **bioRxiv** 2022.11.14.516441; doi: https://doi.org/10.1101/2022.11.14.516441.
+* **Steven R. Talbot**, Simone Kumstel, Benjamin Schulz, Guanglin Tang, Ahmed Abdelrahman, Nico Seume, Edgar Heinz Uwe Wendt, Johanna Eichberg, Christine Häger, André Bleich, Brigitte Vollmar, Dietmar Zechner; Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases, **bioRxiv** 2022.11.14.516441; doi: https://doi.org/10.1101/2022.11.14.516441.
 
 * Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot**, Fabian Kiessling
-**medRxiv** 2022.06.27.22276377; doi: https://doi.org/10.1101/2022.06.27.22276377
+**medRxiv** 2022.06.27.22276377; doi: https://doi.org/10.1101/2022.06.27.22276377.
 
 * Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther M. Pogatzki-Zahn, André Bleich, Anke Tappe-Theodor; Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **bioRxiv** 2022.10.03.510524; doi: https://doi.org/10.1101/2022.10.03.510524.
 
