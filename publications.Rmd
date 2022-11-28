@@ -11,11 +11,11 @@ output:
 ## Publications
 
 ### First or last authorship 
-* **Talbot SR**, Struve B, Wassermann L, Heider M, Weegh N, Knape T, Hofmann MCJ, von Knethen A, Jirkof P, Häger C and Bleich A (2022) RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. **Front. Vet. Sci.** 9:937711. doi: 10.3389/fvets.2022.937711
+* **Talbot SR**, Struve B, Wassermann L, Heider M, Weegh N, Knape T, Hofmann MCJ, von Knethen A, Jirkof P, Häger C and Bleich A (2022) RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. **Front. Vet. Sci.** 9:937711. doi: 10.3389/fvets.2022.937711.
 
-* Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba & **Steven R. Talbot**. A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. **Sci Rep** 12, 10910 (2022). https://doi.org/10.1038/s41598-022-14852-0
+* Lisa Ernst, Stefan Bruch, Marcin Kopaczka, Dorit Merhof, André Bleich, René H. Tolba & **Steven R. Talbot**. A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. **Sci Rep** 12, 10910 (2022). https://doi.org/10.1038/s41598-022-14852-0.
 
-* Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366
+* Mallien AS, Pfeiffer N, Brandwein C, Inta D, Sprengel R, Palme R, **Talbot SR** and Gass P (2022) Comparative Severity Assessment of Genetic, Stress-Based, and Pharmacological Mouse Models of Depression. **Front. Behav. Neurosci.** 16:908366. doi: 10.3389/fnbeh.2022.908366.
 
 * Adrian Schwarzer, **Steven R. Talbot**, Anton Selich, Michael Morgan, Juliane W. Schott, Oliver Dittrich-Breiholz, Antonella L. Bastone, Bettina Weigel, Teng Cheong Ha, Violetta Dziadek, Rik Gijsbers, Adrian J. Thrasher, Frank JT. Staal, Hubert B. Gaspar, Ute Modlich, Axel Schambach, Michael Rothe, Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning, **Molecular Therapy**, 2021,
 ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
