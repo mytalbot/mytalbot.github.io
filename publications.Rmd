@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+* Neb H, **Talbot SR**, Ruskowski K, Brkic D, Sonntagbauer M, Adam EH, von Knethen A, Zacharowski K, Heinicke U. HIGH HEPARANASE LEVEL IN SURVIVORS OF COVID-19 - INDICATOR OF VASCULAR AND PULMONARY RECOVERY? **Shock**. 2022 Dec 1;58(6):514-523. doi: 10.1097/SHK.0000000000002021. Epub 2022 Oct 31. PMID: 36548643.
+
 * Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot** & Fabian Kiessling.  Digitalization impacts the COVID-19 pandemic and the stringency of government measures. **Sci Rep** 12, 21628 (2022). https://doi.org/10.1038/s41598-022-24726-0.
 
 * **Talbot SR**, Struve B, Wassermann L, Heider M, Weegh N, Knape T, Hofmann MCJ, von Knethen A, Jirkof P, Häger C and Bleich A (2022) RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. **Front. Vet. Sci.** 9:937711. doi: 10.3389/fvets.2022.937711.
