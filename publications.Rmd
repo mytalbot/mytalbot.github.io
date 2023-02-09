@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+
+
 * Neb H, **Talbot SR**, Ruskowski K, Brkic D, Sonntagbauer M, Adam EH, von Knethen A, Zacharowski K, Heinicke U. HIGH HEPARANASE LEVEL IN SURVIVORS OF COVID-19 - INDICATOR OF VASCULAR AND PULMONARY RECOVERY? **Shock**. 2022 Dec 1;58(6):514-523. doi: 10.1097/SHK.0000000000002021. Epub 2022 Oct 31. PMID: 36548643.
 
 * Helen Heinrichs, Florian Mueller, Lucia Rohfleisch, Volkmar Schulz, **Steven R. Talbot** & Fabian Kiessling.  Digitalization impacts the COVID-19 pandemic and the stringency of government measures. **Sci Rep** 12, 21628 (2022). https://doi.org/10.1038/s41598-022-24726-0.
@@ -40,7 +42,11 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
-* Anna Lieske, Eric Agyeman-Duah, Anton Selich, Nicole Dörpmund, **Steven R. Talbot**, Axel Schambach & Tobias Maetzig.A pro B cell population forms the apex of the leukemic hierarchy in Hoxa9/Meis1-dependent AML. **Leukemia** (2022). https://doi.org/10.1038/s41375-022-01775-y.
+* Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther Pogatzki-Zahn, André Bleich & Anke Tappe-Theodor. Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **Sci Rep** 13, 2289 (2023). https://doi.org/10.1038/s41598-023-29052-7.
+
+* Teresa Schmidt, Sebastian Meller, **Steven R. Talbot**, Rowena Mary Anne Packer, Holger Andreas Volk. Urinary neurotransmitter analysis and canine behavior assessment, **Front. Vet. Sci.**, 10:1124231. doi: https://10.3389/fvets.2023.1124231. 
+
+* Anna Lieske, Eric Agyeman-Duah, Anton Selich, Nicole Dörpmund, **Steven R. Talbot**, Axel Schambach & Tobias Maetzig. A pro B cell population forms the apex of the leukemic hierarchy in Hoxa9/Meis1-dependent AML. **Leukemia** (2022). https://doi.org/10.1038/s41375-022-01775-y.
 
 * Pfeffer, T. J., Mueller, J. H., Haebel, L., Erschow, S., Yalman, K. C., **Talbot, S. R.**, Koenig, T., Berliner, D., Zwadlo, C., Scherr, M., Hilfiker-Kleiner, D., Bauersachs, J., and Ricke-Hoch, M. (2022) Cabergoline treatment promotes myocardial recovery in peripartum cardiomyopathy, **ESC Heart Failure**, doi: https://doi.org/10.1002/ehf2.14210
 
