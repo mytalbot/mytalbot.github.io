@@ -11,7 +11,7 @@ output:
 ## Publications
 
 ### First or last authorship 
-
+* **Talbot, S.R.**, Kumstel, S., Schulz, B. et al. Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases. **Sci Rep** 13, 2605 (2023). https://doi.org/10.1038/s41598-023-29623-8.
 
 * Neb H, **Talbot SR**, Ruskowski K, Brkic D, Sonntagbauer M, Adam EH, von Knethen A, Zacharowski K, Heinicke U. HIGH HEPARANASE LEVEL IN SURVIVORS OF COVID-19 - INDICATOR OF VASCULAR AND PULMONARY RECOVERY? **Shock**. 2022 Dec 1;58(6):514-523. doi: 10.1097/SHK.0000000000002021. Epub 2022 Oct 31. PMID: 36548643.
 
