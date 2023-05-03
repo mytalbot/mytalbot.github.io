@@ -42,6 +42,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Tix L, Ernst L, Bungardt B, Talbot SR, Hilken G, Tolba RH (2023) Establishment of the body condition score for adult female Xenopus laevis. PLoS ONE 18(4): e0280000. https://doi.org/10.1371/journal.pone.0280000.
+
 * Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther Pogatzki-Zahn, André Bleich & Anke Tappe-Theodor. Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **Sci Rep** 13, 2289 (2023). https://doi.org/10.1038/s41598-023-29052-7.
 
 * Teresa Schmidt, Sebastian Meller, **Steven R. Talbot**, Rowena Mary Anne Packer, Holger Andreas Volk. Urinary neurotransmitter analysis and canine behavior assessment, **Front. Vet. Sci.**, 10:1124231. doi: https://10.3389/fvets.2023.1124231. 
