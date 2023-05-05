@@ -42,7 +42,7 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
-* Braun T, Pruene A, Darguzyte M, vom Stein AF, Nguyen P-H, Wagner DL, Kath J, Roig-Merino A, Heuser M, Riehm LL, Schneider A, Awerkiew S, **Talbot SR**, Bleich A, Figueiredo C, Bornhäuser M and Stripecke R (2023) Non-viral TRAC-knocked-in CD19KICAR-T and gp350KICAR-T cells tested against Burkitt lymphomas with type 1 or 2 EBV infection: In vivo cellular dynamics and potency. **Front. Immunol.** 14:1086433. doi: 10.3389/fimmu.2023.1086433.
+* Braun T, Pruene A, Darguzyte M, vom Stein AF, Nguyen P-H, Wagner DL, Kath J, Roig-Merino A, Heuser M, Riehm LL, Schneider A, Awerkiew S, **Talbot SR**, Bleich A, Figueiredo C, Bornhäuser M and Stripecke R (2023) Non-viral TRAC-knocked-in CD19KICAR-T and gp350KICAR-T cells tested against Burkitt lymphomas with type 1 or 2 EBV infection: In vivo cellular dynamics and potency. **Front. Immunol.** 14:1086433. doi: https://doi.org/10.3389/fimmu.2023.1086433.
 
 * Tix L, Ernst L, Bungardt B, Talbot SR, Hilken G, Tolba RH (2023) Establishment of the body condition score for adult female Xenopus laevis. PLoS ONE 18(4): e0280000. https://doi.org/10.1371/journal.pone.0280000.
 
