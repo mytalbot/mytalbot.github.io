@@ -48,7 +48,7 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 * Daniel Segelcke, **Steven R. Talbot**, Rupert Palme, Carmen La Porta, Esther Pogatzki-Zahn, André Bleich & Anke Tappe-Theodor. Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions, **Sci Rep** 13, 2289 (2023). https://doi.org/10.1038/s41598-023-29052-7.
 
-* Teresa Schmidt, Sebastian Meller, **Steven R. Talbot**, Rowena Mary Anne Packer, Holger Andreas Volk. Urinary neurotransmitter analysis and canine behavior assessment, **Front. Vet. Sci.**, 10:1124231. doi: https://10.3389/fvets.2023.1124231. 
+* Teresa Schmidt, Sebastian Meller, **Steven R. Talbot**, Rowena Mary Anne Packer, Holger Andreas Volk. Urinary neurotransmitter analysis and canine behavior assessment, **Front. Vet. Sci.**, (2023). 10:1124231. doi: https://doi.org/10.3389/fvets.2023.1124231.
 
 * Anna Lieske, Eric Agyeman-Duah, Anton Selich, Nicole Dörpmund, **Steven R. Talbot**, Axel Schambach & Tobias Maetzig. A pro B cell population forms the apex of the leukemic hierarchy in Hoxa9/Meis1-dependent AML. **Leukemia** (2022). https://doi.org/10.1038/s41375-022-01775-y.
 
