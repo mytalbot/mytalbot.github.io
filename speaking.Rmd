@@ -7,6 +7,8 @@ output:
 ---
 
 ## Invited
+**2023** Charité 3R Lecture: RELSA - Relative Severity Assessment in Laboratory Animals (Charité, Berlin).  
+
 **2023** Oxford 3Rs Symposium (University of Oxford, GB): Analysis of longitudinal
 data and its application to welfare monitoring/scoring.
 
