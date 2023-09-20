@@ -7,6 +7,10 @@ output:
 ---
 
 ## Invited
+**2023** 12th World Congress on Alternatives and Animal Use in the Life Sciences: Leveraging Data Science for Better Severity Assessment in Laboratory Animal Science (Niagara Falls, Canada).
+
+**2023** 12th World Congress on Alternatives and Animal Use in the Life Sciences: The RELSA Score - An Evidence-Based Tool for Better Severity Assessment in Animal Research (Niagara Falls, Canada).
+
 **2023** Charité 3R Lecture: RELSA - Relative Severity Assessment in Laboratory Animals (Charité, Berlin).  
 
 **2023** Oxford 3Rs Symposium (University of Oxford, GB): Analysis of longitudinal
@@ -74,7 +78,7 @@ assessment (Tecniplast, Buguggiate (VA), Italy).
 
 **2021** T. Schmidt, S. Meller, **S.R. Talbot**, B.A. Berk, T.H. Law, S.L. Hobbs, R.M.A. Packer, H.A. Volk. URINARY NEUROTRANSMITTER PATTERNS ARE ALTERED IN CANINE EPILEPSY. ESVN symposium 2021.
 
-**2021** T. Schmidt1, S. Meller, R.M.A. Packer, **S.R. Talbot**, H.A. Volk. Urinary neurotransmitter analysis in canine behavioural disorders. Journal of Veterinary Internal Medicine (JVIM); ACVIM (American College of Veterinary Internal Medicine).
+**2021** T. Schmidt, S. Meller, R.M.A. Packer, **S.R. Talbot**, H.A. Volk. Urinary neurotransmitter analysis in canine behavioural disorders. Journal of Veterinary Internal Medicine (JVIM); ACVIM (American College of Veterinary Internal Medicine).
 
 **2019** Ines Koska, R. Maarten van Dijk, **Steven R. Talbot**, Isabel Seiffert, Valentina di Liberto, Christina Möller, André Bleich and Heidrun Potschka; Developing composite measure schemes for the assessment of severity in animal models, Vetpharm Symposium Munich.
 
