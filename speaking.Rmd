@@ -69,6 +69,30 @@ assessment (Tecniplast, Buguggiate (VA), Italy).
 
 
 ## Contributions & Posters
+**2023** Steven R. Talbot, Christine Häger, Heidrun Potschka, Kerstin Schwabe and André Bleich. Leveraging data science for better severity assessment in laboratory animal science. WC12 Congress Niagara Falls.
+
+**2023** Steven R. Talbot, Christine Häger, Anne Mallien, Dietmar Zechner, Simone Kumstel, Brigitte Vollmar and André Bleich. The RELSA score: An evidence- based tool for better severity assessment in animal research. WC12 Congress Niagara Falls.
+
+**2023** Christine Häger, Steven R. Talbot and André Bleich. Multimodal welfare assessment in laboratory mice after surgery. WC12 Congress Niagara Falls.
+
+**2023** Heidrun Potschka, Maria Reiber, Lara von Schumann, Maarten van Dijk, Verena Buchecker, Vanessa Philippi, André Bleich and Steven Talbot. Development of composite measure schemes for evidence-based severity assessment and refinement in neuroscientific research. WC12 Congress Niagara Falls.
+
+**2023** Alina Ottlewski, Christine Häger, Elvis Hermann, Marion Bankstahl, **Steven R. Talbot**, Joachim K. Krauss, André Bleich and Kerstin Schwabe. Evaluation of running wheel behavior as a reliable marker for severity assessment and
+humane endpoint detection in a rat model with intracranial tumor. WC12 Congress Niagara Falls.
+
+**2023** Anne Stephanie Mallien, **Steven R. Talbot**, Laura Becker, Christiane Brandwein, Natascha Pfeiffer, Anna Munk, Verena Buchecker, Anne Rix, Jasmin Baier, Renee Girbig, Sarah Neunecker, Miriam Vogt, Rupert Palme, Andre Bleich, Fabian Kiessling, Heidrun Potschka, Sabine Chourbaji and Peter Gass. Group versus individual housing in male and female laboratory mice: A multicenter study reveals only subtle differences in severity. WC12 Congress Niagara Falls.
+
+**2023** Christine Häger, Steven R. Talbot and André Bleich. Improved post-operative pain and welfare assessment in sheep. WC12 Congress Niagara Falls.
+
+**2023** Eva Zentrich, Steven R. Talbot, André Bleich and
+Christine Häger. alidation of clinical scoring and home-cage monitoring in a mouse model of acute colitis. WC12 Congress Niagara Falls.
+
+**2023** Verena Buchecker, Lena Boldt, Ines Koska, Isabel Seiffert, Christina Möller, Katharina Aulehner, Rupert Palme, André Bleich, Steven R. Talbot and Heidrun Potschka. Evidence-based severity assessment in epilepsy models as a basis for refinement? WC12 Congress Niagara Falls.
+
+**2023** Christine Häger, Steven R. Talbot and André Bleich. Insights from the home cage: Data science-driven activity analysis enables sensitive welfare assessment in colitis models. WC12 Congress Niagara Falls.
+
+
+
 
 **2021** Schmidt, Teresa; Meller, Sebastian; **Talbot, Steven Roger**; Berk, Benjamin Andreas; Law, Tsz Hong; Hobbs, Sarah; Packer, Rowena Mary Anne; Volk, Holger Andreas. Urinary neurotransmitter patterns are altered in canine epilepsy. 33rd ESVN-ECVN Symposium.
 
