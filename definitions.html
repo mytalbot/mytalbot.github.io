@@ -11,9 +11,10 @@
 
 
 
-<title>definitions.utf8</title>
+<title>definitions.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -28,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 
 <style type="text/css">
@@ -57,6 +58,7 @@ if (window.hljs) {
   }
 }
 </script>
+
 
 
 
@@ -86,6 +88,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -143,11 +148,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +185,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +194,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -298,12 +300,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -311,7 +313,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -336,7 +338,7 @@ div.tocify {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
@@ -384,55 +386,158 @@ div.tocify {
 <h2>Some (short) statistical definitions</h2>
 <div id="logistic-regression" class="section level3">
 <h3>Logistic regression</h3>
-<p>LR is a mathematical method to model the probability of a binary dependent variable (alive/dead, pass/fail, male/female) and an independent variable. There are different kinds of LRs, e.g., when there is more than one independent variable, LR is called multiple LR. There are also solutions for ordinal variables. The resulting coefficients can be used to calculate the Odds and Odds-ratios of certain events. These probabilities can be optimised, e.g., by using ROC analysis. The so found cut-off values can then be applied to validation or test sets to assess the generalisability of the model. LR can also be used for classification tasks.</p>
+<p>LR is a mathematical method to model the probability of a binary
+dependent variable (alive/dead, pass/fail, male/female) and an
+independent variable. There are different kinds of LRs, e.g., when there
+is more than one independent variable, LR is called multiple LR. There
+are also solutions for ordinal variables. The resulting coefficients can
+be used to calculate the Odds and Odds-ratios of certain events. These
+probabilities can be optimised, e.g., by using ROC analysis. The so
+found cut-off values can then be applied to validation or test sets to
+assess the generalisability of the model. LR can also be used for
+classification tasks.</p>
 </div>
 <div id="k-means-clustering" class="section level3">
 <h3>k-means clustering</h3>
-<p>k-means aims to partition <em>n</em> observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. k-means works by minimizing the within-cluster variance (in Euclidean space). The algorithm is a heuristic. Therefore, it might find local solutions rather fast but they can be different each time the algorithm is executed. With the scree-plot, a semi-exact solution is available to estimate the number of “optimal” clusters for a given data set (“at the elbow”", similar to the Kaiser-Guttmann criterion in factor number determination). There are many other cluster algorithms available.</p>
+<p>k-means aims to partition <em>n</em> observations into k clusters in
+which each observation belongs to the cluster with the nearest mean,
+serving as a prototype of the cluster. k-means works by minimizing the
+within-cluster variance (in Euclidean space). The algorithm is a
+heuristic. Therefore, it might find local solutions rather fast but they
+can be different each time the algorithm is executed. With the
+scree-plot, a semi-exact solution is available to estimate the number of
+“optimal” clusters for a given data set (“at the elbow”“, similar to the
+Kaiser-Guttmann criterion in factor number determination). There are
+many other cluster algorithms available.</p>
 </div>
 <div id="support-vector-machine-svm" class="section level3">
 <h3>Support Vector Machine (SVM)</h3>
-<p>SVM classification is a supervised learning method using kernel functions for finding solutions for maximum margin data separation. This means a line or a non-linear separation is mapped to a high dimensional feature space to find solutions where the distances to the kernel function are maximal. The points defining this threshold are called Support Vectors. This approach allows data separation and class attribution even for very complex data structures. Linear classifiers can be represented graphically, e.g., with a hyperplane. Supervised learning needs labelled data. Therefore, data in the SVM-training set need a class. One solution to this problem is the k-means algorithm. It uses a heuristic to label data based on their individual distances to a cluster centroid (=mean). The resulting classes can then be used for labelling the data. This methodology uses inherent data structures to label the data (with all advantages and disadvantages). K-means is an unsupervised technique. A finely trained, optimized, tuned and cross-validated model (to avoid overfitting) can then be used to classify (predict) unknown data. However, test and validation data must not be in the training set under any circumstances. SVMs can also be used for regression tasks.</p>
+<p>SVM classification is a supervised learning method using kernel
+functions for finding solutions for maximum margin data separation. This
+means a line or a non-linear separation is mapped to a high dimensional
+feature space to find solutions where the distances to the kernel
+function are maximal. The points defining this threshold are called
+Support Vectors. This approach allows data separation and class
+attribution even for very complex data structures. Linear classifiers
+can be represented graphically, e.g., with a hyperplane. Supervised
+learning needs labelled data. Therefore, data in the SVM-training set
+need a class. One solution to this problem is the k-means algorithm. It
+uses a heuristic to label data based on their individual distances to a
+cluster centroid (=mean). The resulting classes can then be used for
+labelling the data. This methodology uses inherent data structures to
+label the data (with all advantages and disadvantages). K-means is an
+unsupervised technique. A finely trained, optimized, tuned and
+cross-validated model (to avoid overfitting) can then be used to
+classify (predict) unknown data. However, test and validation data must
+not be in the training set under any circumstances. SVMs can also be
+used for regression tasks.</p>
 </div>
 <div id="bootstrapping" class="section level3">
 <h3>Bootstrapping</h3>
-<p>Bootstrapping is a resampling technique. It is based on random resampling with replacements. It allows assigning measures of accuracy to sample estimates (e.g. regression coefficients, 95% confidence intervals, etc). For example, data of 5 mice are randomly sampled (with replacements = same data can be chosen more than once; e.g., data of mouse 1, 2, 2, 2 and 5 can be chosen). This process is repeated, e.g., 10.000-times and the mean of each “sampling” can be put into a histogram in order to visualize the sample distribution (statistic). This can be used, e.g., in calculations to assess how much the mean varies across samples. The advantage of bootstrapping is that it can be applied to samples even though nothing is known about the underlying statistic (distribution).</p>
+<p>Bootstrapping is a resampling technique. It is based on random
+resampling with replacements. It allows assigning measures of accuracy
+to sample estimates (e.g. regression coefficients, 95% confidence
+intervals, etc). For example, data of 5 mice are randomly sampled (with
+replacements = same data can be chosen more than once; e.g., data of
+mouse 1, 2, 2, 2 and 5 can be chosen). This process is repeated, e.g.,
+10.000-times and the mean of each “sampling” can be put into a histogram
+in order to visualize the sample distribution (statistic). This can be
+used, e.g., in calculations to assess how much the mean varies across
+samples. The advantage of bootstrapping is that it can be applied to
+samples even though nothing is known about the underlying statistic
+(distribution).</p>
 </div>
 <div id="principal-component-analysis-pca" class="section level3">
 <h3>Principal Component Analysis (PCA)</h3>
-<p>PCA is a method for data reduction that uses an orthogonal transformation of (possibly correlated) data into a set uncorrelated variables called <strong>principal components (PC)</strong>. The transformation is such that the first PC has the largest possible variance (in other words: it accounts for as much of the variance as possible). The next PC is calculated orthogonally to the first etc. The resulting (eigen)vectors are linear combinations of the variables and can be used, e.g., to determine the “direction” of variables. PCA has also some disadvantages (which are commonly ignored):</p>
+<p>PCA is a method for data reduction that uses an orthogonal
+transformation of (possibly correlated) data into a set uncorrelated
+variables called <strong>principal components (PC)</strong>. The
+transformation is such that the first PC has the largest possible
+variance (in other words: it accounts for as much of the variance as
+possible). The next PC is calculated orthogonally to the first etc. The
+resulting (eigen)vectors are linear combinations of the variables and
+can be used, e.g., to determine the “direction” of variables. PCA has
+also some disadvantages (which are commonly ignored):</p>
 <ul>
-<li><p>It does not reflect collinearity of variables and would in return show something artificial.</p></li>
-<li><p>PCA requires complete data in order to calculate linear combinations. The nature of experimental data does not allow this every time so that PCA is highly unsuited for finding something sensitive as a “best set” of variables.</p></li>
-<li><p>PCA generalizes variable contributions (e.g., over time). With this, it is not possible to calculate “best” variables on specific time points. Only the generalized contribution over the whole data set can be shown. In severity assessment, this does not necessarily reflect what is going on in the data locally.</p></li>
+<li><p>It does not reflect collinearity of variables and would in return
+show something artificial.</p></li>
+<li><p>PCA requires complete data in order to calculate linear
+combinations. The nature of experimental data does not allow this every
+time so that PCA is highly unsuited for finding something sensitive as a
+“best set” of variables.</p></li>
+<li><p>PCA generalizes variable contributions (e.g., over time). With
+this, it is not possible to calculate “best” variables on specific time
+points. Only the generalized contribution over the whole data set can be
+shown. In severity assessment, this does not necessarily reflect what is
+going on in the data locally.</p></li>
 </ul>
 </div>
-<div id="receiver-operating-characteristic-roc-curve" class="section level3">
+<div id="receiver-operating-characteristic-roc-curve"
+class="section level3">
 <h3>Receiver operating characteristic (ROC curve)</h3>
-<p>The ROC curve is a graphical plot that illustrates the diagnostic ability of a binary classifier (e.g., healthy vs diseased). The ROC curve is created by plotting the true positive rate (TPR) against the false positive rate (FPR = 1-specificity) at various cut-off settings. The performance is the diagnostic ability of the entire diagnostic test (not of a specific cut-off) and can be defined by the area under the curve (AUC). If AUC = 1, the test has perfect sensitivity and specificity, if the AUC= 0.5 the test has no diagnostic ability.</p>
+<p>The ROC curve is a graphical plot that illustrates the diagnostic
+ability of a binary classifier (e.g., healthy vs diseased). The ROC
+curve is created by plotting the true positive rate (TPR) against the
+false positive rate (FPR = 1-specificity) at various cut-off settings.
+The performance is the diagnostic ability of the entire diagnostic test
+(not of a specific cut-off) and can be defined by the area under the
+curve (AUC). If AUC = 1, the test has perfect sensitivity and
+specificity, if the AUC= 0.5 the test has no diagnostic ability.</p>
 </div>
 <div id="the-youdens-index-j" class="section level3">
 <h3>The Youden’s index (J)</h3>
-<p>J indicates the performance (diagnostic ability at a certain value = cut-off) by summarizing the specificity and sensitivity for this cut-off. J ranges from 0 through 1. It is 0 when the cut-off is indifferent A value of 1 indicates that there are no false positives or false negatives, thus the cut-off is perfect. The cut-off with the highest Youden’s index is used to define the optimal cut-off for a binary classifier system (healthy or diseased) in form of a trade-off between sensitivity and specificity (since sensitivity and specificity are equally important for calculating the Youden’s index).</p>
+<p>J indicates the performance (diagnostic ability at a certain value =
+cut-off) by summarizing the specificity and sensitivity for this
+cut-off. J ranges from 0 through 1. It is 0 when the cut-off is
+indifferent A value of 1 indicates that there are no false positives or
+false negatives, thus the cut-off is perfect. The cut-off with the
+highest Youden’s index is used to define the optimal cut-off for a
+binary classifier system (healthy or diseased) in form of a trade-off
+between sensitivity and specificity (since sensitivity and specificity
+are equally important for calculating the Youden’s index).</p>
 <p>J = sensitivity + specificity – 1</p>
 </div>
-<div id="the-cox-proportional-hazards-model-coxph" class="section level3">
+<div id="the-cox-proportional-hazards-model-coxph"
+class="section level3">
 <h3>The Cox proportional hazards model (CoxPh)</h3>
-<p>The CoxPh evaluates the effect of one or several factors (so-called predictors) on survival. It allows an examination of how specified factors influence the rate of death at a particular point in time. The Cox model is expressed by the hazard function denoted by h(t). Briefly, the hazard function can be interpreted as the risk of dying at time t. It can be estimated as follow:</p>
-<p><span class="math display">\[h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})\]</span> where, • t represents the survival time<br />
-• h(t) is the hazard function determined by a set of p covariates (x1,x2,…,xpx1,x2,…,xp)<br />
-• the coefficients (b1,b2,…,bpb1,b2,…,bp) measure the impact (i.e., the effect size) of covariates.<br />
-• the term h0 is called the baseline hazard. It corresponds to the value of the hazard if all the xi are equal to zero (the quantity exp(0) equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over time.</p>
+<p>The CoxPh evaluates the effect of one or several factors (so-called
+predictors) on survival. It allows an examination of how specified
+factors influence the rate of death at a particular point in time. The
+Cox model is expressed by the hazard function denoted by h(t). Briefly,
+the hazard function can be interpreted as the risk of dying at time t.
+It can be estimated as follow:</p>
+<p><span
+class="math display">\[h(t)=h_{0}(t)*exp(b_{1}x_{1}+b_{2}x_{2}+...+b_{p}x_{p})\]</span>
+where, • t represents the survival time<br />
+• h(t) is the hazard function determined by a set of p covariates
+(x1,x2,…,xpx1,x2,…,xp)<br />
+• the coefficients (b1,b2,…,bpb1,b2,…,bp) measure the impact (i.e., the
+effect size) of covariates.<br />
+• the term h0 is called the baseline hazard. It corresponds to the value
+of the hazard if all the xi are equal to zero (the quantity exp(0)
+equals 1). The ‘t’ in h(t) reminds us that the hazard may vary over
+time.</p>
 <p>The Cox Proportional hazards model calculates the hazard rate.<br />
 HR = 1: The predictors have no effect<br />
 HR &lt; 1: The predictors reduce the hazard to die<br />
 HR &gt; 1: The predictors increase the hazard to die</p>
-<p>The <strong>hazard ratio (HR)</strong> is the ratio of the hazard rates to die when considering two conditions: e.g. HR=2 would mean that animals with 10-20% body weight reduction die 2x more likely than animals without body weight reduction.</p>
+<p>The <strong>hazard ratio (HR)</strong> is the ratio of the hazard
+rates to die when considering two conditions: e.g. HR=2 would mean that
+animals with 10-20% body weight reduction die 2x more likely than
+animals without body weight reduction.</p>
 </div>
 <div id="harrells-concordance-index-hc" class="section level3">
 <h3>Harrell’s Concordance index (HC)</h3>
-<p>HC measures how well a prediction model discriminates between a binary outcome (e.g., the animal will die or will live within the next time unit). It is a number between 0.5 and 1 (thus very similar to the area under curve when doing ROC analysis): 1 is a perfect prediction. A Harrell’s concordance index of 0.5 means the prediction is as good as random guessing - therefore, the model has no predictive value.</p>
-<p>Harrell’s concordance index is calculated by analyzing pairs of animals: It counts whether the binary outcomes (predictions) of a CoxPh model are similar (concordant) at each time point. Finally, the C-index is the mean value of total concordances over the time of analysis.</p>
+<p>HC measures how well a prediction model discriminates between a
+binary outcome (e.g., the animal will die or will live within the next
+time unit). It is a number between 0.5 and 1 (thus very similar to the
+area under curve when doing ROC analysis): 1 is a perfect prediction. A
+Harrell’s concordance index of 0.5 means the prediction is as good as
+random guessing - therefore, the model has no predictive value.</p>
+<p>Harrell’s concordance index is calculated by analyzing pairs of
+animals: It counts whether the binary outcomes (predictions) of a CoxPh
+model are similar (concordant) at each time point. Finally, the C-index
+is the mean value of total concordances over the time of analysis.</p>
 </div>
 </div>
 
@@ -474,6 +579,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

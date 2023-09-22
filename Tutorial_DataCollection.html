@@ -13,7 +13,8 @@
 
 <title>Tutorial_DataCollection</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -28,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 
 <style type="text/css">
@@ -57,6 +58,7 @@ if (window.hljs) {
   }
 }
 </script>
+
 
 
 
@@ -86,6 +88,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -143,11 +148,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +185,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +194,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -298,12 +300,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -311,7 +313,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -336,7 +338,7 @@ div.tocify {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
@@ -380,25 +382,68 @@ div.tocify {
 </div>
 
 
-<div id="data-collection-in-small-animal-studies" class="section level1">
+<div id="data-collection-in-small-animal-studies"
+class="section level1">
 <h1>Data collection in small (animal) studies</h1>
 <div id="general-information" class="section level2">
 <h2>General information</h2>
-<p>In small (animal) studies and experiments in general, data collection should already be an integral part of the scientific procedure and experimental design. Later analysis determines how data need to be structured. It is much easier to conduct experiments when the overall workflow is clear from the beginning. In the following sections, a structured way of data collection for statistical analyses is described. You’ll be a much happier scientist if you adhere to this.</p>
+<p>In small (animal) studies and experiments in general, data collection
+should already be an integral part of the scientific procedure and
+experimental design. Later analysis determines how data need to be
+structured. It is much easier to conduct experiments when the overall
+workflow is clear from the beginning. In the following sections, a
+structured way of data collection for statistical analyses is described.
+You’ll be a much happier scientist if you adhere to this.</p>
 <div id="data-collection-software" class="section level4">
 <h4>Data collection software</h4>
-<p>If possible use Microsoft Excel for data collection. However, do not simply collect your data in a way that fits your own style. Keep in mind that one day all of your fancy tables need to analyzed – probably by somebody who is not familiar with your creative colour schemes or statements. Maybe you may even get confused yourself after looking at your data again after a couple of weeks.</p>
-<p>There are a couple of popular file formats such as *.txt files. With some software, it is even easier to work with more specialized formats such as *.json or *.xml files. You may not even have heard of these but they are rather popular with Data Scientists/Statisticians. However, the most common formats come with MS-Excel: *.xls, *.xlsx or even *.csv. So, save and organize your data in MS-Excel. If you have more complex data or need to collect data over longer periods of time, you may consider using MS-Access or even MySQL (SQL=Structured Query Language). The latter two even allow specialized forms of data entry but require decent knowledge of using relational databases.</p>
+<p>If possible use Microsoft Excel for data collection. However, do not
+simply collect your data in a way that fits your own style. Keep in mind
+that one day all of your fancy tables need to analyzed – probably by
+somebody who is not familiar with your creative colour schemes or
+statements. Maybe you may even get confused yourself after looking at
+your data again after a couple of weeks.</p>
+<p>There are a couple of popular file formats such as *.txt files. With
+some software, it is even easier to work with more specialized formats
+such as *.json or *.xml files. You may not even have heard of these but
+they are rather popular with Data Scientists/Statisticians. However, the
+most common formats come with MS-Excel: *.xls, *.xlsx or even *.csv. So,
+save and organize your data in MS-Excel. If you have more complex data
+or need to collect data over longer periods of time, you may consider
+using MS-Access or even MySQL (SQL=Structured Query Language). The
+latter two even allow specialized forms of data entry but require decent
+knowledge of using relational databases.</p>
 <p>Now you should be asking yourself: “<strong>How do I…</strong>”</p>
 </div>
 </div>
 <div id="build-a-table-for-data-collection" class="section level2">
 <h2>Build a table for data collection</h2>
-<p>It is best practice (and this means that almost every analytical software can read this format) to organize patients/animals in rows and variables in columns. <strong>Keep this structure. Period.</strong></p>
-<p><span style="color:red"><strong>Also, keep your main data table clean and structured!</strong></span></p>
-<p>From experience, I can tell that people love making calculations in their collection sheets or like using fancy highlights. Another good sport: introducing empty rows or variables. Don’t! You can use other tabs for doing this but never ever your main datasheet! Any software reading your data will get problems when your table is not strictly organized. Save yourself and your data analyst some decent amount of lifetime by keeping your main data table clean. The table starts in Excel at A1.</p>
-<p>Now, how should a table look like? Here is a very general structure of how your data can be organized. Please keep in mind that this is just an example and your data might need some adaptation.</p>
+<p>It is best practice (and this means that almost every analytical
+software can read this format) to organize patients/animals in rows and
+variables in columns. <strong>Keep this structure. Period.</strong></p>
+<p><span style="color:red"><strong>Also, keep your main data table clean
+and structured!</strong></span></p>
+<p>From experience, I can tell that people love making calculations in
+their collection sheets or like using fancy highlights. Another good
+sport: introducing empty rows or variables. Don’t! You can use other
+tabs for doing this but never ever your main datasheet! Any software
+reading your data will get problems when your table is not strictly
+organized. Save yourself and your data analyst some decent amount of
+lifetime by keeping your main data table clean. The table starts in
+Excel at A1.</p>
+<p>Now, how should a table look like? Here is a very general structure
+of how your data can be organized. Please keep in mind that this is just
+an example and your data might need some adaptation.</p>
 <table>
+<colgroup>
+<col width="10%" />
+<col width="11%" />
+<col width="22%" />
+<col width="7%" />
+<col width="7%" />
+<col width="17%" />
+<col width="10%" />
+<col width="14%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th align="left">index</th>
@@ -484,17 +529,31 @@ div.tocify {
 </tr>
 </tbody>
 </table>
-<p><strong>Important</strong>: If you have no data: (in most cases) leave the cells empty!</p>
+<p><strong>Important</strong>: If you have no data: (in most cases)
+leave the cells empty!</p>
 </div>
 <div id="repeated-measures" class="section level2">
 <h2>Repeated measures</h2>
-<p>Collecting data for repeated measures leaves you with two options – depending on your experimental setup.</p>
+<p>Collecting data for repeated measures leaves you with two options –
+depending on your experimental setup.</p>
 <ol style="list-style-type: decimal">
-<li>Multiple measurements over time (i.e., days: this is called a longitudinal measurement)</li>
-<li>Multiple measurements over time per time (i.e., three per day for n days)</li>
+<li>Multiple measurements over time (i.e., days: this is called a
+longitudinal measurement)</li>
+<li>Multiple measurements over time per time (i.e., three per day for n
+days)</li>
 </ol>
 <p><strong>Example for 1.</strong></p>
 <table>
+<colgroup>
+<col width="10%" />
+<col width="11%" />
+<col width="22%" />
+<col width="7%" />
+<col width="7%" />
+<col width="17%" />
+<col width="10%" />
+<col width="14%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th align="left">index</th>
@@ -580,9 +639,21 @@ div.tocify {
 </tr>
 </tbody>
 </table>
-<p><strong>Note</strong> that animal ids are repetitive but the number for each day is different. Do this for every day you have data for and adjust all the variables in your table accordingly.</p>
+<p><strong>Note</strong> that animal ids are repetitive but the number
+for each day is different. Do this for every day you have data for and
+adjust all the variables in your table accordingly.</p>
 <p><strong>Example for 2.</strong></p>
 <table>
+<colgroup>
+<col width="10%" />
+<col width="11%" />
+<col width="23%" />
+<col width="7%" />
+<col width="7%" />
+<col width="11%" />
+<col width="10%" />
+<col width="16%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th align="left">index</th>
@@ -668,11 +739,38 @@ div.tocify {
 </tr>
 </tbody>
 </table>
-<p>If you have <strong>repeated measures</strong> per day, you can divide your measurements into time segments (e.g., before application, after application and long time after application <em>on the same day</em>!) and enter the repeated measures individually. In this case, each of the time points is treated as a variable and gets a column in the table.</p>
-<p>Names for time-segments should be intuitive and easy to follow. This approach is only applicable if you have multiple measurements for the time period measured (i.e., days). This is called the <strong>“wide”</strong> format. It is only possible when all objects in a database follow the same structure. If you have multiple conditions on multiple days, you simply create another variable column for the conditions and enter values for each day.</p>
-<p>In order to address repeated measures of different lengths (e.g., due to the combination of various different experiments from other workgroups), the <strong>“long”</strong> format is used. Here, only one column for the repeated measures (repeats) is introduced but coded for the repetitions (0=before, 1=after, 2=longafter etc.). Each measurement gets a row and all the other variables remain unchanged.</p>
-<p><strong>Example for repeated measures in the long format.</strong></p>
+<p>If you have <strong>repeated measures</strong> per day, you can
+divide your measurements into time segments (e.g., before application,
+after application and long time after application <em>on the same
+day</em>!) and enter the repeated measures individually. In this case,
+each of the time points is treated as a variable and gets a column in
+the table.</p>
+<p>Names for time-segments should be intuitive and easy to follow. This
+approach is only applicable if you have multiple measurements for the
+time period measured (i.e., days). This is called the
+<strong>“wide”</strong> format. It is only possible when all objects in
+a database follow the same structure. If you have multiple conditions on
+multiple days, you simply create another variable column for the
+conditions and enter values for each day.</p>
+<p>In order to address repeated measures of different lengths (e.g., due
+to the combination of various different experiments from other
+workgroups), the <strong>“long”</strong> format is used. Here, only one
+column for the repeated measures (repeats) is introduced but coded for
+the repetitions (0=before, 1=after, 2=longafter etc.). Each measurement
+gets a row and all the other variables remain unchanged.</p>
+<p><strong>Example for repeated measures in the long
+format.</strong></p>
 <table>
+<colgroup>
+<col width="10%" />
+<col width="11%" />
+<col width="23%" />
+<col width="7%" />
+<col width="7%" />
+<col width="11%" />
+<col width="13%" />
+<col width="15%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th align="left">index</th>
@@ -731,38 +829,112 @@ div.tocify {
 </div>
 <div id="variable-definition" class="section level2">
 <h2>Variable definition</h2>
-<p>Variable names should follow standard rules of informatics. Try to obey the following rules when naming the columns in your data table.</p>
+<p>Variable names should follow standard rules of informatics. Try to
+obey the following rules when naming the columns in your data table.</p>
 <ul>
-<li>Names should contain numbers and characters (=letters) only and need to start with a character</li>
-<li>Special characters like empty spaces, Umlaute, / + - * () : etc. should be avoided. The only exception is underscore “_” which can be used to separate names to make them more readable (i.e., funny_variable)</li>
-<li>Capital letters may be used but may not necessarily lead to different names. Be careful here!</li>
+<li>Names should contain numbers and characters (=letters) only and need
+to start with a character</li>
+<li>Special characters like empty spaces, Umlaute, / + - * () : etc.
+should be avoided. The only exception is underscore “_” which can be
+used to separate names to make them more readable (i.e.,
+funny_variable)</li>
+<li>Capital letters may be used but may not necessarily lead to
+different names. Be careful here!</li>
 </ul>
-<p><strong>Good names</strong>: ID, Id, index, PatNo, group, sex, measure_1, measure_2<br />
+<p><strong>Good names</strong>: ID, Id, index, PatNo, group, sex,
+measure_1, measure_2<br />
 <strong>Bad names</strong>: 1.measurement, weight(kg), PatNo_0n.</p>
-<p>Variable names should give a good indication of what they are coding. At the beginning of each experiment, it may be a good idea to define variables and document them in a data dictionary. Along with a short explanation, a data dictionary also explains possible coding (such as 0 = male, 1=female) and data types (ordinal, nominal, metric). You may abbreviate longer names, but it must be either clear from the context for what they stand for or they should be defined in the data dictionary.</p>
+<p>Variable names should give a good indication of what they are coding.
+At the beginning of each experiment, it may be a good idea to define
+variables and document them in a data dictionary. Along with a short
+explanation, a data dictionary also explains possible coding (such as 0
+= male, 1=female) and data types (ordinal, nominal, metric). You may
+abbreviate longer names, but it must be either clear from the context
+for what they stand for or they should be defined in the data
+dictionary.</p>
 </div>
 <div id="rules-for-patientanimal-data-entry" class="section level2">
 <h2>Rules for patient/animal data entry</h2>
-<p>Data collection always starts with base data. If you have patient data you may have to anonymize your data. For animal data, other information such as strain, breeder and laboratory may be important as well. Key for a correct identification is a <strong>unique identification number</strong>. Unique means, the number you give an animal should never be given again to any other animal within the same data set. In larger databases (with entries from different workgroups or experiments), text <strong>and</strong> number identifiers such as animal1/animal2/animal3 may also be an option. However, it is better using numbers and another variable such as the laboratory etc. for making contrasts.</p>
-<p>A good way to organize animals/patients is by using consecutive numbers (1, 2, 3…). You may further distinguish control groups by adding 10 prior to the consecutive number (101, 102, 103 …). Although this is already a good protection against mixing up the individuals in your analysis, you’ll always want to add a grouping variable in another column, e.g., where sham=0 and treatment =1.</p>
+<p>Data collection always starts with base data. If you have patient
+data you may have to anonymize your data. For animal data, other
+information such as strain, breeder and laboratory may be important as
+well. Key for a correct identification is a <strong>unique
+identification number</strong>. Unique means, the number you give an
+animal should never be given again to any other animal within the same
+data set. In larger databases (with entries from different workgroups or
+experiments), text <strong>and</strong> number identifiers such as
+animal1/animal2/animal3 may also be an option. However, it is better
+using numbers and another variable such as the laboratory etc. for
+making contrasts.</p>
+<p>A good way to organize animals/patients is by using consecutive
+numbers (1, 2, 3…). You may further distinguish control groups by adding
+10 prior to the consecutive number (101, 102, 103 …). Although this is
+already a good protection against mixing up the individuals in your
+analysis, you’ll always want to add a grouping variable in another
+column, e.g., where sham=0 and treatment =1.</p>
 </div>
 <div id="variable-formats" class="section level2">
 <h2>Variable formats</h2>
-<p>In experimental studies, variables are collected in different formats. Age is usually collected as a numeric value (21 weeks, 1 year, 6 days etc.). But there are other variables such as sex or animal strain data. In order to use these data in your analysis as well, you need to code them with a numeric value. You can code, e.g., 0=male and 1=female. This is critical since most software cannot use entries such as “present” or “not present” to make calculations. Even “m” for “male” or “f” for “female” may prove problematic. Therefore, it is best to code all variables as numbers. Think of how much you will benefit from this by including variables you would otherwise not have had included in your analysis!</p>
-<p>Of course, there are some rules attached to coding variable formats as well…</p>
+<p>In experimental studies, variables are collected in different
+formats. Age is usually collected as a numeric value (21 weeks, 1 year,
+6 days etc.). But there are other variables such as sex or animal strain
+data. In order to use these data in your analysis as well, you need to
+code them with a numeric value. You can code, e.g., 0=male and 1=female.
+This is critical since most software cannot use entries such as
+“present” or “not present” to make calculations. Even “m” for “male” or
+“f” for “female” may prove problematic. Therefore, it is best to code
+all variables as numbers. Think of how much you will benefit from this
+by including variables you would otherwise not have had included in your
+analysis!</p>
+<p>Of course, there are some rules attached to coding variable formats
+as well…</p>
 <ul>
-<li>Ordinal data should be scaled with integer numbers in an ascending order (1=very good, 2=good, 3=bad, 4=very bad etc.)</li>
-<li>For multiple dichotomous variables with yes/no answers the coding should be the same for the whole data set (i.e., always: 0=no, 1=yes).</li>
-<li>Keep an eye on metric data dimensions (e.g., for physiological data). Although most statistical tests are insensitive to dimensional transformations, it may still be important to know whether you are measuring seconds or milliseconds. But in general, metric data don’t need to be coded. They are ready to use.</li>
+<li>Ordinal data should be scaled with integer numbers in an ascending
+order (1=very good, 2=good, 3=bad, 4=very bad etc.)</li>
+<li>For multiple dichotomous variables with yes/no answers the coding
+should be the same for the whole data set (i.e., always: 0=no,
+1=yes).</li>
+<li>Keep an eye on metric data dimensions (e.g., for physiological
+data). Although most statistical tests are insensitive to dimensional
+transformations, it may still be important to know whether you are
+measuring seconds or milliseconds. But in general, metric data don’t
+need to be coded. They are ready to use.</li>
 </ul>
-<p>If you plan on coding your variables, there are another couple of minor points you need to know.</p>
+<p>If you plan on coding your variables, there are another couple of
+minor points you need to know.</p>
 <p><strong>a) No additional annotations for numeric data</strong><br />
-Most statistical programs can read numbers only. Percent (%) or &lt;&gt; signs etc. should not be included in any variable field. 5% would therefore simply be 5. Although Excel makes it really easy to code numbers as percentages, avoid this. Also, do not use lists in a single field (i.e., 1,2,7 etc.). For such cases, you can code dummy variables with 0=no and 1=yes in additional columns.</p>
+Most statistical programs can read numbers only. Percent (%) or &lt;&gt;
+signs etc. should not be included in any variable field. 5% would
+therefore simply be 5. Although Excel makes it really easy to code
+numbers as percentages, avoid this. Also, do not use lists in a single
+field (i.e., 1,2,7 etc.). For such cases, you can code dummy variables
+with 0=no and 1=yes in additional columns.</p>
 <p><strong>b) Delimiters</strong><br />
-For your own sanity: use English delimiters in your data table. Although most analytical software can detect “comma” as decimal delimiter, it may still lead to errors when reading in data. German and English Excel versions do some things differently. Value=5,000 in German means 5, whereas in the English version it means 5000. The same value in the English version would be 5.000. Point and comma have different meanings here and may even come into conflict with your natural OS language. In Excel under “options”, you can change decimal delimiters. Keep a close eye on what your Excel is doing and how your data are imported later.</p>
+For your own sanity: use English delimiters in your data table. Although
+most analytical software can detect “comma” as decimal delimiter, it may
+still lead to errors when reading in data. German and English Excel
+versions do some things differently. Value=5,000 in German means 5,
+whereas in the English version it means 5000. The same value in the
+English version would be 5.000. Point and comma have different meanings
+here and may even come into conflict with your natural OS language. In
+Excel under “options”, you can change decimal delimiters. Keep a close
+eye on what your Excel is doing and how your data are imported
+later.</p>
 <p><strong>c) Imputation of missing values</strong><br />
-Ok, this is a big one. There is no general rule on how to handle missing values. You can either choose to leave the fields empty or add a point “.”. The latter is only good for SPSS or SAS. If you plan on using anything else: <strong>leave empty fields empty</strong>. Do NOT write “?” or “none” etc. There are several methods on how to calculate values for missing data (called imputations). If you plan on using these techniques because you need a full matrix and have only a few missing values, contact your local statistician to work something out.</p>
-<p>Before analysis, it is strongly advised to control your data table thoroughly. Especially when data are collated from different sources by hand, lots of copy/paste errors may occur. Ask your colleague(s) to have a look at your data table(s) and spend a decent amount of time organizing it. It will simplify your analysis and will also make your work much more reproducible and transparent.</p>
+Ok, this is a big one. There is no general rule on how to handle missing
+values. You can either choose to leave the fields empty or add a point
+“.”. The latter is only good for SPSS or SAS. If you plan on using
+anything else: <strong>leave empty fields empty</strong>. Do NOT write
+“?” or “none” etc. There are several methods on how to calculate values
+for missing data (called imputations). If you plan on using these
+techniques because you need a full matrix and have only a few missing
+values, contact your local statistician to work something out.</p>
+<p>Before analysis, it is strongly advised to control your data table
+thoroughly. Especially when data are collated from different sources by
+hand, lots of copy/paste errors may occur. Ask your colleague(s) to have
+a look at your data table(s) and spend a decent amount of time
+organizing it. It will simplify your analysis and will also make your
+work much more reproducible and transparent.</p>
 <p>Good look with your research!</p>
 </div>
 </div>
@@ -805,6 +977,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
