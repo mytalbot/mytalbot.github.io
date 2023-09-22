@@ -37,35 +37,35 @@ assessment (Tecniplast, Buguggiate (VA), Italy).
 
 **2019** Institute of Pharmacology, Toxicology & Pharmacy (Ludwig-Maximilians-University (LMU), Munich): Conquering human bias - Feature selection for severity assessment. 
 
-**2019** Institut für Mathematik (Universität Zürich, Zurich): An Example for Computational Methods in the Animal Sciences - Tackling Severity Assessment
+**2019** Institut für Mathematik (Universität Zürich, Zurich): An Example for Computational Methods in the Animal Sciences - Tackling Severity Assessment.
 
 **2019** Bundesinstitut für Risikobewertung (BfR, Berlin): Body weight – a “good” predictor for severity in animal models?
 
-**2018** FOR2591 Meeting in Rostock: Use-case „Small Data“: Online Repository & Analyis of mouse body weight data for potential severity assessment
+**2018** FOR2591 Meeting in Rostock: Use-case „Small Data“: Online Repository & Analyis of mouse body weight data for potential severity assessment.
 
-**2018** Institut für Versuchstierkunde (MHH, Hannover): Ratten, Tumore und Aktien - Mit Risiko dem Ende entgegen
+**2018** Institut für Versuchstierkunde (MHH, Hannover): Ratten, Tumore und Aktien - Mit Risiko dem Ende entgegen.
 
-**2018** Institut für Versuchstierkunde (MHH, Hannover): FOR - FOR2591 Online Repository
+**2018** Institut für Versuchstierkunde (MHH, Hannover): FOR - FOR2591 Online Repository.
 
-**2017** Institut für Versuchstierkunde (MHH, Hannover): Stress level prediction - a classification approach 
+**2017** Institut für Versuchstierkunde (MHH, Hannover): Stress level prediction - a classification approach.
 
-**2016** Institut für physiologische Chemie (MHH, Hannover): Predicting Myosin Dynamics using GROMACS
+**2016** Institut für physiologische Chemie (MHH, Hannover): Predicting Myosin Dynamics using GROMACS.
 
-**2015** Institut für Chemie und Biologie des Meeres (ICBM, Wilhelmshaven): The ESP as an example for marine ecogenomic sensors
+**2015** Institut für Chemie und Biologie des Meeres (ICBM, Wilhelmshaven): The ESP as an example for marine ecogenomic sensors.
 
 **2015** Institut für Chemie und Biologie des Meeres (ICBM, Wilhelmshaven):The problem of feature loss as a potential bottleneck in the detection of pathogenic bacteria.
 
-**2011** Fraunhofer Institut für Toxikologie und Experimentelle Medizin - ITEM (Hannover): Multivariate Statistik und Analysemethoden
+**2011** Fraunhofer Institut für Toxikologie und Experimentelle Medizin - ITEM (Hannover): Multivariate Statistik und Analysemethoden.
 
-**2009** Wehrwissenschaftliches Institut für Schutztechnologien - ABC Schutz (Munster): Identifikation potentieller bakteriologischer Kampfstoffe mit Ramanspektroskopie unter Nutzung von multivariater Statistik
+**2009** Wehrwissenschaftliches Institut für Schutztechnologien - ABC Schutz (Munster): Identifikation potentieller bakteriologischer Kampfstoffe mit Ramanspektroskopie unter Nutzung von multivariater Statistik.
 
-**2008** Hannover Messe/German Bioperspectives (Hannover) - Identification of potential bacterial biological warfare agents with spectroscopic methods using multivariate statistics 
+**2008** Hannover Messe/German Bioperspectives (Hannover) - Identification of potential bacterial biological warfare agents with spectroscopic methods using multivariate statistics. 
 
-**2008** Robert-Koch Institut (RKI, Berlin) - Classification of potential biological warfare agents
+**2008** Robert-Koch Institut (RKI, Berlin) - Classification of potential biological warfare agents.
 
-**2007** Institut für Technische Chemie (TCI, Hannover) - Identifikation von potentiellen BWA mit spektroskopischen Verfahren Identifikation von potentiellen biologischen Kampfstoffen mit Ramanspektrometrie 
+**2007** Institut für Technische Chemie (TCI, Hannover) - Identifikation von potentiellen BWA mit spektroskopischen Verfahren Identifikation von potentiellen biologischen Kampfstoffen mit Ramanspektrometrie.
 
-**2007** ANGCCP Meeting (Sanitätsakademie der Bundeswehr, München) - Identification and Classification of Pathogens with Raman Spectroscopy
+**2007** ANGCCP Meeting (Sanitätsakademie der Bundeswehr, München) - Identification and Classification of Pathogens with Raman Spectroscopy.
 
 
 ## Contributions & Posters
