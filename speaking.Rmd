@@ -7,6 +7,9 @@ output:
 ---
 
 ## Invited
+**2023** Models and Insights in Translational Research 2023 Symposium: The 
+Translational Power of Data Science in Severity Assessment (Faculty of Medicine, Goethe University, Frankfurt/Main).
+
 **2023** 12th World Congress on Alternatives and Animal Use in the Life Sciences: Leveraging Data Science for Better Severity Assessment in Laboratory Animal Science (Niagara Falls, Canada).
 
 **2023** 12th World Congress on Alternatives and Animal Use in the Life Sciences: The RELSA Score - An Evidence-Based Tool for Better Severity Assessment in Animal Research (Niagara Falls, Canada).
