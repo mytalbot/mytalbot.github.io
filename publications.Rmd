@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+* Maria Reiber, Lara von Schumann, Verena Buchecker, Lena Boldt, Peter Gass, André Bleich, **Steven Roger Talbot**, Heidrun Potschka. Evidence-based comparative severity assessment in young and adult mice. **PLOS ONE** 18(10): e0285429 (2023). https://doi.org/10.1371/journal.pone.0285429.
+
 * **Talbot, S.R.**, Kumstel, S., Schulz, B. et al. Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases. **Sci Rep** 13, 2605 (2023). https://doi.org/10.1038/s41598-023-29623-8.
 
 * Neb H, **Talbot SR**, Ruskowski K, Brkic D, Sonntagbauer M, Adam EH, von Knethen A, Zacharowski K, Heinicke U. HIGH HEPARANASE LEVEL IN SURVIVORS OF COVID-19 - INDICATOR OF VASCULAR AND PULMONARY RECOVERY? **Shock**. 2022 Dec 1;58(6):514-523. doi: 10.1097/SHK.0000000000002021. Epub 2022 Oct 31. PMID: 36548643.
@@ -42,6 +44,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Becker L, Mallien AS, Pfeiffer N, Brandwein C, **Talbot SR**, et al. (2023) Evidence-based severity assessment of the forced swim test in the rat. **PLOS ONE** 18(10): e0292816. https://doi.org/10.1371/journal.pone.0292816.
+
 * Keubler, L. M., **Talbot, S. R.**, Bleich, A., & Boyle, E. C. (2023). Systematic review and meta-analysis of the effect of fecal microbiota transplantation on behavior in animals. **Neuroscience & Biobehavioral Reviews**, 105316.
 
 * Braun T, Pruene A, Darguzyte M, vom Stein AF, Nguyen P-H, Wagner DL, Kath J, Roig-Merino A, Heuser M, Riehm LL, Schneider A, Awerkiew S, **Talbot SR**, Bleich A, Figueiredo C, Bornhäuser M and Stripecke R (2023) Non-viral TRAC-knocked-in CD19KICAR-T and gp350KICAR-T cells tested against Burkitt lymphomas with type 1 or 2 EBV infection: In vivo cellular dynamics and potency. **Front. Immunol.** 14:1086433. doi: https://doi.org/10.3389/fimmu.2023.1086433.
