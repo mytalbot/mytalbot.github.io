@@ -7,6 +7,9 @@ output:
 ---
 
 ## Invited
+**2023** Methoden der Datenwissenschaften für eine objektivere Belastungsbeurteilung 
+von Versuchstieren (Nuvisan GmbH, Neu-Ulm).
+
 **2023** Models and Insights in Translational Research 2023 Symposium: The 
 Translational Power of Data Science in Severity Assessment (Faculty of Medicine, Goethe University, Frankfurt/Main).
 
