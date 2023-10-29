@@ -11,7 +11,7 @@ output:
 ## Publications
 
 ### First or last authorship 
-* Zinn, Sebastian; **Talbot, Steven R.2**; Rajapakse, Dammith; Ruskowski, Katharina; Neb, Holger1; Adam, Elisabeth H.; von Knethen, Andreas; Zacharowski, Kai; Heinicke, Ulrike. Evidence from fatal COVID-19 for targeting the bradykinin metabolism - a single-center cohort study. Shock ():10.1097/SHK.0000000000002231, October 13, 2023. | DOI: 10.1097/SHK.0000000000002231.
+* Zinn, Sebastian; **Talbot, Steven R.2**; Rajapakse, Dammith; Ruskowski, Katharina; Neb, Holger1; Adam, Elisabeth H.; von Knethen, Andreas; Zacharowski, Kai; Heinicke, Ulrike. Evidence from fatal COVID-19 for targeting the bradykinin metabolism - a single-center cohort study. **Shock** ():10.1097/SHK.0000000000002231, October 13, 2023. | DOI: 10.1097/SHK.0000000000002231.
  
 * Maria Reiber, Lara von Schumann, Verena Buchecker, Lena Boldt, Peter Gass, André Bleich, **Steven Roger Talbot**, Heidrun Potschka. Evidence-based comparative severity assessment in young and adult mice. **PLOS ONE** 18(10): e0285429 (2023). https://doi.org/10.1371/journal.pone.0285429.
 
