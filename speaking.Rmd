@@ -7,6 +7,8 @@ output:
 ---
 
 ## Invited
+**2024** Statistical Strategies for Robust Research in the Life Sciences (European Molecular Imaging Meeting, EMIM, Porto, Portugal).
+
 **2023** Methoden der Datenwissenschaften für eine objektivere Belastungsbeurteilung 
 von Versuchstieren (Nuvisan GmbH, Neu-Ulm).
 
