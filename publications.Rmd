@@ -11,9 +11,11 @@ output:
 ## Publications
 
 ### First or last authorship 
+* Ohland, P.L.S., Jack, T., Mast, M., Melk, A., **Talbot S.R.**, Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. Sci Rep 14, 7198 (2024). https://doi.org/10.1038/s41598-024-57712-9
+
 * Maria Reiber, Lara von Schumann, Verena Buchecker, Lena Boldt, Peter Gass, André Bleich, **Steven Roger Talbot**, Heidrun Potschka (2023). Evidence-based comparative severity assessment in young and adult mice. **PLOS ONE** 18(10): e0285429. https://doi.org/10.1371/journal.pone.0285429.
 
-* Zinn, Sebastian; **Talbot, Steven R.2**; Rajapakse, Dammith; Ruskowski, Katharina; Neb, Holger1; Adam, Elisabeth H.; von Knethen, Andreas; Zacharowski, Kai; Heinicke, Ulrike. Evidence from fatal COVID-19 for targeting the bradykinin metabolism - a single-center cohort study. **Shock**, October 13, 2023. | DOI: 10.1097/SHK.0000000000002231.
+* Zinn, Sebastian; **Talbot, Steven R.**; Rajapakse, Dammith; Ruskowski, Katharina; Neb, Holger1; Adam, Elisabeth H.; von Knethen, Andreas; Zacharowski, Kai; Heinicke, Ulrike. Evidence from fatal COVID-19 for targeting the bradykinin metabolism - a single-center cohort study. **Shock**, October 13, 2023. | DOI: 10.1097/SHK.0000000000002231.
  
 * Maria Reiber, Lara von Schumann, Verena Buchecker, Lena Boldt, Peter Gass, André Bleich, **Steven Roger Talbot**, Heidrun Potschka. Evidence-based comparative severity assessment in young and adult mice. **PLOS ONE** 18(10): e0285429 (2023). https://doi.org/10.1371/journal.pone.0285429.
 
@@ -48,6 +50,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Baskaya, Ferhan MD; Lemainque, Teresa PhD; Klinkhammer, Barbara PhD; Koletnik, Susanne BSc; von Stillfried, Saskia MD; **Talbot, Steven R. PhD**; Boor, Peter MD; Schulz, Volkmar PhD; Lederle, Wiltrud PhD; Kiessling, Fabian MD. Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. Investigative Radiology ():10.1097/RLI.0000000000001075, April 10, 2024.
+
 * Knorr, Ivonne Jeanette, Leonie Tix, Wenjia Liu, **Steven R. Talbot**, Mareike Schulz, Laura Bell, Babette Kögel, Rene Tolba, and Lisa Ernst. 2024. "Refinement in Post-Operative Care for Orthopaedic Models: Implementing a Sheep Walking Cast (SWC) for Effective Tibial Fracture Management". **Biomedicines** 12, no. 2: 343. https://doi.org/10.3390/biomedicines12020343.
 
 * Becker L, Mallien AS, Pfeiffer N, Brandwein C, **Talbot SR**, et al. (2023) Evidence-based severity assessment of the forced swim test in the rat. **PLOS ONE** 18(10): e0292816. https://doi.org/10.1371/journal.pone.0292816.
