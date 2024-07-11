@@ -50,6 +50,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Schreiber T, Koopmann I, Brandstetter J, **Talbot SR**, Goldstein L, Hoffmann L, Schildt A, Joksch M, Krause B, Jaster R, et al. Evidence-Based Severity Assessment of Animal Models for Pancreatic Cancer. Biomedicines. 2024; 12(7):1494. https://doi.org/10.3390/biomedicines12071494.
+
 * Haake J, Meller S, Meyerhoff N, Twele F, Charalambous M, **Talbot SR** and Volk HA (2024) Comparing standard screening questionnaires of canine behavior for assessment of cognitive dysfunction. **Front. Vet. Sci.** 11:1374511. doi: 10.3389/fvets.2024.1374511.
 
 * Baskaya, Ferhan MD; Lemainque, Teresa PhD; Klinkhammer, Barbara PhD; Koletnik, Susanne BSc; von Stillfried, Saskia MD; **Talbot, Steven R. PhD**; Boor, Peter MD; Schulz, Volkmar PhD; Lederle, Wiltrud PhD; Kiessling, Fabian MD. Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. Investigative Radiology ():10.1097/RLI.0000000000001075, April 10, 2024.
