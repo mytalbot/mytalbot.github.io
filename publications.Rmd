@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+* **Talbot, S.R.**, Heider, M., Wirth, M. et al. Exploring dose–response variability and relative severity assessment in STZ-induced diabetes male NSG mice. **Sci Rep** 14, 16559 (2024). https://doi.org/10.1038/s41598-024-67490-z.
+
 * Ohland, P.L.S., Jack, T., Mast, M., Melk, A., **Talbot S.R.**, Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. Sci Rep 14, 7198 (2024). https://doi.org/10.1038/s41598-024-57712-9
 
 * Maria Reiber, Lara von Schumann, Verena Buchecker, Lena Boldt, Peter Gass, André Bleich, **Steven Roger Talbot**, Heidrun Potschka (2023). Evidence-based comparative severity assessment in young and adult mice. **PLOS ONE** 18(10): e0285429. https://doi.org/10.1371/journal.pone.0285429.
