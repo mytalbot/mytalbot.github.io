@@ -52,6 +52,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Munk, A., Philippi, V., Buchecker, V., Bankstahl, M., Glasenapp, A., Blutke, A., Michelakaki, E., **Talbot, S.R.**, Huwyler, J.ö, Jirkof, P., Kopaczka, M., Merhof, D., Palme, R., and Potschka, H. (2024). Refining pain management in mice by comparing multimodal analgesia and NSAID monotherapy for neurosurgical procedures. **Scientific Reports** 14, 18691. DOI: 10.1038/s41598-024-69075-2.
+
 * Schreiber T, Koopmann I, Brandstetter J, **Talbot SR**, Goldstein L, Hoffmann L, Schildt A, Joksch M, Krause B, Jaster R, et al. Evidence-Based Severity Assessment of Animal Models for Pancreatic Cancer. Biomedicines. 2024; 12(7):1494. https://doi.org/10.3390/biomedicines12071494.
 
 * Haake J, Meller S, Meyerhoff N, Twele F, Charalambous M, **Talbot SR** and Volk HA (2024) Comparing standard screening questionnaires of canine behavior for assessment of cognitive dysfunction. **Front. Vet. Sci.** 11:1374511. doi: 10.3389/fvets.2024.1374511.
