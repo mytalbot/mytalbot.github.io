@@ -52,6 +52,10 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+*	Baskaya, F., Lemainque, T., Klinkhammer, B., Koletnik, S., von Stillfried, S., **Talbot, S.R.**, Boor, P., Schulz, V., Lederle, W., and Kiessling, F. (2024). Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. **Invest. Radiol.** 59, 699–710. DOI: 10.1097/RLI.0000000000001075.
+
+* Darguzyte M, Antczak P, Bachurski D, Hoelker P, Abedpour N, Gholamipoorfard R, Schlößer HA, Wennhold K, Thelen M, Garcia-Marquez MA, et al. Long-Term Human Immune Reconstitution, T-Cell Development, and Immune Reactivity in Mice Lacking the Murine Major Histocompatibility Complex: Validation with Cellular and Gene Expression Profiles. **Cells**. 2024; 13(20):1686. https://doi.org/10.3390/cells13201686.
+
 * Munk, A., Philippi, V., Buchecker, V., Bankstahl, M., Glasenapp, A., Blutke, A., Michelakaki, E., **Talbot, S.R.**, Huwyler, J.ö, Jirkof, P., Kopaczka, M., Merhof, D., Palme, R., and Potschka, H. (2024). Refining pain management in mice by comparing multimodal analgesia and NSAID monotherapy for neurosurgical procedures. **Scientific Reports** 14, 18691. DOI: 10.1038/s41598-024-69075-2.
 
 * Schreiber T, Koopmann I, Brandstetter J, **Talbot SR**, Goldstein L, Hoffmann L, Schildt A, Joksch M, Krause B, Jaster R, et al. Evidence-Based Severity Assessment of Animal Models for Pancreatic Cancer. Biomedicines. 2024; 12(7):1494. https://doi.org/10.3390/biomedicines12071494.
