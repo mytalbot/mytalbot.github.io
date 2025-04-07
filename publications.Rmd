@@ -52,6 +52,10 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Peter M, Mundt B, Menze A, Woller N, Volk V, Ernst AM, Öhler LA, **Talbot SR**, Wedemeyer H, Falk C, Feuerhake F. Oncolytic viruses expressing MATEs facilitate target-independent T-cell activation in tumors. EMBO Molecular Medicine. 2025 Jan 9:1-36.
+
+* Reiber, M., Stirling, H., Ahuis, T. P., Arias, W., Aulehner, K., Dreßler, U., Kas, M. J. H., Kela, J., Kerker, K., Kuosmanen, T., Lorenz, H., Pennington, A. T., von Rüden, E.-L., Schauerte, H., Seiffert, I., **Talbot, S. R.**, Torturo, C., Virtanen, S., Waldron, A.-M., … Potschka, H. (2025). A systematic assessment of robustness in CNS safety pharmacology. British Journal of Pharmacology, 182(3), 530–545. https://doi.org/10.1111/bph.17358.
+
 *	Baskaya, F., Lemainque, T., Klinkhammer, B., Koletnik, S., von Stillfried, S., **Talbot, S.R.**, Boor, P., Schulz, V., Lederle, W., and Kiessling, F. (2024). Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. **Invest. Radiol.** 59, 699–710. DOI: 10.1097/RLI.0000000000001075.
 
 * Darguzyte M, Antczak P, Bachurski D, Hoelker P, Abedpour N, Gholamipoorfard R, Schlößer HA, Wennhold K, Thelen M, Garcia-Marquez MA, et al. Long-Term Human Immune Reconstitution, T-Cell Development, and Immune Reactivity in Mice Lacking the Murine Major Histocompatibility Complex: Validation with Cellular and Gene Expression Profiles. **Cells**. 2024; 13(20):1686. https://doi.org/10.3390/cells13201686.
