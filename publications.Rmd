@@ -52,6 +52,12 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+Maura Lynch-Miller, Sandra Lockow, Katrin Dümmer, Timo Henneck, Ruth Olmer, Mark-Christian Jaboreck, AhmedElmontaser O. Mergani, Madita Wandrey, Katja Branitzki-Heinemann, Graham Brogden, Hassan Y. Naim, Ulrich Martin, Claudia Schulz, **Steven R. Talbot**, Marita Meurer, Wolfgang Baumgärtner, Maren von Köckritz-Blickwede,
+Characterization of 3D human pulmonary epithelial model morphology and oxygen status under normoxia and hypoxia, Biochimica et Biophysica Acta (BBA) - Molecular Cell Research,
+Volume 1872, Issue 6, 2025,https://doi.org/10.1016/j.bbamcr.2025.119980.
+
+* Crispens, C., Fleckenstein, E., Wilken-Schmitz, A. et al. Sex- and age-related differences in LPS-induced lung injury: establishing a mouse intensive care unit. ICMx 13, 48 (2025). https://doi.org/10.1186/s40635-025-00756-6.
+
 * Peter M, Mundt B, Menze A, Woller N, Volk V, Ernst AM, Öhler LA, **Talbot SR**, Wedemeyer H, Falk C, Feuerhake F. Oncolytic viruses expressing MATEs facilitate target-independent T-cell activation in tumors. EMBO Molecular Medicine. 2025 Jan 9:1-36.
 
 * Reiber, M., Stirling, H., Ahuis, T. P., Arias, W., Aulehner, K., Dreßler, U., Kas, M. J. H., Kela, J., Kerker, K., Kuosmanen, T., Lorenz, H., Pennington, A. T., von Rüden, E.-L., Schauerte, H., Seiffert, I., **Talbot, S. R.**, Torturo, C., Virtanen, S., Waldron, A.-M., … Potschka, H. (2025). A systematic assessment of robustness in CNS safety pharmacology. British Journal of Pharmacology, 182(3), 530–545. https://doi.org/10.1111/bph.17358.
