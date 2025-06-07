@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+* Ulrike Heinicke, **Steven R. Talbot**, Filippos Thanasis, Elisabeth H. Adam, Andreas von Knethen, Andrea U. Steinbicker, Sebastian Zinn, Kai Zacharowski, Armin N. Flinspach. Systemic role of orexin A, substance P, bradykinin, and DABK in severe COVID-19 and 2.5-yr follow-ups: an observational study. **BJA Open** Volume 14:100415 (2025). https://www.bjaopen.org/article/S2772-6096(25)00039-5/fulltext.
+
 * **Talbot, S.R.**, Heider, M., Wirth, M. et al. Exploring dose–response variability and relative severity assessment in STZ-induced diabetes male NSG mice. **Sci Rep** 14, 16559 (2024). https://doi.org/10.1038/s41598-024-67490-z.
 
 * Ohland, P.L.S., Jack, T., Mast, M., Melk, A., **Talbot S.R.**, Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. Sci Rep 14, 7198 (2024). https://doi.org/10.1038/s41598-024-57712-9
@@ -52,7 +54,7 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
-Maura Lynch-Miller, Sandra Lockow, Katrin Dümmer, Timo Henneck, Ruth Olmer, Mark-Christian Jaboreck, AhmedElmontaser O. Mergani, Madita Wandrey, Katja Branitzki-Heinemann, Graham Brogden, Hassan Y. Naim, Ulrich Martin, Claudia Schulz, **Steven R. Talbot**, Marita Meurer, Wolfgang Baumgärtner, Maren von Köckritz-Blickwede,
+* Maura Lynch-Miller, Sandra Lockow, Katrin Dümmer, Timo Henneck, Ruth Olmer, Mark-Christian Jaboreck, AhmedElmontaser O. Mergani, Madita Wandrey, Katja Branitzki-Heinemann, Graham Brogden, Hassan Y. Naim, Ulrich Martin, Claudia Schulz, **Steven R. Talbot**, Marita Meurer, Wolfgang Baumgärtner, Maren von Köckritz-Blickwede,
 Characterization of 3D human pulmonary epithelial model morphology and oxygen status under normoxia and hypoxia, Biochimica et Biophysica Acta (BBA) - Molecular Cell Research,
 Volume 1872, Issue 6, 2025,https://doi.org/10.1016/j.bbamcr.2025.119980.
 
