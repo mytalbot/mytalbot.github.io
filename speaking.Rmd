@@ -9,6 +9,8 @@ output:
 ## Invited
 **2025** Smarter Monitoring: Data Science Innovations in Automated Home Cage Systems (FELASA 2025, Athens, Greece).
 
+**2025** 31. Essener Informationstreffen für Tierschutzbeauftragte, Tierexperimentatoren und mit Tierversuchen befasste Behördenvertreter (Online Tagung): Künstliche Intelligenz Revolution in der tierexperimentellen Forschung?
+
 **2025** Innovative Approaches to the 3Rs: Bayesian Statistics and Advanced Sample Size Calculations (European Molecular Imaging Meeting, EMIM 2025, Bilbao, Spain).
 
 **2024** Statistical Strategies for Robust Research in the Life Sciences (European Molecular Imaging Meeting, EMIM 2024, Porto, Portugal).
