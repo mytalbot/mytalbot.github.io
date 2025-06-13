@@ -11,6 +11,8 @@ output:
 ## Publications
 
 ### First or last authorship 
+* Pfefferle, D., **Talbot, S.R.**, Kahnau, P. et al. Advancing preference testing in humans and animals. **Behav Res** 57, 193 (2025). https://doi.org/10.3758/s13428-025-02668-5.
+
 * Ulrike Heinicke, **Steven R. Talbot**, Filippos Thanasis, Elisabeth H. Adam, Andreas von Knethen, Andrea U. Steinbicker, Sebastian Zinn, Kai Zacharowski, Armin N. Flinspach. Systemic role of orexin A, substance P, bradykinin, and DABK in severe COVID-19 and 2.5-yr follow-ups: an observational study. **BJA Open** Volume 14:100415 (2025). https://www.bjaopen.org/article/S2772-6096(25)00039-5/fulltext.
 
 * **Talbot, S.R.**, Heider, M., Wirth, M. et al. Exploring dose–response variability and relative severity assessment in STZ-induced diabetes male NSG mice. **Sci Rep** 14, 16559 (2024). https://doi.org/10.1038/s41598-024-67490-z.
