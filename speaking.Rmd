@@ -7,11 +7,19 @@ output:
 ---
 
 ## Invited
+**2025** "Artificial Intelligence — An overview—" Vortrag auf dem Retreat des von zukunft.niedersachsen geförderten Graduierten-Kollegs 'RNApp' für RNA-Anwendungen in Medizin und Pharmazie.
+
+**2025** Keynote zum Thema "Bayessche Statistik und fortgeschrittene Fallzahlplanung in der tierexperimentellen Forschung" in der Session 'Replace, Reduce, Refine - 3R in der Chirurgie' im Rahmen der Chirurgischen Forschungstage 2025.
+
+**2025** TRAVELS (Towards Reproducibility and Value in the Life Sciences) Symposium am Helmholtz-Institut für Biomedizinische Technik, Aachen.
+
 **2025** Smarter Monitoring: Data Science Innovations in Automated Home Cage Systems (FELASA 2025, Athens, Greece).
 
 **2025** 31. Essener Informationstreffen für Tierschutzbeauftragte, Tierexperimentatoren und mit Tierversuchen befasste Behördenvertreter (Online Tagung): Künstliche Intelligenz Revolution in der tierexperimentellen Forschung?
 
 **2025** Innovative Approaches to the 3Rs: Bayesian Statistics and Advanced Sample Size Calculations (European Molecular Imaging Meeting, EMIM 2025, Bilbao, Spain).
+
+**2024** Improving Laboratory Animal Welfare with Advanced Data Science Methods, 2. Jahrestagung des 3R-Kompetenznetzwerks NRW (Vaals, Niederlande).
 
 **2024** Statistical Strategies for Robust Research in the Life Sciences (European Molecular Imaging Meeting, EMIM 2024, Porto, Portugal).
 
@@ -83,6 +91,8 @@ assessment (Tecniplast, Buguggiate (VA), Italy).
 
 
 ## Contributions & Posters
+**2025** Abdul-Hamid Emwas, Jana Tauschke, Inas Al-Younis, Elaine A. Yu, Steven R. Talbot, Helena U. Zacharias. Artificial Intelligence for Smart Data Extraction: A First Use Case for A Meta Analysis to Identify Metabolic Biomarkers in Diabetes Research. Deutsche Gesellschaft für Metabolom Forschung (DGMet, Annual Meeting Hannover).
+
 **2025** Steven R. Talbot, Sara Lutscher. Enhancing 3R Principles with Bayesian Updating - 
 A New Horizon in Sample Size Calculation for Replacement Methods. MPS Congress Brussels. 
 
