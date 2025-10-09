@@ -56,6 +56,8 @@ ISSN 1525-0016, DOI: https://doi.org/10.1016/j.ymthe.2021.06.017.
 
 
 ### Co-authorships 
+* Schreiber, T., Lange, S., **Talbot, S.R.** et al. Improving pain management for murine orthotopic xenograft models of acute lymphoblastic leukemia. Lab Anim (2025). https://doi.org/10.1038/s41684-025-01615-3.
+
 * Maura Lynch-Miller, Sandra Lockow, Katrin Dümmer, Timo Henneck, Ruth Olmer, Mark-Christian Jaboreck, AhmedElmontaser O. Mergani, Madita Wandrey, Katja Branitzki-Heinemann, Graham Brogden, Hassan Y. Naim, Ulrich Martin, Claudia Schulz, **Steven R. Talbot**, Marita Meurer, Wolfgang Baumgärtner, Maren von Köckritz-Blickwede,
 Characterization of 3D human pulmonary epithelial model morphology and oxygen status under normoxia and hypoxia, Biochimica et Biophysica Acta (BBA) - Molecular Cell Research,
 Volume 1872, Issue 6, 2025,https://doi.org/10.1016/j.bbamcr.2025.119980.
