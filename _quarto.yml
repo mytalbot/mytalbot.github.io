@@ -52,7 +52,6 @@ format:
     anchor-sections: true
     smooth-scroll: true
     code-fold: true
-    code-tools: true
 
 # Bibliography settings for publications
 bibliography: references.bib
