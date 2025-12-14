@@ -24,7 +24,7 @@ I offer courses and workshops on statistics, experimental design, and artificial
 ::: {.card}
 ### Experimental Design
 
-- Power analysis and sample size calculation
+- Sample size calculation
 - Planning animal experiments
 - Reproducibility and study design
 - Regulatory requirements (3Rs)
