@@ -31,7 +31,7 @@ website:
 
   page-footer:
     left: |
-      &copy; 2024 PD Dr. Steven R. Talbot. All rights reserved.
+      &copy; 2025 PD Dr. Steven R. Talbot. All rights reserved.
     right:
       - text: "Impressum"
         href: impressum.qmd
