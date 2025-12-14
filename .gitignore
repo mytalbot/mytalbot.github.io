@@ -1,4 +1,33 @@
-.Rproj.user
+# Quarto
+/.quarto/
+/_site/
+/docs/
+
+# R
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp

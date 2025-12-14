@@ -1,0 +1,30 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: |
+  @*
+csl: apa.csl
+---
+
+## Peer-Reviewed Publications
+
+Below is a list of my peer-reviewed publications. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and (a limited selection on)  [ORCID](https://orcid.org/0000-0002-9062-4065).
+
+<!-- The bibliography is automatically generated from references.bib -->
+<!-- To add new publications, simply add entries to references.bib -->
+
+::: {#refs}
+:::
+
+## Book Contributions
+
+Sartorius, G., & Talbot, S. (2019). Evaluation of Hybrid Measurement Structures. In H. Unger (Ed.), *Autonomous Systems 2019: An Almanac* (pp. 159–169). VDI-Verlag GmbH.
+
+Talbot, S. R. (2018). Medizinische Statistik und Studiendesign. In *Pschyrembel Klinisches Wörterbuch*. De Gruyter.
+
+## Patent
+
+Halang, W. A., Sartorius, G., & Talbot, S. R. (2010). *Verfahren und Vorrichtung zur Detektion von Kampfstoffen* (German Patent No. DE 10 2008 054 345 A1). Deutsches Patent- und Markenamt.
+
+---
+ 

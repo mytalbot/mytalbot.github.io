@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Steven R. Talbot"
+  description: "Biochemist | Data Scientist | Preclinical Data Science"
+
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: teaching.qmd
+        text: Teaching
+      - href: tools.qmd
+        text: Tools & Apps
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: github
+        href: https://github.com/mytalbot
+      - icon: linkedin
+        href: https://www.linkedin.com/in/stevenrtalbot/
+
+  page-footer:
+    left: |
+      &copy; 2024 PD Dr. Steven R. Talbot. All rights reserved.
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+
+  # Search functionality
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    code-fold: true
+    code-tools: true
+
+# Bibliography settings for publications
+bibliography: references.bib
+csl: apa.csl
+
+# Execution settings (for R/Python code in blog posts)
+execute:
+  freeze: auto

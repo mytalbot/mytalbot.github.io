@@ -1,0 +1,81 @@
+---
+title: "Teaching"
+---
+
+I offer courses and workshops on statistics, experimental design, and artificial intelligence for researchers at all levels. Whether you need a foundational introduction or advanced methods training, I can tailor the content to your team's needs.
+
+## Workshop Topics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### Statistics & Data Analysis
+
+- Basic statistics for researchers
+- When to use which statistical test?
+- Linear and non-linear regression
+- Classification methods
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### Experimental Design
+
+- Power analysis and sample size calculation
+- Planning animal experiments
+- Reproducibility and study design
+- Regulatory requirements (3Rs)
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### Software & Tools
+
+- Introduction to R
+- GraphPad Prism for experimentalists
+- Data visualization best practices
+- Reproducible analysis workflows
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### Machine Learning & AI
+
+- Introduction to machine learning
+- Supervised and unsupervised learning
+- AI applications in preclinical research
+- Practical implementations in R/Python
+
+:::
+:::
+
+:::
+
+## Curricular Courses at MHH
+
+At Hannover Medical School, I regularly offer two courses for staff and students (approximately every six months):
+
+| Course | Description | Language |
+|--------|-------------|----------|
+| Basic Statistics | Fundamentals of statistics for laboratory animal science | German/English |
+| Experimental Design | Power analysis and preparation of animal experiment applications | German/English |
+
+Current dates and registration are available through the internal [course catalogue (in German)](https://www.mhh.de/tierlabor/lehr-und-sachkundeveranstaltungen/curriculare-lehre-aufbaumodule).
+
+## Custom Training
+
+Looking for a course tailored to your research group or institution? I'm happy to develop workshops that address your specific needs, whether that's a half-day introduction or a multi-day intensive training.
+
+[Contact me](mailto:info@talbot-science.de){.btn .btn-primary} to discuss your requirements.
+
+::: {.callout-note}
+## Software Requirements
+Most statistics courses use **GraphPad Prism** for accessibility. Participants need a valid license or can use the [30-day trial version](https://www.graphpad.com/demos/). R-based courses require a working R/RStudio installation.
+:::

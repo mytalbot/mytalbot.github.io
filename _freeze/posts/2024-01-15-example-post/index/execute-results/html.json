@@ -1,0 +1,15 @@
+{
+  "hash": "326a293df9c730e23892f8155ce4d93c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Example Blog Post: Getting Started with Your Blog\"\ndescription: \"This is an example blog post showing how to create new posts for your website.\"\ndate: \"2024-01-15\"\ncategories: [tutorial, getting-started]\nimage: \"thumbnail.png\"\ndraft: true\n---\n\n## Introduction\n\nThis is an example blog post. You can delete this once you've created your own posts.\n\n## How to Create a New Blog Post\n\n1. Create a new folder in `posts/` named `YYYY-MM-DD-post-title/`\n2. Create an `index.qmd` file inside that folder\n3. Add the YAML header (see below)\n4. Write your content in Markdown\n\n### YAML Header Template\n\n```yaml\n---\ntitle: \"Your Post Title\"\ndescription: \"A brief description for the listing page\"\ndate: \"2024-01-15\"\ncategories: [category1, category2]\nimage: \"thumbnail.png\"\ndraft: false\n---\n```\n\n## Including Code\n\nYou can include R or Python code that gets executed:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Example R code\ndata <- data.frame(\n  x = 1:10,\n  y = rnorm(10)\n)\nsummary(data)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n       x               y          \n Min.   : 1.00   Min.   :-1.6731  \n 1st Qu.: 3.25   1st Qu.:-0.9118  \n Median : 5.50   Median :-0.5666  \n Mean   : 5.50   Mean   :-0.1858  \n 3rd Qu.: 7.75   3rd Qu.: 0.2908  \n Max.   :10.00   Max.   : 2.1702  \n```\n\n\n:::\n:::\n\n\nOr Python:\n\n\n::: {.cell}\n\n```{.python .cell-code}\n# Example Python code\nimport pandas as pd\nimport numpy as np\n\ndf = pd.DataFrame({\n    'x': range(1, 11),\n    'y': np.random.randn(10)\n})\nprint(df.describe())\n```\n:::\n\n\n## Including Images\n\nPlace images in the same folder as your post and reference them:\n\n```markdown\n![Image caption](image-name.png)\n```\n\n## Categories\n\nUse categories to organize your posts. Suggested categories:\n\n- `papers` - Discussions of interesting papers\n- `code` - Code tutorials and snippets\n- `methods` - Statistical and ML methods\n- `tools` - Tool announcements and tutorials\n- `thoughts` - General thoughts and opinions\n\n## Draft Mode\n\nSet `draft: true` in the YAML header to hide a post from the listing while you work on it. Change to `draft: false` when ready to publish.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,106 @@
+---
+title: "Tools & Apps"
+---
+
+A collection of software tools, packages, and web applications I have developed or contributed to.
+
+## R Packages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### RELSA
+
+R package for Relative Severity Assessment in laboratory animals.
+
+**Features:**
+
+- Multivariate severity scoring
+- Reference set comparison
+- Visualization tools
+
+[GitHub](https://github.com/mytalbot/RELSA){.btn .btn-outline-primary} [Documentation](https://talbotsr.com/RELSA/){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### simsalRbim
+
+Preference test simulation and analysis using binary choice combinations
+
+**Features:**
+
+- Binary choice simulation for preference ranking
+- Worth value estimation
+- Built-in visualizations
+
+[GitHub](https://github.com/mytalbot/simsalRbim){.btn .btn-outline-primary} [Documentation](https://talbotsr.com/simsalRbim/){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### endpointR
+
+Humane endpoint identification in laboratory animal research
+
+**Features:**
+
+- Body weight trajectory analysis
+- Time-series anomaly detection
+- Interactive Shiny app available
+
+[GitHub](https://github.com/mytalbot/endpointR/){.btn .btn-outline-primary} [Documentation](https://talbotsr.com/endpointR/){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### CMS (Composite Measures Schemes)
+
+Severity assessment via composite scoring in animal research
+
+
+**Features:**
+
+- PCA-based feature selection
+- Cluster analysis for composite scores
+- Comparative severity visualization
+
+[GitHub](https://github.com/mytalbot/cms/){.btn .btn-outline-primary} [Documentation](https://talbotsr.com/cms/index.html){.btn .btn-outline-secondary}
+:::
+:::
+
+:::
+
+## Web Applications
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### (Limited) RELSA App
+
+Try RELSA in an easy-to-use web application.
+
+![](images/RELSAapp_shot.png){fig-alt="Screenshot of the RELSA app"}
+
+[Launch App](https://calliope.shinyapps.io/RELSAapp/){.btn .btn-primary} 
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### The endpointR
+
+A web-based version of the endpointR package.
+
+![](images/endpointRapp_shot.png){fig-alt="Screenshot of the endpointR app"}
+
+[Launch App](https://calliope.shinyapps.io/endpointer/){.btn .btn-primary} 
+:::
+:::
+
+:::

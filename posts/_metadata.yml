@@ -1,0 +1,15 @@
+# Shared metadata for all blog posts
+# Individual posts can override these settings
+
+# Freeze computed outputs
+freeze: true
+
+# Enable code folding and tools
+code-fold: true
+code-tools: true
+
+# Author information (applied to all posts)
+author:
+  - name: "Steven R. Talbot"
+    url: "/"
+    affiliation: "Preclinical Data Science at Hannover Medical School (MHH)"

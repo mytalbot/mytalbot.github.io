@@ -1,0 +1,88 @@
+---
+title: "Example Blog Post: Getting Started with Your Blog"
+description: "This is an example blog post showing how to create new posts for your website."
+date: "2024-01-15"
+categories: [tutorial, getting-started]
+image: "thumbnail.png"
+draft: true
+---
+
+## Introduction
+
+This is an example blog post. You can delete this once you've created your own posts.
+
+## How to Create a New Blog Post
+
+1. Create a new folder in `posts/` named `YYYY-MM-DD-post-title/`
+2. Create an `index.qmd` file inside that folder
+3. Add the YAML header (see below)
+4. Write your content in Markdown
+
+### YAML Header Template
+
+```yaml
+---
+title: "Your Post Title"
+description: "A brief description for the listing page"
+date: "2024-01-15"
+categories: [category1, category2]
+image: "thumbnail.png"
+draft: false
+---
+```
+
+## Including Code
+
+You can include R or Python code that gets executed:
+
+```{r}
+#| label: example-r
+#| echo: true
+
+# Example R code
+data <- data.frame(
+  x = 1:10,
+  y = rnorm(10)
+)
+summary(data)
+```
+
+Or Python:
+
+```{python}
+#| label: example-python
+#| echo: true
+#| eval: false
+
+# Example Python code
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame({
+    'x': range(1, 11),
+    'y': np.random.randn(10)
+})
+print(df.describe())
+```
+
+## Including Images
+
+Place images in the same folder as your post and reference them:
+
+```markdown
+![Image caption](image-name.png)
+```
+
+## Categories
+
+Use categories to organize your posts. Suggested categories:
+
+- `papers` - Discussions of interesting papers
+- `code` - Code tutorials and snippets
+- `methods` - Statistical and ML methods
+- `tools` - Tool announcements and tutorials
+- `thoughts` - General thoughts and opinions
+
+## Draft Mode
+
+Set `draft: true` in the YAML header to hide a post from the listing while you work on it. Change to `draft: false` when ready to publish.

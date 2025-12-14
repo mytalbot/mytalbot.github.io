@@ -1,0 +1,88 @@
+---
+title: "Before It's Too Late: How an Algorithm Protects Research Animals"
+description: "endpointR uses body weight data to objectively detect when laboratory animals need to be euthanized, removing guesswork from one of research's most difficult decisions."
+date: "2025-12-16"
+categories: [3Rs, animal-welfare, humane-endpoints]
+draft: false
+---
+
+## The Hardest Decision in the Lab
+
+There is a moment that every animal researcher dreads. The animal in front of you is declining. You can see it is not doing well. But is it time? Should you end the experiment now, or will the animal recover? Wait too long, and you have failed your ethical obligation to prevent unnecessary suffering. Act too early, and you may lose valuable scientific data.
+
+This decision, determining the **humane endpoint**, is one of the most consequential judgments a researcher makes. Get it right, and you protect both the animal and the integrity of your science. Get it wrong, and the consequences fall on a creature that cannot speak for itself.
+
+## The Problem with Rules of Thumb
+
+For decades, researchers have relied on simple rules to make this decision. The most common: if an animal loses more than 20% of its body weight, it should be euthanized. This sounds objective, but it is deeply flawed.
+
+Why 20%? The number is essentially arbitrary, a threshold that became standard through repetition rather than evidence. More problematically, it treats all animals identically. A naturally lean animal might reach 20% weight loss while still relatively healthy. Another animal might be severely compromised long before hitting that threshold.
+
+Beyond weight, researchers rely on clinical observations. Is the animal active? Is it grooming? Does it build a proper nest? These assessments require experience and judgment, and therein lies the problem. Different observers may reach different conclusions about the same animal. What looks "slightly lethargic" to one researcher may appear "severely depressed" to another.
+
+The result is inconsistency. In some studies, animals are euthanized unnecessarily early. In others, more troublingly, animals die on their own before anyone intervenes. Neither outcome is acceptable.
+
+## A Smarter Way to Watch
+
+**endpointR** takes a different approach. Instead of relying on arbitrary thresholds or subjective impressions, it analyzes each animal's individual body weight trajectory and learns to recognize when something is wrong.
+
+Think of it like a personal fitness tracker that learns your normal patterns. After a few weeks, such a device knows your typical step count, your usual heart rate range, and your regular sleep patterns. When something deviates significantly from *your* normal, not some population average, it alerts you.
+
+endpointR does the same for laboratory animals. It calculates a moving average of each animal's body weight and establishes personal boundaries around that average. When an animal's weight drops below its own calculated threshold, the system issues a warning. The animal is not compared to other animals or to a fixed rule. It is compared to its own healthy baseline.
+
+![endpointR calculates individual boundaries for each animal based on their personal body weight history, rather than applying a one-size-fits-all rule.](endpoint_concept.png)
+
+## Why Body Weight Works
+
+Of all the parameters researchers could measure, body weight might seem almost too simple. But that simplicity is its strength.
+
+Body weight is **universal**. Every animal has one, and it can be measured in seconds with a standard laboratory scale. No special equipment, no training in behavioral scoring, no interpretation required. Just a number.
+
+More importantly, body weight is a remarkably **sensitive indicator** of overall health. When an animal begins to feel unwell, whether from a tumor, an infection, or surgical stress, one of the first things to change is eating and drinking behavior. Weight loss follows. Often, this decline becomes detectable in body weight data before any other clinical signs are apparent.
+
+By catching these early signals, endpointR can alert researchers to problems before they become severe. This could mean hours or even days before traditional observation would raise concerns.
+
+## Beyond Body Weight
+
+Although endpointR was originally developed and validated for body weight data, the underlying algorithm can work with any longitudinal measurement. Daily activity counts, for example, might reveal rapid welfare decline even before weight loss becomes apparent. Running wheel data or home cage activity monitoring could potentially serve as additional early warning signals.
+
+This broader application remains to be validated in formal studies. However, the principle is sound: any parameter that shows consistent individual patterns and responds to health changes could benefit from the same analytical approach.
+
+## The Numbers Speak
+
+When tested on animals with intracranial brain tumors, a model where health can deteriorate rapidly, endpointR achieved a **97% detection rate**. That means 97 out of 100 animals that needed intervention were correctly identified by the algorithm.
+
+Perhaps more importantly, the algorithm removed observer variability from the equation. Two different researchers analyzing the same data would reach the same conclusion. This consistency is essential for both ethical practice and scientific reproducibility.
+
+## Refinement in Action
+
+The 3Rs, **Replacement**, **Reduction**, and **Refinement**, guide ethical animal research. endpointR contributes primarily to Refinement: making necessary experiments as humane as possible.
+
+By providing objective, early warnings of deterioration, endpointR ensures that animals do not suffer longer than scientifically necessary. The goal is not to extend experiments, but to end them at exactly the right moment. Not too early, not too late.
+
+This precision also supports better science. When endpoint criteria are consistent and objective, experiments become more reproducible. Other laboratories can replicate your methods exactly, rather than approximating your subjective assessments.
+
+## Part of a Larger Toolkit
+
+endpointR is part of the **Severity Toolbox**, a collection of methods developed to bring objectivity to animal welfare assessment. While endpointR focuses on a single parameter such as body weight, its companion tool [RELSA](/posts/2025-12-13-RELSA/) combines multiple welfare indicators into a comprehensive severity score.
+
+The two approaches are complementary. endpointR excels when you need a simple, robust early warning system based on routine measurements. RELSA provides a richer picture when you have multiple parameters available and want to understand the full pattern of an animal's welfare state.
+
+Both tools share a common philosophy: ethical decisions about animal welfare should be supported by evidence, not left to intuition alone.
+
+## The Responsibility We Share
+
+No algorithm can or should make the final decision about an animal's life. That responsibility belongs to the researcher, informed by training, experience, and ethical commitment. But algorithms like endpointR can ensure that researchers have the best possible information when making that decision.
+
+The goal is not to automate compassion. The goal is to remove the barriers that prevent compassion from being expressed effectively: inconsistency, subjectivity, and delayed detection.
+
+When we commit to using animals in research, we accept an obligation to cause no more suffering than absolutely necessary and to end that suffering at the earliest ethical moment. Tools like endpointR help us honor that commitment before it is too late.
+
+---
+
+**Want to learn more?** endpointR is freely available as both a web application and an R package.
+
+- [Try the endpointR Web App](https://calliope.shinyapps.io/endpointer/)
+- [endpointR Documentation](https://talbotsr.com/endpointR/index.html)
+- [Original Publication (PLOS ONE, 2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7265476/)
+- [Related: RELSA for Multi-Parameter Severity Assessment](/posts/2025-12-13-RELSA/)

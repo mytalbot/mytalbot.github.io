@@ -1,34 +1,94 @@
-h1 {
-  font-size: 32px;
+/* Custom styles for personal academic website */
+/* These styles complement the Cosmo theme */
+
+/* Card styling for tools page */
+.card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  background-color: #fff;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  transition: box-shadow 0.15s ease-in-out;
 }
-h1.title {
-  font-size: 32px;
+
+.card:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
-h2 {
-  font-size: 28px;
+
+.card h3 {
+  margin-top: 0;
+  color: #2780e3;
 }
-h3 {
-  font-size: 20px;
-  font-style: italic;
-  font-weight: 100;
+
+/* Button styling */
+.btn {
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
 }
-h4 {
-  font-size: 20px;
+
+/* Footer styling */
+.nav-footer {
+  border-top: 1px solid #dee2e6;
+  padding-top: 1rem;
 }
-h5 {
-  font-size: 16px;
+
+/* About page profile image */
+.about-image {
+  border: 3px solid #dee2e6;
 }
-h6 {
-  font-size: 12px;
+
+/* Justified text (Blocksatz) for about page content */
+.about-contents {
+  text-align: justify;
 }
-img {
+
+/* Publication list styling */
+#refs {
+  line-height: 1.6;
+}
+
+#refs .csl-entry {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+#refs .csl-entry:last-child {
+  border-bottom: none;
+}
+
+/* Blog post cards */
+.quarto-post {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+/* Justified text (Blocksatz) for blog posts */
+article#quarto-content p {
+  text-align: justify;
+}
+
+/* Talks page styling */
+.talks-entry {
+  margin-bottom: 2rem;
+}
+
+/* Code block styling */
+pre {
+  border-radius: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+
+  .btn {
     display: block;
-    margin: auto;
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
 }
-
-img-circle {
-    border-radius: 50%;
-}
-
-
-
