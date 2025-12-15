@@ -46,7 +46,7 @@ This kind of translational success validates the approach: if RELSA can help mon
 
 A RELSA score of zero means an animal is at baseline—behaving normally, maintaining weight, and showing no signs of distress. As the score increases, it indicates growing deviation from this healthy state. Importantly, RELSA doesn't just flag that "something is wrong"—it quantifies *how wrong* and allows tracking over time.
 
-![Example of RELSA scores over time, showing how severity changes after surgery and recovery.](relsa_timeline.gif)
+![Example of averaged RELSA scores over time, showing how severity changes after surgery and during recovery.](relsa_timeline.gif)
 
 This temporal dimension is crucial. Some procedures cause brief, intense stress followed by recovery. Others cause chronic, low-level burden. RELSA captures these patterns, enabling researchers to make informed decisions about humane endpoints and intervention timing.
 
