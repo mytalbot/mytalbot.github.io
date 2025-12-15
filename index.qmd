@@ -1,6 +1,6 @@
 ---
 title: "PD Dr.<br>Steven&nbsp;R.&nbsp;Talbot"
-subtitle: "Biochemist | Data Scientist | Consultant"
+subtitle: "Data Scientist | Biochemist | Consultant"
 image: images/profile.jpg
 about:
   template: trestles
