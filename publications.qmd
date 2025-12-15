@@ -1,20 +1,206 @@
 ---
 title: "Publications"
-bibliography: references.bib
-nocite: |
-  @*
-csl: apa.csl
 ---
 
-## Peer-Reviewed Publications
+Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
-Below is a list of my peer-reviewed publications. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and (a limited selection on)  [ORCID](https://orcid.org/0000-0002-9062-4065).
+## 2025
 
-<!-- The bibliography is automatically generated from references.bib -->
-<!-- To add new publications, simply add entries to references.bib -->
+<span class="pub-badge">★</span> Pfefferle, D., **Talbot, S. R.**, Kahnau, P., Cassidy, L. C., Brockhausen, R. R., Jaap, A., Deikun, V., Yurt, P., Gail, A., Treue, S., & Lewejohann, L. (2025). Advancing preference testing in humans and animals. *Behavior Research Methods*. [DOI](https://doi.org/10.3758/s13428-025-02668-5)
 
-::: {#refs}
-:::
+Heinicke, U., **Talbot, S. R.**, Thanasis, F., Adam, E. H., von Knethen, A., Steinbicker, A. U., Zinn, S., Zacharowski, K., & Flinspach, A. N. (2025). Systemic role of orexin A, substance P, bradykinin, and DABK in severe COVID-19 and 2.5-yr follow-ups. *BJA Open*. [DOI](https://doi.org/10.1016/j.bjao.2025.100415)
+
+Crispens, C., Fleckenstein, E., Wilken-Schmitz, A., Weber, S., Gröger, M., Hoffmann, A., Radermacher, P., Reiss, L. K., **Talbot, S. R.**, Kästner, L., Köhler, K., Zacharowski, K., von Knethen, A., & Heinicke, U. (2025). Sex- and age-related differences in LPS-induced lung injury: establishing a mouse intensive care unit. *Intensive Care Medicine Experimental*. [DOI](https://doi.org/10.1186/s40635-025-00756-6)
+
+Lynch-Miller, M., Lockow, S., Dümmer, K., Henneck, T., Olmer, R., Jaboreck, M. C., Mergani, A. E. O., Wandrey, M., Branitzki-Heinemann, K., Brogden, G., Naim, H. Y., Martin, U., Schulz, C., **Talbot, S. R.**, Meurer, M., Baumgärtner, W., & von Köckritz-Blickwede, M. (2025). Characterization of 3D human pulmonary epithelial model morphology and oxygen status under normoxia and hypoxia. *Biochimica et Biophysica Acta (BBA) - Molecular Cell Research*. [DOI](https://doi.org/10.1016/j.bbamcr.2025.119980)
+
+Peter, M., Mundt, B., Menze, A., Woller, N., Volk, V., Ernst, A. M., Öhler, L. A., **Talbot, S. R.**, Wedemeyer, H., Falk, C., Feuerhake, F., Wirth, T. C., & Kühnel, F. (2025). Oncolytic viruses expressing MATEs facilitate target-independent T-cell activation in tumors. *EMBO Molecular Medicine*. [DOI](https://doi.org/10.1038/s44321-024-00187-y)
+
+Smolenski, Y., Froese, N., Galuppo, P., Werlein, C., Gigina, A., **Talbot, S. R.**, Erschow, S., Wedekind, D., Geffers, R., Ghyselinck, N. B., Bähre, H., Kamp, J. C., Neubert, L., Ricke-Hoch, M., Bauersachs, J., & Riehle, C. (2025). Vitamin A deficiency attenuates cardiac rupture in Stra6-deficient hearts following ischemic injury. *Frontiers in Cardiovascular Medicine*. [Link](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1626769)
+
+Schreiber, T., Lange, S., **Talbot, S. R.**, Brandstetter, J., Leitner, E., Junghanss, C., Vollmar, B., Palme, R., Richter, A., & Kumstel, S. (2025). Improving pain management for murine orthotopic xenograft models of acute lymphoblastic leukemia. *Lab Animal*. [DOI](https://doi.org/10.1038/s41684-025-01615-3)
+
+Akalan, Y., Worthmann, H., Berliner, D., Hupe, J., Grosse, G. M., Abu-Fares, O., Ravenberg, K. K., Weissenborn, K., Ruhparwar, A., **Talbot, S. R.**, Bauersachs, J., Schmitto, J. D., Hanke, J. S., & Gabriel, M. M. (2025). Stroke in patients with left ventricular assist device (LVAD): who is at risk? *Frontiers in Cardiovascular Medicine*. [Link](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1591208)
+
+Kirchhoff, H., Schoenherr, C., Fleischer, L., Schweighart, E. K., Esser, R., **Talbot, S. R.**, Schambach, A., Koehl, U., Heidenreich, O., Eder, M., & Scherr, M. (2025). Combination of targeted pharmacotherapy and immunotherapy with anti-CD19 CAR NK cells in acute lymphoblastic leukemia. *HemaSphere*. [DOI](https://doi.org/10.1002/hem3.70238)
+
+Papageorgiou, S., Brodowski, L., Lewinski, H., Bohnhorst, B., Flentje, M., Schiermeier, S., **Talbot, S. R.**, & von Kaisenberg, C. (2025). Practical obstetric multi-professional training (PROMPT): the evidence for effective training. *Archives of Gynecology and Obstetrics*. [DOI](https://doi.org/10.1007/s00404-025-08213-1)
+
+COST Action TEATIME CA20135 welfare group. (2025). Advocating for automation in animal research: using home cage monitoring to advance welfare, reproducibility and scientific openness. *Disease Models & Mechanisms*. [DOI](https://doi.org/10.1242/dmm.052669)
+
+## 2024
+
+<span class="pub-badge">★</span> Ohland, P. L. S., Jack, T., Mast, M., Melk, A., Bleich, A., & **Talbot, S. R.** (2024). Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. *Scientific Reports, 14*, 8825. [DOI](https://doi.org/10.1038/s41598-024-57712-9)
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Heider, M., Wirth, M., Jörns, A., & Naujok, O. (2024). Exploring dose-response variability and relative severity assessment in STZ-induced diabetes male NSG mice. *Scientific Reports, 14*, 16307. [DOI](https://doi.org/10.1038/s41598-024-67490-z)
+
+Baskaya, F., Lemainque, T., Klinkhammer, B., Koletnik, S., von Stillfried, S., **Talbot, S. R.**, Boor, P., Schulz, V., Lederle, W., & Kiessling, F. (2024). Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. *Investigative Radiology*. [DOI](https://doi.org/10.1097/RLI.0000000000001075)
+
+Knorr, I. J., Tix, L., Liu, W., **Talbot, S. R.**, Schulz, M., Bell, L., Kögel, B., Tolba, R., & Ernst, L. (2024). Refinement in Post-Operative Care for Orthopaedic Models: Implementing a Sheep Walking Cast (SWC) for Effective Tibial Fracture Management. *Biomedicines, 12*(2), 343. [DOI](https://doi.org/10.3390/biomedicines12020343)
+
+Haake, J., Meller, S., Meyerhoff, N., Twele, F., Charalambous, M., **Talbot, S. R.**, & Volk, H. A. (2024). Comparing standard screening questionnaires of canine behavior for assessment of cognitive dysfunction. *Frontiers in Veterinary Science*. [Link](https://www.frontiersin.org/articles/10.3389/fvets.2024.1374511)
+
+Schreiber, T., Koopmann, I., Brandstetter, J., **Talbot, S. R.**, Goldstein, L., Hoffmann, L., Schildt, A., Joksch, M., Krause, B., Jaster, R., Palme, R., Zechner, D., Vollmar, B., & Kumstel, S. (2024). Evidence-Based Severity Assessment of Animal Models for Pancreatic Cancer. *Biomedicines, 12*(7), 1494. [DOI](https://doi.org/10.3390/biomedicines12071494)
+
+Munk, A., Philippi, V., Buchecker, V., Bankstahl, M., Glasenapp, A., Blutke, A., Michelakaki, E., **Talbot, S. R.**, Huwyler, J., Jirkof, P., Kopaczka, M., Merhof, D., Palme, R., & Potschka, H. (2024). Refining pain management in mice by comparing multimodal analgesia and NSAID monotherapy for neurosurgical procedures. *Scientific Reports, 14*, 18235. [DOI](https://doi.org/10.1038/s41598-024-69075-2)
+
+Darguzyte, M., Antczak, P., Bachurski, D., Hoelker, P., Abedpour, N., Gholamipoorfard, R., Schlößer, H. A., Wennhold, K., Thelen, M., Garcia-Marquez, M., Koenig, J., Schneider, A., Braun, T., Klawonn, F., Damrat, M., Rahman, M., Kleid, J. M., Theobald, S. J., Bauer, E., von Kaisenberg, C., **Talbot, S. R.**, Shultz, L. D., Soper, B., & Stripecke, R. (2024). Long-Term Human Immune Reconstitution, T-Cell Development, and Immune Reactivity in Mice Lacking the Murine Major Histocompatibility Complex. *Cells, 13*(20), 1686. [DOI](https://doi.org/10.3390/cells13201686)
+
+Reiber, M., Stirling, H., Ahuis, T. P., Arias, W., Aulehner, K., Dreßler, U., Kas, M. J. H., Kela, J., Kerker, K., Kuosmanen, T., Lorenz, H., Pennington, A. T., von Rüden, E. L., Schauerte, H., Seiffert, I., **Talbot, S. R.**, Torturo, C., Virtanen, S., Waldron, A. M., Ramboz, S., & Potschka, H. (2024). A systematic assessment of robustness in CNS safety pharmacology. *British Journal of Pharmacology*. [DOI](https://doi.org/10.1111/bph.17358)
+
+## 2023
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Kumstel, S., Schulz, B., Tang, G., Abdelrahman, A., Seume, N., Wendt, E. H. U., Eichberg, J., Häger, C., Bleich, A., Vollmar, B., & Zechner, D. (2023). Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases. *Scientific Reports, 13*, 2605. [DOI](https://doi.org/10.1038/s41598-023-29623-8)
+
+<span class="pub-badge">★</span> Reiber, M., von Schumann, L., Buchecker, V., Boldt, L., Gass, P., Bleich, A., **Talbot, S. R.**, & Potschka, H. (2023). Evidence-based comparative severity assessment in young and adult mice. *PLOS ONE, 18*(5), e0285429. [DOI](https://doi.org/10.1371/journal.pone.0285429)
+
+Tix, L., Ernst, L., Bungardt, B., **Talbot, S. R.**, Hilken, G., & Tolba, R. H. (2023). Establishment of the body condition score for adult female Xenopus laevis. *PLOS ONE*.
+
+Braun, T., Pruene, A., Darguzyte, M., Vom Stein, A. F., Nguyen, P. H., Wagner, D. L., Kath, J., Roig-Merino, A., Heuser, M., Riehm, L. L., et al. (2023). Non-viral TRAC-knocked-in CD19KICAR-T and gp350KICAR-T cells tested against Burkitt lymphomas with type 1 or 2 EBV infection. *Frontiers in Immunology*.
+
+Keubler, L. M., **Talbot, S. R.**, Bleich, A., & Boyle, E. C. (2023). Systematic review and meta-analysis of the effect of fecal microbiota transplantation on behavior in animals. *Neuroscience & Biobehavioral Reviews*.
+
+Segelcke, D., **Talbot, S. R.**, Palme, R., La Porta, C., Pogatzki-Zahn, E., Bleich, A., & Tappe-Theodor, A. (2023). Experimenter familiarization is a crucial prerequisite for assessing behavioral outcomes and reduces stress in mice not only under chronic pain conditions. *Scientific Reports*.
+
+Lieske, A., Agyeman-Duah, E., Selich, A., Dörpmund, N., **Talbot, S. R.**, Schambach, A., & Maetzig, T. (2023). A pro B cell population forms the apex of the leukemic hierarchy in Hoxa9/Meis1-dependent AML. *Leukemia*.
+
+Schmidt, T., Meller, S., **Talbot, S. R.**, Packer, R. M. A., & Volk, H. A. (2023). Urinary neurotransmitter analysis and canine behavior assessment. *Frontiers in Veterinary Science*.
+
+Bufe, S., Zimmermann, A., Ravens, S., Prinz, I., Buitrago-Molina, L. E., Geffers, R., Woller, N., Kühnel, F., **Talbot, S. R.**, & Noyan, F. (2023). PD-1/CTLA-4 blockade leads to expansion of CD8 PD-1int TILs and results in tumor remission in experimental liver cancer. *Liver Cancer*.
+
+Pfeffer, T. J., Mueller, J. H., Haebel, L., Erschow, S., Yalman, K. C., **Talbot, S. R.**, Koenig, T., Berliner, D., Zwadlo, C., & Scherr, M. (2023). Cabergoline treatment promotes myocardial recovery in peripartum cardiomyopathy. *ESC Heart Failure*.
+
+Meumann, N., Cabanes-Creus, M., Ertelt, M., Navarro, R. G., Lucifora, J., Yuan, Q., Nien-Huber, K., Abdelrahman, A., Vu, X.-K., Zhang, L., et al. (2023). Adeno-associated virus serotype 2 capsid variants for improved liver-directed gene therapy. *Hepatology*.
+
+Buchecker, V., Koska, I., Pace, C., **Talbot, S. R.**, Palme, R., Bleich, A., & Potschka, H. (2023). Toward evidence-based severity assessment in mouse models with repeated seizures: (II.) Impact of surgery and intrahippocampal kainate. *European Surgical Research, 64*(1), 89–107.
+
+Becker, L., Mallien, A. S., Pfeiffer, N., Brandwein, C., **Talbot, S. R.**, Bleich, A., Palme, R., Potschka, H., & Gass, P. (2023). Evidence-based severity assessment of the forced swim test in the rat. *PLOS ONE, 18*(10), e0292816. [DOI](https://doi.org/10.1371/journal.pone.0292816)
+
+## 2022
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Struve, B., Wassermann, L., Heider, M., Weegh, N., Knape, T., Hofmann, M. C. J., von Knethen, A., Jirkof, P., & Häger, C. (2022). RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. *Frontiers in Veterinary Science*.
+
+<span class="pub-badge">★</span> Heinrichs, H., Mueller, F., Rohfleisch, L., Schulz, V., **Talbot, S. R.**, & Kiessling, F. (2022). Digitalization impacts the COVID-19 pandemic and the stringency of government measures. *Scientific Reports*.
+
+<span class="pub-badge">★</span> Neb, H., **Talbot, S. R.**, Ruskowski, K., Brkic, D., Sonntagbauer, M., Adam, E. H., von Knethen, A., Zacharowski, K., & Heinicke, U. (2022). High heparanase level in survivors of COVID-19—Indicator of vascular and pulmonary recovery? *Shock*.
+
+<span class="pub-badge">★</span> Ernst, L., Bruch, S., Kopaczka, M., Merhof, D., Bleich, A., Tolba, R. H., & **Talbot, S. R.** (2022). A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. *Scientific Reports*.
+
+<span class="pub-badge">★</span> Mallien, A. S., Pfeiffer, N., Brandwein, C., Inta, D., Sprengel, R., Palme, R., **Talbot, S. R.**, & Gass, P. (2022). Comparative severity assessment of genetic, stress-based, and pharmacological mouse models of depression. *Frontiers in Behavioral Neuroscience*.
+
+Yang, M., Pan, Z., Huang, K., Büsche, G., Liu, H., Göhring, G., Rumpel, R., Dittrich-Breiholz, O., **Talbot, S.**, & Scherr, M. (2022). A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. *Leukemia, 36*(3), 675–686.
+
+Schmidt, T., Meller, S., **Talbot, S. R.**, Berk, B. A., Law, T. H., Hobbs, S. L., Meyerhoff, N., Packer, R., & Volk, H. A. (2022). Urinary neurotransmitter patterns are altered in canine epilepsy. *Frontiers in Veterinary Science, 9*, 893013.
+
+Rovai, A., Chung, B., Hu, Q., Hook, S., Yuan, Q., Kempf, T., Schmidt, F., Grimm, D., **Talbot, S. R.**, & Steinbrück, L. (2022). In vivo adenine base editing reverts C282Y and improves iron metabolism in hemochromatosis mice. *Nature Communications, 13*(1), 5215.
+
+Brüder, N., Kielstein, J. T., Heinze, L.-M., Lück, C., Panagiota, V., Dammann, E., Köhler, S., **Talbot, S.**, Stadler, M., & Heuser, M. (2022). MO343: Deep Analysis of The AKI—CKD in Allogeneic Stem Cell Transplantation—A Big Data Approach. *Nephrology Dialysis Transplantation, 37*(Supplement_3), gfac068.053.
+
+Riedesel, A.-K., Bach-Hagemann, A., Abdulbaki, A., **Talbot, S. R.**, Tolba, R., Schwabe, K., & Lindauer, U. (2022). Burrowing behaviour of rats: Strain differences and applicability as well-being parameter after intracranial surgery. *Laboratory Animals, 56*(4), 356–369.
+
+Ruskowski, K., Neb, H., **Talbot, S. R.**, Choorapoikayil, S., Adam, E. H., von Knethen, A., Zacharowski, K., & Heinicke, U. (2022). Persistently elevated plasma levels of RIPK3, MLKL, HMGB1, and RIPK1 in COVID-19 ICU patients. *American Journal of Respiratory Cell and Molecular Biology, 67*, 405–408.
+
+Meumann, N., Schmithals, C., Elenschneider, L., Hansen, T., Balakrishnan, A., Hu, Q., Hook, S., Schmitz, J., Bräsen, J. H., Franke, A.-C., et al. (2022). Hepatocellular Carcinoma Is a Natural Target for Adeno-Associated Virus (AAV) 2 Vectors. *Cancers, 14*(2), 427.
+
+## 2021
+
+<span class="pub-badge">★</span> Schwarzer, A., **Talbot, S. R.**, Selich, A., Morgan, M., Schott, J. W., Dittrich-Breiholz, O., Bastone, A. L., Weigel, B., Ha, T. C., Dziadek, V., et al. (2021). Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning. *Molecular Therapy*.
+
+Van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H., & Bleich, A. (2021). Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database. *ALTEX, 38*(1), 111–122. [DOI](https://doi.org/10.14573/altex.2004221)
+
+Zentrich, E., **Talbot, S. R.**, Bleich, A., & Häger, C. (2021). Automated home-cage monitoring during acute experimental colitis in mice. *Frontiers in Neuroscience, 15*, 760606.
+
+Kumar, S., Koenig, J., Schneider, A., Wermeling, F., Boddul, S., Theobald, S. J., Vollmer, M., Kloos, D., Lachmann, N., & Klawonn, F. (2021). In Vivo Lentiviral Gene Delivery of HLA-DR and Vaccination of Humanized Mice for Improving the Human T and B Cell Immune Reconstitution. *Biomedicines, 9*(8), 961.
+
+Zieglowski, L., Kümmecke, A. M., Ernst, L., Palme, R., Weiskirchen, R., **Talbot, S. R.**, & Tolba, R. H. (2021). Assessing the severity of laparotomy and partial hepatectomy in male rats—A multimodal approach. *PLOS ONE, 16*(8), e0255175. [DOI](https://doi.org/10.1371/journal.pone.0255175)
+
+Durst, M. S., Arras, M., Palme, R., **Talbot, S. R.**, & Jirkof, P. (2021). Lidocaine and bupivacaine as part of multimodal pain management in a C57BL/6J laparotomy mouse model. *Scientific Reports, 11*(1), 10918. [DOI](https://doi.org/10.1038/s41598-021-90331-2)
+
+Bialek-Waldmann, J., Domning, S., Esser, R., Glienke, W., Mertens, M., Aleksandrova, K., Arseniev, L., Kumar, S., Schneider, A., Koenig, J., Theobald, S. J., Tsay, H.-C., Cornelius, A. D. A., Bonifacius, A., Eiz-Vesper, B., Figueiredo, C., Schaudien, D., **Talbot, S. R.**, Bleich, A., Spineli, L. M., von Kaisenberg, C., Clark, C., Blasczyk, R., Heuser, M., Ganser, A., Köhl, U., Farzaneh, F., & Stripecke, R. (2021). Induced dendritic cells co-expressing GM-CSF/IFN-α/tWT1 priming T and B cells and automated manufacturing to boost GvL. *Molecular Therapy - Methods & Clinical Development, 21*, 621–641. [DOI](https://doi.org/10.1016/j.omtm.2021.04.004)
+
+Van der Mierden, S., Spineli, L. M., **Talbot, S. R.**, Yiannakou, C., Zentrich, E., Weegh, N., Struve, B., Zur Brügge, T. F., Bleich, A., & Leenaars, C. H. C. (2021). Extracting data from graphs: A case-study on animal research with implications for meta-analyses. *Research Synthesis Methods, 12*(6), 701–710. [DOI](https://doi.org/10.1002/jrsm.1481)
+
+Boldt, L., Koska, I., van Dijk, R. M., **Talbot, S. R.**, Miljanovic, N., Palme, R., Bleich, A., & Potschka, H. (2021). Toward evidence-based severity assessment in mouse models with repeated seizures: I. Electrical kindling. *Epilepsy & Behavior, 115*, 107689. [DOI](https://doi.org/10.1016/j.yebeh.2020.107689)
+
+Kirchhoff, H., Karsli, U., Schoenherr, C., Battmer, K., Erschow, S., **Talbot, S. R.**, Steinemann, D., Heuser, M., Heidenreich, O., Hilfiker-Kleiner, D., Ganser, A., Eder, M., & Scherr, M. (2021). Venetoclax and dexamethasone synergize with inotuzumab ozogamicin–induced DNA damage signaling in B-lineage ALL. *Blood, 137*(19), 2657–2661. [DOI](https://doi.org/10.1182/blood.2020008544)
+
+Tan, Q., di Stefano, G., Tan, X., Renjie, X., Römermann, D., **Talbot, S. R.**, & Seidler, U. E. (2021). Inhibition of Na+/H+ exchanger isoform 3 improves gut fluidity and alkalinity in cystic fibrosis transmembrane conductance regulator-deficient and F508del mutant mice. *British Journal of Pharmacology, 178*(5), 1018–1036. [DOI](https://doi.org/10.1111/bph.15323)
+
+Durst, M., Reding Graf, T., Graf, R., Kron, M., Arras, M., Zechner, D., Palme, R., **Talbot, S. R.**, & Jirkof, P. (2021). Analysis of pain and analgesia protocols in acute cerulein-induced pancreatitis in male C57BL/6 mice. *Frontiers in Physiology*.
+
+Weegh, N., Zentrich, E., Zechner, D., Struve, B., Wassermann, L., **Talbot, S. R.**, Kumstel, S., Heider, M., Vollmar, B., & Bleich, A. (2021). Voluntary wheel running behaviour as a tool to assess the severity in a mouse pancreatic cancer model. *PLOS ONE, 16*(12), e0261662.
+
+## 2020
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Biernot, S., Bleich, A., van Dijk, R. M., Ernst, L., Häger, C., Helgers, S. O. A., Koegel, B., Koska, I., Kuhla, A., et al. (2020). Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*.
+
+<span class="pub-badge">★</span> van Dijk, R. M., Koska, I., Bleich, A., Tolba, R., Seiffert, I., Möller, C., Di Liberto, V., **Talbot, S. R.**, & Potschka, H. (2020). Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS ONE*.
+
+<span class="pub-badge">★</span> Helgers, S. O. A., **Talbot, S. R.**, Riedesel, A.-K., Wassermann, L., Wu, Z., Krauss, J. K., Häger, C., Bleich, A., & Schwabe, K. (2020). Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Scientific Reports*.
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Bruch, S., Kießling, F., Marschollek, M., Jandric, B., Tolba, R. H., & Bleich, A. (2020). Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*.
+
+Leenaars, C. H. C., van der Mierden, S., Durst, M., Goerlich-Jansson, V. C., Ripoli, F. L., Keubler, L. M., **Talbot, S. R.**, Boyle, E., Habedank, A., Jirkof, P., Lewejohann, L., Gass, P., Tolba, R., & Bleich, A. (2020). Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals, 54*(1), 26–32. [DOI](https://doi.org/10.1177/0023677219868499)
+
+Keubler, L. M., Hoppe, N., Potschka, H., **Talbot, S. R.**, Vollmar, B., Zechner, D., Häger, C., & Bleich, A. (2020). Where are we heading? Challenges in evidence-based severity assessment. *Laboratory Animals, 54*(1), 50–62. [DOI](https://doi.org/10.1177/0023677219877216)
+
+Jirkof, P., Abdelrahman, A., Bleich, A., Durst, M., Keubler, L., Potschka, H., Struve, B., **Talbot, S. R.**, Vollmar, B., Zechner, D., & Häger, C. (2020). A safe bet? Inter-laboratory variability in behaviour-based severity assessment. *Laboratory Animals, 54*(1), 73–82. [DOI](https://doi.org/10.1177/0023677219881481)
+
+Buchheister, S., Roegener, F., Zschemisch, N.-H., **Talbot, S. R.**, Christensen, H., & Bleich, A. (2020). One for two: A novel and highly sensitive virulence factor-based quantitative polymerase chain reaction assay for the simultaneous detection of Rodentibacter pneumotropicus and Rodentibacter heylii. *Laboratory Animals, 54*(3), 239–250. [DOI](https://doi.org/10.1177/0023677219853600)
+
+Ernst, L., Kopaczka, M., Schulz, M., **Talbot, S. R.**, Zieglowski, L., Meyer, M., Bruch, S., Merhof, D., & Tolba, R. H. (2020). Improvement of the Mouse Grimace Scale set-up for implementing a semi-automated Mouse Grimace Scale scoring (Part 1). *Laboratory Animals, 54*(1), 83–91. [DOI](https://doi.org/10.1177/0023677219881655)
+
+Ernst, L., Kopaczka, M., Schulz, M., **Talbot, S. R.**, Struve, B., Häger, C., Bleich, A., Durst, M., Jirkof, P., Arras, M., van Dijk, R. M., Miljanovic, N., Potschka, H., Merhof, D., & Tolba, R. H. (2020). Semi-automated generation of pictures for the Mouse Grimace Scale: A multi-laboratory analysis (Part 2). *Laboratory Animals, 54*(1), 92–98. [DOI](https://doi.org/10.1177/0023677219881664)
+
+Zieglowski, L., Kümmecke, A., Ernst, L., Schulz, M., **Talbot, S. R.**, Palme, R., Czaplik, M., & Tolba, R. H. (2020). Severity assessment using three common behavioral or locomotor tests after laparotomy in rats: a pilot study. *Laboratory Animals, 54*(6), 525–535. [DOI](https://doi.org/10.1177/0023677220911680)
+
+Wassermann, L., Helgers, S. O. A., Riedesel, A.-K., **Talbot, S. R.**, Bleich, A., Schwabe, K., & Häger, C. (2020). Monitoring of Heart Rate and Activity Using Telemetry Allows Grading of Experimental Procedures Used in Neuroscientific Rat Models. *Frontiers in Neuroscience, 14*. [Link](https://www.frontiersin.org/articles/10.3389/fnins.2020.587760)
+
+Tang, G., Seume, N., Häger, C., Kumstel, S., Abshagen, K., Bleich, A., Vollmar, B., **Talbot, S. R.**, Zhang, X., & Zechner, D. (2020). Comparing distress of mouse models for liver damage. *Scientific Reports, 10*(1), 19814. [DOI](https://doi.org/10.1038/s41598-020-76391-w)
+
+Begni, V., Sanson, A., Pfeiffer, N., Brandwein, C., Inta, D., **Talbot, S. R.**, Riva, M. A., Gass, P., & Mallien, A. S. (2020). Social isolation in rats: Effects on animal welfare and molecular markers for neuroplasticity. *PLOS ONE, 15*(10), e0240439. [DOI](https://doi.org/10.1371/journal.pone.0240439)
+
+Ernst, L., Zieglowski, L., Schulz, M., Moss, M., Meyer, M., Weiskirchen, R., Palme, R., Hamann, M., **Talbot, S. R.**, & Tolba, R. H. (2020). Severity assessment in mice subjected to carbon tetrachloride. *Scientific Reports, 10*(1), 15790. [DOI](https://doi.org/10.1038/s41598-020-72801-1)
+
+Kumstel, S., Wendt, E. H. U., Eichberg, J., **Talbot, S. R.**, Häger, C., Zhang, X., Abdelrahman, A., Schönrogge, M., Palme, R., Bleich, A., Vollmar, B., & Zechner, D. (2020). Grading animal distress and side effects of therapies. *Annals of the New York Academy of Sciences, 1473*(1), 20–34. [DOI](https://doi.org/10.1111/nyas.14338)
+
+Mallien, A. S., Häger, C., Palme, R., **Talbot, S. R.**, Vogt, M. A., Pfeiffer, N., Brandwein, C., Struve, B., Inta, D., Chourbaji, S., Hellweg, R., Vollmayr, B., Bleich, A., & Gass, P. (2020). Systematic analysis of severity in a widely used cognitive depression model for mice. *Laboratory Animals, 54*(1), 40–49. [DOI](https://doi.org/10.1177/0023677219874831)
+
+Zhang, X., Kumstel, S., Tang, G., **Talbot, S. R.**, Seume, N., Abshagen, K., Vollmar, B., & Zechner, D. (2020). A rational approach of early humane endpoint determination in a murine model for cholestasis. *ALTEX, 37*(2), 197–207. [DOI](https://doi.org/10.14573/altex.1909111)
+
+## 2019
+
+de Araujo, L. S., Ribeiro-Alves, M., Leal-Calvo, T., Leung, J., Durán, V., Samir, M., **Talbot, S.**, Tallam, A., de Queiroz Mello, F. C., Geffers, R., Saad, M. H. F., & Pessler, F. (2019). Reprogramming of Small Noncoding RNA Populations in Peripheral Blood Reveals Host Biomarkers for Latent and Active Mycobacterium tuberculosis Infection. *mBio, 10*(6), e01037-19. [DOI](https://doi.org/10.1128/mbio.01037-19)
+
+## 2018
+
+Prajeeth, C. K., Dittrich-Breiholz, O., **Talbot, S. R.**, Robert, P. A., Huehn, J., & Stangel, M. (2018). IFN-γ Producing Th1 Cells Induce Different Transcriptional Profiles in Microglia and Astrocytes. *Frontiers in Cellular Neuroscience, 12*. [Link](https://www.frontiersin.org/articles/10.3389/fncel.2018.00352)
+
+Häger, C., Keubler, L. M., **Talbot, S. R.**, Biernot, S., Weegh, N., Buchheister, S., Buettner, M., Glage, S., & Bleich, A. (2018). Running in the wheel: Defining individual severity levels in mice. *PLOS Biology, 16*(10), e2006159. [DOI](https://doi.org/10.1371/journal.pbio.2006159)
+
+Skuljec, J., Jirmo, A. C., Habener, A., **Talbot, S. R.**, Pul, R., Grychtol, R., Aydin, M., Kleinschnitz, C., Happle, C., & Hansen, G. (2018). Absence of Regulatory T Cells Causes Phenotypic and Functional Switch in Murine Peritoneal Macrophages. *Frontiers in Immunology, 9*. [Link](https://www.frontiersin.org/articles/10.3389/fimmu.2018.02458)
+
+## 2017
+
+Häger, C., Biernot, S., Buettner, M., Glage, S., Keubler, L. M., Held, N., Bleich, E. M., Otto, K., Müller, C. W., Decker, S., **Talbot, S. R.**, & Bleich, A. (2017). The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep. *PLOS ONE, 12*(4), e0175839. [DOI](https://doi.org/10.1371/journal.pone.0175839)
+
+Adams, F. F., Heckl, D., Hoffmann, T., **Talbot, S. R.**, Kloos, A., Thol, F., Heuser, M., Zuber, J., Schambach, A., & Schwarzer, A. (2017). An optimized lentiviral vector system for conditional RNAi and efficient cloning of microRNA embedded short hairpin RNA libraries. *Biomaterials, 139*, 102–115. [DOI](https://doi.org/10.1016/j.biomaterials.2017.05.032)
+
+## 2015
+
+Oumeraci, T., Jensen, V., **Talbot, S. R.**, Hofmann, W., Kostrzewa, M., Schlegelberger, B., von Neuhoff, N., & Häussler, S. (2015). Comprehensive MALDI-TOF Biotyping of the Non-Redundant Harvard Pseudomonas aeruginosa PA14 Transposon Insertion Mutant Library. *PLOS ONE, 10*(2), e0117144. [DOI](https://doi.org/10.1371/journal.pone.0117144)
+
+## 2011
+
+<span class="pub-badge">★</span> Sartorius, G., & **Talbot, S. R.** (2011). Multivariate adaptation and classification method for characteristic sample properties. *Engineering in Life Sciences*. [DOI](https://doi.org/10.1002/elsc.201000136)
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, & Sartorius, G. (2011). Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field. *Engineering in Life Sciences*.
+
+## 2010
+
+<span class="pub-badge">★</span> **Talbot, S. R.**, Russmann, H., Köhne, S., Niederwöhrmeier, B., Grote, G., & Scheper, T. (2010). Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS. *Engineering in Life Sciences*.
+
+---
 
 ## Book Contributions
 
@@ -25,6 +211,3 @@ Talbot, S. R. (2018). Medizinische Statistik und Studiendesign. In *Pschyrembel 
 ## Patent
 
 Halang, W. A., Sartorius, G., & Talbot, S. R. (2010). *Verfahren und Vorrichtung zur Detektion von Kampfstoffen* (German Patent No. DE 10 2008 054 345 A1). Deutsches Patent- und Markenamt.
-
----
- 
