@@ -6,113 +6,153 @@ title: "Talks & Presentations"
 
 ### 2025
 
-- **RELSA - An evidence-based procedure to assess the well-being and severity in animal experiments** | Preclinical Rethinking Webinar, BIH, Charité, Berlin 
+**RELSA - An evidence-based procedure to assess the well-being and severity in animal experiments**<br>
+*Preclinical Rethinking Webinar, BIH, Charité, Berlin*
 
-- **Use cases for AI in Science** | (In)Credible Research Conference, Charité, Berlin 
+**Use cases for AI in Science**<br>
+*(In)Credible Research Conference, Charité, Berlin*
 
-- **Artificial Intelligence — An overview** | RNApp Graduate College Retreat, zukunft.niedersachsen
+**Artificial Intelligence — An overview**<br>
+*RNApp Graduate College Retreat, zukunft.niedersachsen*
 
-- **Bayessche Statistik und fortgeschrittene Fallzahlplanung in der tierexperimentellen Forschung** | Keynote, Session 'Replace, Reduce, Refine - 3R in der Chirurgie', Chirurgische Forschungstage 2025
+**Bayessche Statistik und fortgeschrittene Fallzahlplanung in der tierexperimentellen Forschung**<br>
+*Keynote, Session 'Replace, Reduce, Refine - 3R in der Chirurgie', Chirurgische Forschungstage 2025*
 
-- **TRAVELS Symposium** | Helmholtz-Institut für Biomedizinische Technik, Aachen
+**TRAVELS Symposium**<br>
+*Helmholtz-Institut für Biomedizinische Technik, Aachen*
 
-- **Smarter Monitoring: Data Science Innovations in Automated Home Cage Systems** | FELASA 2025, Athens, Greece
+**Smarter Monitoring: Data Science Innovations in Automated Home Cage Systems**<br>
+*FELASA 2025, Athens, Greece*
 
-- **Künstliche Intelligenz Revolution in der tierexperimentellen Forschung?** | 31. Essener Informationstreffen für Tierschutzbeauftragte (Online)
+**Künstliche Intelligenz Revolution in der tierexperimentellen Forschung?**<br>
+*31. Essener Informationstreffen für Tierschutzbeauftragte (Online)*
 
-- **Innovative Approaches to the 3Rs: Bayesian Statistics and Advanced Sample Size Calculations** | European Molecular Imaging Meeting (EMIM), Bilbao, Spain
+**Innovative Approaches to the 3Rs: Bayesian Statistics and Advanced Sample Size Calculations**<br>
+*European Molecular Imaging Meeting (EMIM), Bilbao, Spain*
 
 ### 2024
 
-- **Improving Laboratory Animal Welfare with Advanced Data Science Methods** | 2. Jahrestagung des 3R-Kompetenznetzwerks NRW, Vaals, Netherlands
+**Improving Laboratory Animal Welfare with Advanced Data Science Methods**<br>
+*2. Jahrestagung des 3R-Kompetenznetzwerks NRW, Vaals, Netherlands*
 
-- **Statistical Strategies for Robust Research in the Life Sciences** | European Molecular Imaging Meeting (EMIM), Porto, Portugal
+**Statistical Strategies for Robust Research in the Life Sciences**<br>
+*European Molecular Imaging Meeting (EMIM), Porto, Portugal*
 
 ### 2023
 
-- **Methoden der Datenwissenschaften für eine objektivere Belastungsbeurteilung von Versuchstieren** | Nuvisan GmbH, Neu-Ulm
+**Methoden der Datenwissenschaften für eine objektivere Belastungsbeurteilung von Versuchstieren**<br>
+*Nuvisan GmbH, Neu-Ulm*
 
-- **The Translational Power of Data Science in Severity Assessment** | Models and Insights in Translational Research Symposium, Goethe University, Frankfurt/Main
+**The Translational Power of Data Science in Severity Assessment**<br>
+*Models and Insights in Translational Research Symposium, Goethe University, Frankfurt/Main*
 
-- **Leveraging Data Science for Better Severity Assessment in Laboratory Animal Science** | 12th World Congress on Alternatives and Animal Use in the Life Sciences, Niagara Falls, Canada
+**Leveraging Data Science for Better Severity Assessment in Laboratory Animal Science**<br>
+*12th World Congress on Alternatives and Animal Use in the Life Sciences, Niagara Falls, Canada*
 
-- **The RELSA Score - An Evidence-Based Tool for Better Severity Assessment in Animal Research** | 12th World Congress on Alternatives and Animal Use in the Life Sciences, Niagara Falls, Canada
+**The RELSA Score - An Evidence-Based Tool for Better Severity Assessment in Animal Research**<br>
+*12th World Congress on Alternatives and Animal Use in the Life Sciences, Niagara Falls, Canada*
 
-- **RELSA - Relative Severity Assessment in Laboratory Animals** | Charité 3R Lecture, Berlin
+**RELSA - Relative Severity Assessment in Laboratory Animals**<br>
+*Charité 3R Lecture, Berlin*
 
-- **Analysis of longitudinal data and its application to welfare monitoring/scoring** | Oxford 3Rs Symposium, University of Oxford, UK
+**Analysis of longitudinal data and its application to welfare monitoring/scoring**<br>
+*Oxford 3Rs Symposium, University of Oxford, UK*
 
 ### 2022
 
-- **The Digital Fingerprint of Evidence-Based Methods in the Severity Assessment of Laboratory Animals** | Max Planck Lab Animal Science Lectures, MPI Immunobiology and Epigenetics, Freiburg
+**The Digital Fingerprint of Evidence-Based Methods in the Severity Assessment of Laboratory Animals**<br>
+*Max Planck Lab Animal Science Lectures, MPI Immunobiology and Epigenetics, Freiburg*
 
-- **Use of activity measurements for severity assessment** | 2nd Digital Vivarium Forum, Tecniplast, Buguggiate, Italy
+**Use of activity measurements for severity assessment**<br>
+*2nd Digital Vivarium Forum, Tecniplast, Buguggiate, Italy*
 
-- **The Digital Fingerprint of Severity in Laboratory Animals** | 3R Summerschool, Charité, Berlin
+**The Digital Fingerprint of Severity in Laboratory Animals**<br>
+*3R Summerschool, Charité, Berlin*
 
 ### 2021
 
-- **Towards best practice in preclinical confirmatory animal research** | DECIDE Statistics Consensus Workshop
+**Towards best practice in preclinical confirmatory animal research**<br>
+*DECIDE Statistics Consensus Workshop*
 
-- **The RELSA Algorithm: Approaching the Comparative Quantification of Severity in Laboratory Animals** | 3R-Webinar, Berlin
+**The RELSA Algorithm: Approaching the Comparative Quantification of Severity in Laboratory Animals**<br>
+*3R-Webinar, Berlin*
 
-- **Künstliche Intelligenz - Zukunft und Chancen** | 27. Essener Informationstreffen für Tierschutzbeauftragte (Online)
+**Künstliche Intelligenz - Zukunft und Chancen**<br>
+*27. Essener Informationstreffen für Tierschutzbeauftragte (Online)*
 
 ### 2020
 
-- **Neue Strategien für das Composite Scoring zur Belastungsbewertung in der Versuchstierkunde** | 58. GV-SOLAS und 19. IGTP (Online Workshop)
+**Neue Strategien für das Composite Scoring zur Belastungsbewertung in der Versuchstierkunde**<br>
+*58. GV-SOLAS und 19. IGTP (Online Workshop)*
 
 ### 2019
 
-- **Quantitative Charakterisierung der Belastung von Versuchstieren** | 48. Seminar über Versuchstiere und Tierversuche, BfR, Berlin
+**Quantitative Charakterisierung der Belastung von Versuchstieren**<br>
+*48. Seminar über Versuchstiere und Tierversuche, BfR, Berlin*
 
-- **Conquering human bias - Feature selection for severity assessment** | Institute of Pharmacology, Toxicology & Pharmacy, LMU Munich
+**Conquering human bias - Feature selection for severity assessment**<br>
+*Institute of Pharmacology, Toxicology & Pharmacy, LMU Munich*
 
-- **An Example for Computational Methods in the Animal Sciences - Tackling Severity Assessment** | Institut für Mathematik, Universität Zürich
+**An Example for Computational Methods in the Animal Sciences - Tackling Severity Assessment**<br>
+*Institut für Mathematik, Universität Zürich*
 
-- **Body weight – a "good" predictor for severity in animal models?** | BfR, Berlin
+**Body weight – a "good" predictor for severity in animal models?**<br>
+*BfR, Berlin*
 
 ### 2018
 
-- **Use-case „Small Data": Online Repository & Analysis of mouse body weight data for potential severity assessment** | FOR2591 Meeting, Rostock
+**Use-case „Small Data": Online Repository & Analysis of mouse body weight data for potential severity assessment**<br>
+*FOR2591 Meeting, Rostock*
 
-- **Ratten, Tumore und Aktien - Mit Risiko dem Ende entgegen** | Institut für Versuchstierkunde, MHH, Hannover
+**Ratten, Tumore und Aktien - Mit Risiko dem Ende entgegen**<br>
+*Institut für Versuchstierkunde, MHH, Hannover*
 
-- **FOR2591 Online Repository** | Institut für Versuchstierkunde, MHH, Hannover
+**FOR2591 Online Repository**<br>
+*Institut für Versuchstierkunde, MHH, Hannover*
 
 ### 2017
 
-- **Stress level prediction - a classification approach** | Institut für Versuchstierkunde, MHH, Hannover
+**Stress level prediction - a classification approach**<br>
+*Institut für Versuchstierkunde, MHH, Hannover*
 
 ### 2016
 
-- **Predicting Myosin Dynamics using GROMACS** | Institut für physiologische Chemie, MHH, Hannover
+**Predicting Myosin Dynamics using GROMACS**<br>
+*Institut für physiologische Chemie, MHH, Hannover*
 
 ### 2015
 
-- **The ESP as an example for marine ecogenomic sensors** | ICBM, Wilhelmshaven
+**The ESP as an example for marine ecogenomic sensors**<br>
+*ICBM, Wilhelmshaven*
 
-- **The problem of feature loss as a potential bottleneck in the detection of pathogenic bacteria** | ICBM, Wilhelmshaven
+**The problem of feature loss as a potential bottleneck in the detection of pathogenic bacteria**<br>
+*ICBM, Wilhelmshaven*
 
 ### 2011
 
-- **Multivariate Statistik und Analysemethoden** | Fraunhofer ITEM, Hannover
+**Multivariate Statistik und Analysemethoden**<br>
+*Fraunhofer ITEM, Hannover*
 
 ### 2009
 
-- **Identifikation potentieller bakteriologischer Kampfstoffe mit Ramanspektroskopie unter Nutzung von multivariater Statistik** | Wehrwissenschaftliches Institut für Schutztechnologien, Munster
+**Identifikation potentieller bakteriologischer Kampfstoffe mit Ramanspektroskopie unter Nutzung von multivariater Statistik**<br>
+*Wehrwissenschaftliches Institut für Schutztechnologien, Munster*
 
 ### 2008
 
-- **Identification of potential bacterial biological warfare agents with spectroscopic methods using multivariate statistics** | Hannover Messe/German Bioperspectives
+**Identification of potential bacterial biological warfare agents with spectroscopic methods using multivariate statistics**<br>
+*Hannover Messe/German Bioperspectives*
 
-- **Classification of potential biological warfare agents** | Robert-Koch Institut, Berlin
+**Classification of potential biological warfare agents**<br>
+*Robert-Koch Institut, Berlin*
 
 ### 2007
 
-- **Identifikation von potentiellen biologischen Kampfstoffen mit Ramanspektrometrie** | Institut für Technische Chemie, Hannover
+**Identifikation von potentiellen biologischen Kampfstoffen mit Ramanspektrometrie**<br>
+*Institut für Technische Chemie, Hannover*
 
-- **Identification and Classification of Pathogens with Raman Spectroscopy** | ANGCCP Meeting, Sanitätsakademie der Bundeswehr, München
+**Identification and Classification of Pathogens with Raman Spectroscopy**<br>
+*ANGCCP Meeting, Sanitätsakademie der Bundeswehr, München*
 
 ---
 
@@ -120,98 +160,169 @@ title: "Talks & Presentations"
 
 ### 2025
 
-- Sara Lutscher, Loukia M Spineli, Lisa Goral, André Bleich, **Steven R Talbot**, **Refining Humane-Endpoint Identification with ARIMA Forecasting**, 3rd Annual Meeting of the 3R-Competence Network NRW, Vaals (NL).
+**Refining Humane-Endpoint Identification with ARIMA Forecasting**<br>
+*Sara Lutscher, Loukia M Spineli, Lisa Goral, André Bleich, Steven R Talbot*<br>
+*3rd Annual Meeting of the 3R-Competence Network NRW, Vaals (NL)*
 
-- Leonie Tix, Lena Kistermann, Aryo Zare, Steven R. Talbot, Anne Rix, Lisa Ernst, René H. Tolba, **Individuelle tierärztliche Betreuung von Xenopus laevis-wann besteht ein vernünftiger Grund zum Töten?**, DVG-Vet-Congress, Berlin. 
+**Individuelle tierärztliche Betreuung von Xenopus laevis - wann besteht ein vernünftiger Grund zum Töten?**<br>
+*Leonie Tix, Lena Kistermann, Aryo Zare, Steven R. Talbot, Anne Rix, Lisa Ernst, René H. Tolba*<br>
+*DVG-Vet-Congress, Berlin*
 
-- Emwas AH, Tauschke J, Al-Younis I, Yu EA, **Talbot SR**, Zacharias HU. *Artificial Intelligence for Smart Data Extraction: A First Use Case for A Meta Analysis to Identify Metabolic Biomarkers in Diabetes Research.* DGMet Annual Meeting, Hannover.
+**Artificial Intelligence for Smart Data Extraction: A First Use Case for A Meta Analysis to Identify Metabolic Biomarkers in Diabetes Research**<br>
+*Emwas AH, Tauschke J, Al-Younis I, Yu EA, Talbot SR, Zacharias HU*<br>
+*DGMet Annual Meeting, Hannover*
 
-- **Talbot SR**, Lutscher S. *Enhancing 3R Principles with Bayesian Updating - A New Horizon in Sample Size Calculation for Replacement Methods.* MPS Congress, Brussels.
+**Enhancing 3R Principles with Bayesian Updating - A New Horizon in Sample Size Calculation for Replacement Methods**<br>
+*Talbot SR, Lutscher S*<br>
+*MPS Congress, Brussels*
 
-- Jacob DT, Keubler L, Selke K, Büttner M, Wenzel L, Buchheister S, **Talbot SR**, Lutscher S, Glasenapp A, Bankstahl M, Bleich A, Häger C. *Severity assessment in the DSS-colitis model under metamizole pain therapy.* FELASA, Athens, Greece.
+**Severity assessment in the DSS-colitis model under metamizole pain therapy**<br>
+*Jacob DT, Keubler L, Selke K, Büttner M, Wenzel L, Buchheister S, Talbot SR, Lutscher S, Glasenapp A, Bankstahl M, Bleich A, Häger C*<br>
+*FELASA, Athens, Greece*
 
-- Keubler L, Jacob D, Selke K, Wenzel L, **Talbot SR**, Bleich A, Häger C. *Evaluation of a prolonged adaptation period on Mouse Grimace Scale baselines.* FELASA, Athens, Greece.
+**Evaluation of a prolonged adaptation period on Mouse Grimace Scale baselines**<br>
+*Keubler L, Jacob D, Selke K, Wenzel L, Talbot SR, Bleich A, Häger C*<br>
+*FELASA, Athens, Greece*
 
-- Buchecker V, Boldt L, Koska I, Seiffert I, Möller C, Aulehner K, Palme R, **Talbot SR**, Potschka H. *Evidence-based severity assessment and refinement measures in rodent epilepsy models.* FELASA, Athens, Greece.
+**Evidence-based severity assessment and refinement measures in rodent epilepsy models**<br>
+*Buchecker V, Boldt L, Koska I, Seiffert I, Möller C, Aulehner K, Palme R, Talbot SR, Potschka H*<br>
+*FELASA, Athens, Greece*
 
-- Kumstel S, Schreiber T, Richter A, Lange S, **Talbot SR**, Brandstetter J, Junghanss C, Vollmar B. *Analgesic refinement of a murine orthotopic xenograft model for acute lymphoblastic leukemia.* FELASA, Athens, Greece.
+**Analgesic refinement of a murine orthotopic xenograft model for acute lymphoblastic leukemia**<br>
+*Kumstel S, Schreiber T, Richter A, Lange S, Talbot SR, Brandstetter J, Junghanss C, Vollmar B*<br>
+*FELASA, Athens, Greece*
 
-- Schreiber T, Leitner E, Brandstetter J, **Talbot SR**, Palme R, Vollmar B, Kumstel S. *Pain Relief and Recovery: Comparison of Oral Analgesics for Telemeter Implantation in Mice.* FELASA, Athens, Greece.
+**Pain Relief and Recovery: Comparison of Oral Analgesics for Telemeter Implantation in Mice**<br>
+*Schreiber T, Leitner E, Brandstetter J, Talbot SR, Palme R, Vollmar B, Kumstel S*<br>
+*FELASA, Athens, Greece*
 
-- Tix L, Kistermann L, Zare A, **Talbot SR**, Rix A, Ernst L, Tolba RH. *Individuelle tierärztliche Betreuung von Xenopus laevis - wann besteht ein vernünftiger Grund zum Töten?* DVG-Vet-Congress, Berlin.
+**Individuelle tierärztliche Betreuung von Xenopus laevis - wann besteht ein vernünftiger Grund zum Töten?**<br>
+*Tix L, Kistermann L, Zare A, Talbot SR, Rix A, Ernst L, Tolba RH*<br>
+*DVG-Vet-Congress, Berlin*
 
 ### 2024
 
-- Ohland PLS, Halle S, Brand K, **Talbot SR**. *Quantifizierung der Erkrankungsschwere bei Amanitin-vergifteten Patienten durch Fusion gängiger Laborwerte.* DIVI24 Kongress, Hamburg.
+**Quantifizierung der Erkrankungsschwere bei Amanitin-vergifteten Patienten durch Fusion gängiger Laborwerte**<br>
+*Ohland PLS, Halle S, Brand K, Talbot SR*<br>
+*DIVI24 Kongress, Hamburg*
 
-- Ohland PLS, Halle S, **Talbot SR**. *Quantifying Disease Severity in Amanitin-Intoxicated Patients by Fusing Common Laboratory Values.*
+**Quantifying Disease Severity in Amanitin-Intoxicated Patients by Fusing Common Laboratory Values**<br>
+*Ohland PLS, Halle S, Talbot SR*
 
 ### 2023
 
-- **Talbot SR**, Häger C, Potschka H, Schwabe K, Bleich A. *Leveraging data science for better severity assessment in laboratory animal science.* WC12, Niagara Falls.
+**Leveraging data science for better severity assessment in laboratory animal science**<br>
+*Talbot SR, Häger C, Potschka H, Schwabe K, Bleich A*<br>
+*WC12, Niagara Falls*
 
-- **Talbot SR**, Häger C, Mallien A, Zechner D, Kumstel S, Vollmar B, Bleich A. *The RELSA score: An evidence-based tool for better severity assessment in animal research.* WC12, Niagara Falls.
+**The RELSA score: An evidence-based tool for better severity assessment in animal research**<br>
+*Talbot SR, Häger C, Mallien A, Zechner D, Kumstel S, Vollmar B, Bleich A*<br>
+*WC12, Niagara Falls*
 
-- Häger C, **Talbot SR**, Bleich A. *Multimodal welfare assessment in laboratory mice after surgery.* WC12, Niagara Falls.
+**Multimodal welfare assessment in laboratory mice after surgery**<br>
+*Häger C, Talbot SR, Bleich A*<br>
+*WC12, Niagara Falls*
 
-- Potschka H, Reiber M, von Schumann L, van Dijk M, Buchecker V, Philippi V, Bleich A, **Talbot SR**. *Development of composite measure schemes for evidence-based severity assessment and refinement in neuroscientific research.* WC12, Niagara Falls.
+**Development of composite measure schemes for evidence-based severity assessment and refinement in neuroscientific research**<br>
+*Potschka H, Reiber M, von Schumann L, van Dijk M, Buchecker V, Philippi V, Bleich A, Talbot SR*<br>
+*WC12, Niagara Falls*
 
-- Ottlewski A, Häger C, Hermann E, Bankstahl M, **Talbot SR**, Krauss JK, Bleich A, Schwabe K. *Evaluation of running wheel behavior as a reliable marker for severity assessment and humane endpoint detection in a rat model with intracranial tumor.* WC12, Niagara Falls.
+**Evaluation of running wheel behavior as a reliable marker for severity assessment and humane endpoint detection in a rat model with intracranial tumor**<br>
+*Ottlewski A, Häger C, Hermann E, Bankstahl M, Talbot SR, Krauss JK, Bleich A, Schwabe K*<br>
+*WC12, Niagara Falls*
 
-- Mallien AS, **Talbot SR**, Becker L, Brandwein C, Pfeiffer N, Munk A, Buchecker V, Rix A, Baier J, Girbig R, Neunecker S, Vogt M, Palme R, Bleich A, Kiessling F, Potschka H, Chourbaji S, Gass P. *Group versus individual housing in male and female laboratory mice: A multicenter study reveals only subtle differences in severity.* WC12, Niagara Falls.
+**Group versus individual housing in male and female laboratory mice: A multicenter study reveals only subtle differences in severity**<br>
+*Mallien AS, Talbot SR, Becker L, Brandwein C, Pfeiffer N, Munk A, Buchecker V, Rix A, Baier J, Girbig R, Neunecker S, Vogt M, Palme R, Bleich A, Kiessling F, Potschka H, Chourbaji S, Gass P*<br>
+*WC12, Niagara Falls*
 
-- Häger C, **Talbot SR**, Bleich A. *Improved post-operative pain and welfare assessment in sheep.* WC12, Niagara Falls.
+**Improved post-operative pain and welfare assessment in sheep**<br>
+*Häger C, Talbot SR, Bleich A*<br>
+*WC12, Niagara Falls*
 
-- Zentrich E, **Talbot SR**, Bleich A, Häger C. *Validation of clinical scoring and home-cage monitoring in a mouse model of acute colitis.* WC12, Niagara Falls.
+**Validation of clinical scoring and home-cage monitoring in a mouse model of acute colitis**<br>
+*Zentrich E, Talbot SR, Bleich A, Häger C*<br>
+*WC12, Niagara Falls*
 
-- Buchecker V, Boldt L, Koska I, Seiffert I, Möller C, Aulehner K, Palme R, Bleich A, **Talbot SR**, Potschka H. *Evidence-based severity assessment in epilepsy models as a basis for refinement?* WC12, Niagara Falls.
+**Evidence-based severity assessment in epilepsy models as a basis for refinement?**<br>
+*Buchecker V, Boldt L, Koska I, Seiffert I, Möller C, Aulehner K, Palme R, Bleich A, Talbot SR, Potschka H*<br>
+*WC12, Niagara Falls*
 
-- Häger C, **Talbot SR**, Bleich A. *Insights from the home cage: Data science-driven activity analysis enables sensitive welfare assessment in colitis models.* WC12, Niagara Falls.
+**Insights from the home cage: Data science-driven activity analysis enables sensitive welfare assessment in colitis models**<br>
+*Häger C, Talbot SR, Bleich A*<br>
+*WC12, Niagara Falls*
 
 ### 2021
 
-- Schmidt T, Meller S, **Talbot SR**, Berk BA, Law TH, Hobbs S, Packer RMA, Volk HA. *Urinary neurotransmitter patterns are altered in canine epilepsy.* 33rd ESVN-ECVN Symposium.
+**Urinary neurotransmitter patterns are altered in canine epilepsy**<br>
+*Schmidt T, Meller S, Talbot SR, Berk BA, Law TH, Hobbs S, Packer RMA, Volk HA*<br>
+*33rd ESVN-ECVN Symposium*
 
-- Schmidt T, Meller S, Packer RMA, **Talbot SR**, Volk HA. *Urinary neurotransmitter analysis in canine behavioural disorders.* 33rd ESVN-ECVN Symposium / JVIM.
+**Urinary neurotransmitter analysis in canine behavioural disorders**<br>
+*Schmidt T, Meller S, Packer RMA, Talbot SR, Volk HA*<br>
+*33rd ESVN-ECVN Symposium / JVIM*
 
-- Zentrich E, **Talbot SR**, Bleich A, Häger C. *Digital Ventilated Cage (DVC®) System – A useful tool for severity assessment in mice in an acute DSS-induced colitis model?* 59. GV-SOLAS und 20. IGTP.
+**Digital Ventilated Cage (DVC®) System – A useful tool for severity assessment in mice in an acute DSS-induced colitis model?**<br>
+*Zentrich E, Talbot SR, Bleich A, Häger C*<br>
+*59. GV-SOLAS und 20. IGTP*
 
 ### 2019
 
-- Koska I, van Dijk RM, **Talbot SR**, Seiffert I, di Liberto V, Möller C, Bleich A, Potschka H. *Developing composite measure schemes for the assessment of severity in animal models.* Vetpharm Symposium, Munich.
+**Developing composite measure schemes for the assessment of severity in animal models**<br>
+*Koska I, van Dijk RM, Talbot SR, Seiffert I, di Liberto V, Möller C, Bleich A, Potschka H*<br>
+*Vetpharm Symposium, Munich*
 
-- Helgers SOA, Riedesel AK, Wassermann L, Häger C, **Talbot SR**, Krauss JK, Bleich A, Schwabe K. *Telemetric measures in a rat model with intracranial tumor.* FELASA, Prague.
+**Telemetric measures in a rat model with intracranial tumor**<br>
+*Helgers SOA, Riedesel AK, Wassermann L, Häger C, Talbot SR, Krauss JK, Bleich A, Schwabe K*<br>
+*FELASA, Prague*
 
-- Wassermann L, Riedesel AK, Helgers S, **Talbot SR**, Bleich A, Schwabe K, Häger C. *Experimental procedures and their impact on heart rate and activity in rats.* FELASA, Prague.
+**Experimental procedures and their impact on heart rate and activity in rats**<br>
+*Wassermann L, Riedesel AK, Helgers S, Talbot SR, Bleich A, Schwabe K, Häger C*<br>
+*FELASA, Prague*
 
-- Tang G, Seume N, **Talbot SR**, Häger C, Kumstel S, Abshagen K, Bleich A, Vollmar B, Zhang X, Zechner D. *A multifactorial distress analysis of animal models for liver fibrosis.* FELASA, Prague.
+**A multifactorial distress analysis of animal models for liver fibrosis**<br>
+*Tang G, Seume N, Talbot SR, Häger C, Kumstel S, Abshagen K, Bleich A, Vollmar B, Zhang X, Zechner D*<br>
+*FELASA, Prague*
 
-- Helgers S, **Talbot SR**, Riedesel AK, Krauss JK, Bleich A, Schwabe K. *Humane endpoint determination in rat models with intracranial tumor using body weight course analysis.*
+**Humane endpoint determination in rat models with intracranial tumor using body weight course analysis**<br>
+*Helgers S, Talbot SR, Riedesel AK, Krauss JK, Bleich A, Schwabe K*
 
 ### 2018
 
-- Häger C, Keubler L, **Talbot SR**, Biernot S, Weegh N, Büttner M, Glage S, Bleich A. *Severity assessment through classification of wheel-running behaviour in laboratory mice.* 56. GV-SOLAS, Munich.
+**Severity assessment through classification of wheel-running behaviour in laboratory mice**<br>
+*Häger C, Keubler L, Talbot SR, Biernot S, Weegh N, Büttner M, Glage S, Bleich A*<br>
+*56. GV-SOLAS, Munich*
 
-- Zieglowski L, Kümmecke A, Schulz M, Ernst L, **Talbot SR**, Tolba RH. *Severity Assessment after visceral surgery in rats.* GV-SOLAS, Munich.
+**Severity Assessment after visceral surgery in rats**<br>
+*Zieglowski L, Kümmecke A, Schulz M, Ernst L, Talbot SR, Tolba RH*<br>
+*GV-SOLAS, Munich*
 
-- Kumstel S, Tang G, Abdelrahman A, **Talbot SR**, Eichberg J, Wendt E, Seume N, Abshagen K, Zhang X, Bleich A, Vollmar B, Zechner D. *Grading of distress in gastrointestinal animal models.*
+**Grading of distress in gastrointestinal animal models**<br>
+*Kumstel S, Tang G, Abdelrahman A, Talbot SR, Eichberg J, Wendt E, Seume N, Abshagen K, Zhang X, Bleich A, Vollmar B, Zechner D*
 
 ### 2017
 
-- Schwarzer A, **Talbot SR**, Schott JW, Selich A, Schambach A, Rothe M. *Molecular immortalization signature of murine HSPC.*
+**Molecular immortalization signature of murine HSPC**<br>
+*Schwarzer A, Talbot SR, Schott JW, Selich A, Schambach A, Rothe M*
 
 ### 2016
 
-- Schwarzer A, **Talbot SR**, Dittrich-Breiholz O, Thrasher AJ, Gaspar B, Modlich U, Baum C, Schambach A, Rothe M. *New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA).* Blood, 128(22), 4710.
+**New Molecular Surrogate Assay for Genotoxicity Assessment of Gene Therapy Vectors (SAGA)**<br>
+*Schwarzer A, Talbot SR, Dittrich-Breiholz O, Thrasher AJ, Gaspar B, Modlich U, Baum C, Schambach A, Rothe M*<br>
+*Blood, 128(22), 4710*
 
 ### 2013
 
-- Sartorius G, **Talbot SR**. *Fast classification process MAE+.*
+**Fast classification process MAE+**<br>
+*Sartorius G, Talbot SR*
 
 ### 2009
 
-- **Talbot SR**, Russmann H, Scheper T. *Identification of potential biological warfare agents with Raman spectroscopy.* Medizinische B-Schutztagung, Sanitätsakademie der Bundeswehr.
+**Identification of potential biological warfare agents with Raman spectroscopy**<br>
+*Talbot SR, Russmann H, Scheper T*<br>
+*Medizinische B-Schutztagung, Sanitätsakademie der Bundeswehr*
 
 ### 2007
 
-- **Talbot SR**, Russmann H, Scheper T. *Inactivation and detection of potential bacterial biological agents based on the spore simulant Bacillus atrophaeus.* Medizinische B-Schutztagung, Sanitätsakademie der Bundeswehr.
+**Inactivation and detection of potential bacterial biological agents based on the spore simulant Bacillus atrophaeus**<br>
+*Talbot SR, Russmann H, Scheper T*<br>
+*Medizinische B-Schutztagung, Sanitätsakademie der Bundeswehr*
