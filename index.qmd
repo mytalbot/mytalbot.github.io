@@ -26,9 +26,9 @@ about:
 
 ## About Me
 
-I am a biochemist, data scientist, and leader of the [Preclinical Data Science](https://www.mhh.de/talbot) group at the Institute for Laboratory Animal Science at Hannover Medical School (MHH), where I specialise in the intersection of artificial intelligence, statistics, and translational laboratory animal research.
+I am a data scientist (and biochemist), and leader of the [Preclinical Data Science](https://www.mhh.de/talbot) group at the Institute for Laboratory Animal Science at Hannover Medical School (MHH), where I specialise in the intersection of artificial intelligence, statistics, and translational laboratory animal/veterinary research.
 
-My research focuses on developing data-science-driven solutions for quantitative severity assessment in animal experiments. A major achievement has been the RELSA (Relative Severity Assessment) score, which has also been adapted for pediatric care as the Patient Vital Score (PVS). I apply AI and statistical methods to support regulatory processes, experimental design, and the 3Rs principles in preclinical research.
+My research focuses on developing data-science-driven solutions for quantitative severity assessment in animal research. A major achievement has been the RELSA (Relative Severity Assessment) score, which has also been adapted for pediatric care as the Patient Vital Score (PVS). I apply AI and statistical methods to support regulatory processes, experimental design, and the 3Rs principles in preclinical research.
 
 ## Research Interests
 
