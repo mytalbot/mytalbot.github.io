@@ -160,6 +160,11 @@ title: "Talks & Presentations"
 
 ### 2025
 
+**Quantifizierung der Erkrankungsschwere bei Amanitin-vergifteten Patient/-innen durch Fusion gängiger Laborwerte**<br>
+*P.L.S. Ohland, S. Halle, K. Brand, S.R. Talbot*<br>
+*Abstract publiziert: Notfall Rettungsmed 28 (Suppl 4), 226–227 (2025)*<br>
+*DGINA 2025 (Köln)*
+
 **Refining Humane-Endpoint Identification with ARIMA Forecasting**<br>
 *Sara Lutscher, Loukia M Spineli, Lisa Goral, André Bleich, Steven R Talbot*<br>
 *3rd Annual Meeting of the 3R-Competence Network NRW, Vaals (NL)*
@@ -202,12 +207,17 @@ title: "Talks & Presentations"
 
 ### 2024
 
+**From Laboratory Animals to Humans: The Translation of Severity Scoring for Intensive Care Monitoring**<br>
+*P.L.S. Ohland, A. Bleich, S.R. Talbot (Kongressvortrag)*<br> 
+*DVG-Vet-Congress 2024 (Berlin)*
+
 **Quantifizierung der Erkrankungsschwere bei Amanitin-vergifteten Patienten durch Fusion gängiger Laborwerte**<br>
 *Ohland PLS, Halle S, Brand K, Talbot SR*<br>
 *DIVI24 Kongress, Hamburg*
 
 **Quantifying Disease Severity in Amanitin-Intoxicated Patients by Fusing Common Laboratory Values**<br>
 *Ohland PLS, Halle S, Talbot SR*
+*DGKL 2024 (Bremen)*
 
 ### 2023
 
