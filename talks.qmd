@@ -4,6 +4,11 @@ title: "Talks & Presentations"
 
 ## Invited Talks
 
+### 2026
+
+**Online Symposium on AI-support for Science** <br>
+*Moderation on behalf of the GMDS research group: AI in Research*
+
 ### 2025
 
 **RELSA - An evidence-based procedure to assess the well-being and severity in animal experiments**<br>
