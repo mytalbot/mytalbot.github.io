@@ -5,7 +5,7 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
-<span class="pub-badge">★</span>**Talbot, S.R.**, Heider, M., Wirth, M. et al. Comparative analysis of dose-response variability and severity in STZ-induced diabetes: female vs. male NSG mice. Sci Rep 16, 8257 (2026). [DOI](https://doi.org/10.1038/s41598-026-42408-z)
+<span class="pub-badge">★</span>**Talbot, S.R.**, Heider, M., Wirth, M. et al. Comparative analysis of dose-response variability and severity in STZ-induced diabetes: female vs. male NSG mice. **Sci Rep** 16, 8257 (2026). [DOI](https://doi.org/10.1038/s41598-026-42408-z)
 
 <span class="pub-badge">★</span>**Talbot SR**, Scorrano F, Gaburro S, Lainee P and van Gaalen MM (2026) From observation to optimization: behavioral metrics that matter in KPI based home cage monitoring. Front. Behav. Neurosci. 20:1694689. [DOI](https://doi.org/10.3389/fnbeh.2026.1694689)
 
