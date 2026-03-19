@@ -16,7 +16,7 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
 
 **Wie erfassen wir Ihre Daten?**
 
-Diese Website erhebt keine personenbezogenen Daten durch Tracking, Cookies oder Analysetools.
+Diese Website erhebt keine personenbezogenen Daten durch Cookies. Zur anonymen Analyse der Websitenutzung wird GoatCounter eingesetzt (siehe Abschnitt 5).
 
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
 
@@ -97,6 +97,22 @@ Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSG
 
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
+## 5. Webanalyse
+
+Diese Website verwendet GoatCounter, eine datenschutzfreundliche, Open-Source-Webanalyse-Software. GoatCounter wird auf unserem eigenen Server in Deutschland betrieben (Self-Hosting). Es werden keine Cookies gesetzt und keine personenbezogenen Daten erhoben oder an Dritte weitergegeben.
+
+Folgende anonymisierte Daten werden erfasst:
+
+- Aufgerufene Seiten (URL)
+- Verweisende Website (Referrer)
+- Verwendeter Browser und Betriebssystem
+- Ungefährer Standort (auf Länderebene, basierend auf anonymisierter IP-Adresse)
+- Bildschirmgröße
+
+Die IP-Adresse wird nicht gespeichert. Eine Identifikation einzelner Nutzer ist nicht möglich. Die Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der anonymen Analyse der Websitenutzung zur Verbesserung des Angebots).
+
+Weitere Informationen: [https://www.goatcounter.com/help/privacy](https://www.goatcounter.com/help/privacy)
+
 ---
 
-*Stand: Dezember 2025*
+*Stand: März 2026*
