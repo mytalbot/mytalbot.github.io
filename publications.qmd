@@ -5,16 +5,22 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
-<span class="pub-badge">★</span>**Talbot, S.R.**, Heider, M., Wirth, M. et al. Comparative analysis of dose-response variability and severity in STZ-induced diabetes: female vs. male NSG mice. **Sci Rep** 16, 8257 (2026). [DOI](https://doi.org/10.1038/s41598-026-42408-z)
 
-<span class="pub-badge">★</span>**Talbot SR**, Scorrano F, Gaburro S, Lainee P and van Gaalen MM (2026) From observation to optimization: behavioral metrics that matter in KPI based home cage monitoring. Front. Behav. Neurosci. 20:1694689. [DOI](https://doi.org/10.3389/fnbeh.2026.1694689)
+Begni, Veronica, Floriana De Cillis, Natascha Pfeiffer, **Steven Roger Talbot**, Peter Gass, Annamaria Cattaneo, Marco Andrea Riva, and Anne Stephanie Mallien. 2026. "Distinct Molecular Responses to Ketamine and Imipramine in Cortical and Striatal Regions Following Acute Swim Stress" **Biomolecules** 16, no. 4: 484. [DOI](https://doi.org/10.3390/biom16040484%5BDOI%5D)
 
-<span class="pub-badge">★</span>**Talbot SR**, Weegh N, Heider M and Bleich A (2026) From pedigrees to practicality: an interactive tool for cat breeding. Front. Vet. Sci. 13:1749164. [DOI](https://doi.org/10.3389/fvets.2026.1749164)
+[★]{.pub-badge}**Talbot SR**, Tolba RH, Bleich A. Beyond single metrics: Multi-parameter home-cage monitoring improves welfare assessment. **Laboratory Animals**. 2026;0(0). [DOI](https://doi.org/10.1177/0023677225137440)
+
+[★]{.pub-badge}**Talbot, S.R.**, Heider, M., Wirth, M. et al. Comparative analysis of dose-response variability and severity in STZ-induced diabetes: female vs. male NSG mice. **Sci Rep** 16, 8257 (2026). [DOI](https://doi.org/10.1038/s41598-026-42408-z)
+
+[★]{.pub-badge}**Talbot SR**, Scorrano F, Gaburro S, Lainee P and van Gaalen MM (2026) From observation to optimization: behavioral metrics that matter in KPI based home cage monitoring. Front. Behav. Neurosci. 20:1694689. [DOI](https://doi.org/10.3389/fnbeh.2026.1694689)
+
+[★]{.pub-badge}**Talbot SR**, Weegh N, Heider M and Bleich A (2026) From pedigrees to practicality: an interactive tool for cat breeding. Front. Vet. Sci. 13:1749164. [DOI](https://doi.org/10.3389/fvets.2026.1749164)
 
 Brandwein, C., Leenaars, C.H., Iorgu, A., Becker, L., Pfeiffer, N., Vasilescu, A., Cilurzo, C., Bleich, A., **Talbot, S.R.**, Gass, P., and Mallien, A.S. (2026). Mapping the Evolution of the Rat Forced Swim Test across Interpretation, Welfare and Pharmacology. *Pharmacological Research* 108146. [DOI](https://doi.org/10.1016/j.phrs.2026.108146)
 
 ## 2025
-<span class="pub-badge">★</span> Pfefferle, D., **Talbot, S. R.**, Kahnau, P., Cassidy, L. C., Brockhausen, R. R., Jaap, A., Deikun, V., Yurt, P., Gail, A., Treue, S., & Lewejohann, L. (2025). Advancing preference testing in humans and animals. *Behavior Research Methods*. [DOI](https://doi.org/10.3758/s13428-025-02668-5)
+
+[★]{.pub-badge} Pfefferle, D., **Talbot, S. R.**, Kahnau, P., Cassidy, L. C., Brockhausen, R. R., Jaap, A., Deikun, V., Yurt, P., Gail, A., Treue, S., & Lewejohann, L. (2025). Advancing preference testing in humans and animals. *Behavior Research Methods*. [DOI](https://doi.org/10.3758/s13428-025-02668-5)
 
 Heinicke, U., **Talbot, S. R.**, Thanasis, F., Adam, E. H., von Knethen, A., Steinbicker, A. U., Zinn, S., Zacharowski, K., & Flinspach, A. N. (2025). Systemic role of orexin A, substance P, bradykinin, and DABK in severe COVID-19 and 2.5-yr follow-ups. *BJA Open*. [DOI](https://doi.org/10.1016/j.bjao.2025.100415)
 
@@ -38,9 +44,9 @@ COST Action TEATIME CA20135 welfare group. (2025). Advocating for automation in 
 
 ## 2024
 
-<span class="pub-badge">★</span> Ohland, P. L. S., Jack, T., Mast, M., Melk, A., Bleich, A., & **Talbot, S. R.** (2024). Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. *Scientific Reports, 14*, 8825. [DOI](https://doi.org/10.1038/s41598-024-57712-9)
+[★]{.pub-badge} Ohland, P. L. S., Jack, T., Mast, M., Melk, A., Bleich, A., & **Talbot, S. R.** (2024). Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. *Scientific Reports, 14*, 8825. [DOI](https://doi.org/10.1038/s41598-024-57712-9)
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Heider, M., Wirth, M., Jörns, A., & Naujok, O. (2024). Exploring dose-response variability and relative severity assessment in STZ-induced diabetes male NSG mice. *Scientific Reports, 14*, 16307. [DOI](https://doi.org/10.1038/s41598-024-67490-z)
+[★]{.pub-badge} **Talbot, S. R.**, Heider, M., Wirth, M., Jörns, A., & Naujok, O. (2024). Exploring dose-response variability and relative severity assessment in STZ-induced diabetes male NSG mice. *Scientific Reports, 14*, 16307. [DOI](https://doi.org/10.1038/s41598-024-67490-z)
 
 Baskaya, F., Lemainque, T., Klinkhammer, B., Koletnik, S., von Stillfried, S., **Talbot, S. R.**, Boor, P., Schulz, V., Lederle, W., & Kiessling, F. (2024). Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. *Investigative Radiology*. [DOI](https://doi.org/10.1097/RLI.0000000000001075)
 
@@ -58,9 +64,9 @@ Reiber, M., Stirling, H., Ahuis, T. P., Arias, W., Aulehner, K., Dreßler, U., K
 
 ## 2023
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Kumstel, S., Schulz, B., Tang, G., Abdelrahman, A., Seume, N., Wendt, E. H. U., Eichberg, J., Häger, C., Bleich, A., Vollmar, B., & Zechner, D. (2023). Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases. *Scientific Reports, 13*, 2605. [DOI](https://doi.org/10.1038/s41598-023-29623-8)
+[★]{.pub-badge} **Talbot, S. R.**, Kumstel, S., Schulz, B., Tang, G., Abdelrahman, A., Seume, N., Wendt, E. H. U., Eichberg, J., Häger, C., Bleich, A., Vollmar, B., & Zechner, D. (2023). Robustness of a multivariate composite score when evaluating distress of animal models for gastrointestinal diseases. *Scientific Reports, 13*, 2605. [DOI](https://doi.org/10.1038/s41598-023-29623-8)
 
-<span class="pub-badge">★</span> Reiber, M., von Schumann, L., Buchecker, V., Boldt, L., Gass, P., Bleich, A., **Talbot, S. R.**, & Potschka, H. (2023). Evidence-based comparative severity assessment in young and adult mice. *PLOS ONE, 18*(5), e0285429. [DOI](https://doi.org/10.1371/journal.pone.0285429)
+[★]{.pub-badge} Reiber, M., von Schumann, L., Buchecker, V., Boldt, L., Gass, P., Bleich, A., **Talbot, S. R.**, & Potschka, H. (2023). Evidence-based comparative severity assessment in young and adult mice. *PLOS ONE, 18*(5), e0285429. [DOI](https://doi.org/10.1371/journal.pone.0285429)
 
 Tix, L., Ernst, L., Bungardt, B., **Talbot, S. R.**, Hilken, G., & Tolba, R. H. (2023). Establishment of the body condition score for adult female Xenopus laevis. *PLOS ONE*.
 
@@ -86,15 +92,15 @@ Becker, L., Mallien, A. S., Pfeiffer, N., Brandwein, C., **Talbot, S. R.**, Blei
 
 ## 2022
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Struve, B., Wassermann, L., Heider, M., Weegh, N., Knape, T., Hofmann, M. C. J., von Knethen, A., Jirkof, P., & Häger, C. (2022). RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. *Frontiers in Veterinary Science*.
+[★]{.pub-badge} **Talbot, S. R.**, Struve, B., Wassermann, L., Heider, M., Weegh, N., Knape, T., Hofmann, M. C. J., von Knethen, A., Jirkof, P., & Häger, C. (2022). RELSA—A multidimensional procedure for the comparative assessment of well-being and the quantitative determination of severity in experimental procedures. *Frontiers in Veterinary Science*.
 
-<span class="pub-badge">★</span> Heinrichs, H., Mueller, F., Rohfleisch, L., Schulz, V., **Talbot, S. R.**, & Kiessling, F. (2022). Digitalization impacts the COVID-19 pandemic and the stringency of government measures. *Scientific Reports*.
+[★]{.pub-badge} Heinrichs, H., Mueller, F., Rohfleisch, L., Schulz, V., **Talbot, S. R.**, & Kiessling, F. (2022). Digitalization impacts the COVID-19 pandemic and the stringency of government measures. *Scientific Reports*.
 
-<span class="pub-badge">★</span> Neb, H., **Talbot, S. R.**, Ruskowski, K., Brkic, D., Sonntagbauer, M., Adam, E. H., von Knethen, A., Zacharowski, K., & Heinicke, U. (2022). High heparanase level in survivors of COVID-19—Indicator of vascular and pulmonary recovery? *Shock*.
+[★]{.pub-badge} Neb, H., **Talbot, S. R.**, Ruskowski, K., Brkic, D., Sonntagbauer, M., Adam, E. H., von Knethen, A., Zacharowski, K., & Heinicke, U. (2022). High heparanase level in survivors of COVID-19—Indicator of vascular and pulmonary recovery? *Shock*.
 
-<span class="pub-badge">★</span> Ernst, L., Bruch, S., Kopaczka, M., Merhof, D., Bleich, A., Tolba, R. H., & **Talbot, S. R.** (2022). A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. *Scientific Reports*.
+[★]{.pub-badge} Ernst, L., Bruch, S., Kopaczka, M., Merhof, D., Bleich, A., Tolba, R. H., & **Talbot, S. R.** (2022). A model-specific simplification of the Mouse Grimace Scale based on the pain response of intraperitoneal CCl4 injections. *Scientific Reports*.
 
-<span class="pub-badge">★</span> Mallien, A. S., Pfeiffer, N., Brandwein, C., Inta, D., Sprengel, R., Palme, R., **Talbot, S. R.**, & Gass, P. (2022). Comparative severity assessment of genetic, stress-based, and pharmacological mouse models of depression. *Frontiers in Behavioral Neuroscience*.
+[★]{.pub-badge} Mallien, A. S., Pfeiffer, N., Brandwein, C., Inta, D., Sprengel, R., Palme, R., **Talbot, S. R.**, & Gass, P. (2022). Comparative severity assessment of genetic, stress-based, and pharmacological mouse models of depression. *Frontiers in Behavioral Neuroscience*.
 
 Yang, M., Pan, Z., Huang, K., Büsche, G., Liu, H., Göhring, G., Rumpel, R., Dittrich-Breiholz, O., **Talbot, S.**, & Scherr, M. (2022). A unique role of p53 haploinsufficiency or loss in the development of acute myeloid leukemia with FLT3-ITD mutation. *Leukemia, 36*(3), 675–686.
 
@@ -112,7 +118,7 @@ Meumann, N., Schmithals, C., Elenschneider, L., Hansen, T., Balakrishnan, A., Hu
 
 ## 2021
 
-<span class="pub-badge">★</span> Schwarzer, A., **Talbot, S. R.**, Selich, A., Morgan, M., Schott, J. W., Dittrich-Breiholz, O., Bastone, A. L., Weigel, B., Ha, T. C., Dziadek, V., et al. (2021). Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning. *Molecular Therapy*.
+[★]{.pub-badge} Schwarzer, A., **Talbot, S. R.**, Selich, A., Morgan, M., Schott, J. W., Dittrich-Breiholz, O., Bastone, A. L., Weigel, B., Ha, T. C., Dziadek, V., et al. (2021). Predicting genotoxicity of viral vectors for stem cell gene therapy using gene expression-based machine learning. *Molecular Therapy*.
 
 Van der Mierden, S., Leenaars, C. H. C., Boyle, E. C., Ripoli, F. L., Gass, P., Durst, M., Goerlich-Jansson, V. C., Jirkof, P., Keubler, L. M., **Talbot, S. R.**, Habedank, A., Lewejohann, L., Tolba, R. H., & Bleich, A. (2021). Measuring endogenous corticosterone in laboratory mice - a mapping review, meta-analysis, and open source database. *ALTEX, 38*(1), 111–122. [DOI](https://doi.org/10.14573/altex.2004221)
 
@@ -140,13 +146,13 @@ Weegh, N., Zentrich, E., Zechner, D., Struve, B., Wassermann, L., **Talbot, S. R
 
 ## 2020
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Biernot, S., Bleich, A., van Dijk, R. M., Ernst, L., Häger, C., Helgers, S. O. A., Koegel, B., Koska, I., Kuhla, A., et al. (2020). Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*.
+[★]{.pub-badge} **Talbot, S. R.**, Biernot, S., Bleich, A., van Dijk, R. M., Ernst, L., Häger, C., Helgers, S. O. A., Koegel, B., Koska, I., Kuhla, A., et al. (2020). Defining body-weight reduction as a humane endpoint: a critical appraisal. *Laboratory Animals*.
 
-<span class="pub-badge">★</span> van Dijk, R. M., Koska, I., Bleich, A., Tolba, R., Seiffert, I., Möller, C., Di Liberto, V., **Talbot, S. R.**, & Potschka, H. (2020). Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS ONE*.
+[★]{.pub-badge} van Dijk, R. M., Koska, I., Bleich, A., Tolba, R., Seiffert, I., Möller, C., Di Liberto, V., **Talbot, S. R.**, & Potschka, H. (2020). Design of composite measure schemes for comparative severity assessment in animal-based neuroscience research: A case study focussed on rat epilepsy models. *PLOS ONE*.
 
-<span class="pub-badge">★</span> Helgers, S. O. A., **Talbot, S. R.**, Riedesel, A.-K., Wassermann, L., Wu, Z., Krauss, J. K., Häger, C., Bleich, A., & Schwabe, K. (2020). Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Scientific Reports*.
+[★]{.pub-badge} Helgers, S. O. A., **Talbot, S. R.**, Riedesel, A.-K., Wassermann, L., Wu, Z., Krauss, J. K., Häger, C., Bleich, A., & Schwabe, K. (2020). Body weight algorithm predicts humane endpoint in an intracranial rat glioma model. *Scientific Reports*.
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Bruch, S., Kießling, F., Marschollek, M., Jandric, B., Tolba, R. H., & Bleich, A. (2020). Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*.
+[★]{.pub-badge} **Talbot, S. R.**, Bruch, S., Kießling, F., Marschollek, M., Jandric, B., Tolba, R. H., & Bleich, A. (2020). Design of a joint research data platform: A use case for severity assessment. *Laboratory Animals*.
 
 Leenaars, C. H. C., van der Mierden, S., Durst, M., Goerlich-Jansson, V. C., Ripoli, F. L., Keubler, L. M., **Talbot, S. R.**, Boyle, E., Habedank, A., Jirkof, P., Lewejohann, L., Gass, P., Tolba, R., & Bleich, A. (2020). Measurement of corticosterone in mice: a protocol for a mapping review. *Laboratory Animals, 54*(1), 26–32. [DOI](https://doi.org/10.1177/0023677219868499)
 
@@ -200,15 +206,15 @@ Oumeraci, T., Jensen, V., **Talbot, S. R.**, Hofmann, W., Kostrzewa, M., Schlege
 
 ## 2011
 
-<span class="pub-badge">★</span> Sartorius, G., & **Talbot, S. R.** (2011). Multivariate adaptation and classification method for characteristic sample properties. *Engineering in Life Sciences*. [DOI](https://doi.org/10.1002/elsc.201000136)
+[★]{.pub-badge} Sartorius, G., & **Talbot, S. R.** (2011). Multivariate adaptation and classification method for characteristic sample properties. *Engineering in Life Sciences*. [DOI](https://doi.org/10.1002/elsc.201000136)
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, & Sartorius, G. (2011). Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field. *Engineering in Life Sciences*.
+[★]{.pub-badge} **Talbot, S. R.**, & Sartorius, G. (2011). Multivariate adaptive embedding (MAE) for the identification of bacterial pathogens in the field. *Engineering in Life Sciences*.
 
 ## 2010
 
-<span class="pub-badge">★</span> **Talbot, S. R.**, Russmann, H., Köhne, S., Niederwöhrmeier, B., Grote, G., & Scheper, T. (2010). Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS. *Engineering in Life Sciences*.
+[★]{.pub-badge} **Talbot, S. R.**, Russmann, H., Köhne, S., Niederwöhrmeier, B., Grote, G., & Scheper, T. (2010). Effects of inactivation methods on the analysis of Bacillus atrophaeus endospores using real-time PCR and MALDI-TOF-MS. *Engineering in Life Sciences*.
 
----
+------------------------------------------------------------------------
 
 ## Book Contributions
 

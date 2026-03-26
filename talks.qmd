@@ -6,6 +6,9 @@ title: "Talks & Presentations"
 
 ### 2026
 
+**Pairing for Power - The Value of Paired Statistics in Longitudinal Non-Invasive Studies** <br>
+*3R+1 Symposium: Beyond Reduction, Refinement, and Replacement: The Fourth R that Can Change Everything – Reproducibility at EMIM, Ljubljana*
+
 **Online Symposium on AI-support for Science** <br>
 *Moderation on behalf of the GMDS research group: AI in Research*
 
