@@ -5,6 +5,7 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+Hanna Kirchhoff, Caroline Schoenherr, Lisa Fleischer, **Steven R. Talbot**, Florian H. Heidel, Anke K. Bergmann, Matthias Eder & Michaela Scherr. Differential mitochondrial priming by BCR::ABL1 in B-cell precursor acute lymphoblastic leukemia. **Leukemia** (2026). [DOI](https://doi.org/10.1038/s41375-026-02944-z)
 
 Begni, Veronica, Floriana De Cillis, Natascha Pfeiffer, **Steven Roger Talbot**, Peter Gass, Annamaria Cattaneo, Marco Andrea Riva, and Anne Stephanie Mallien. 2026. "Distinct Molecular Responses to Ketamine and Imipramine in Cortical and Striatal Regions Following Acute Swim Stress" **Biomolecules** 16, no. 4: 484. [DOI](https://doi.org/10.3390/biom16040484%5BDOI%5D)
 
