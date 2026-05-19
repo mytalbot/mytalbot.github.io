@@ -217,11 +217,12 @@ Oumeraci, T., Jensen, V., **Talbot, S. R.**, Hofmann, W., Kostrzewa, M., Schlege
 
 ------------------------------------------------------------------------
 
-## Book Contributions
+## Book Contributions  
+[★]{.pub-badge}Landes, R.D., Rigamonti, M., **Talbot, S.R.** (2026). Study Design and Data Analysis in Home Cage Monitoring Experiments. In: Gaburro, S., Mandillo, S. (eds) Home Cage Monitoring in Rodents: A Global Effort. **Springer**, Cham. [DOI](https://doi.org/10.1007/978-3-032-19781-8_8)  
 
-Sartorius, G., & Talbot, S. (2019). Evaluation of Hybrid Measurement Structures. In H. Unger (Ed.), *Autonomous Systems 2019: An Almanac* (pp. 159–169). VDI-Verlag GmbH.
+[★]{.pub-badge}Sartorius, G., & **Talbot, S.** (2019). Evaluation of Hybrid Measurement Structures. In H. Unger (Ed.), *Autonomous Systems 2019: An Almanac* (pp. 159–169). VDI-Verlag GmbH.  
 
-Talbot, S. R. (2018). Medizinische Statistik und Studiendesign. In *Pschyrembel Klinisches Wörterbuch*. De Gruyter.
+[★]{.pub-badge}**Talbot, S. R.** (2018). Medizinische Statistik und Studiendesign. In *Pschyrembel Klinisches Wörterbuch*. De Gruyter.
 
 ## Patent
 

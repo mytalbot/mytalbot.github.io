@@ -33,3 +33,4 @@ Thumbs.db
 *.temp
 
 **/*.quarto_ipynb
+.positai
