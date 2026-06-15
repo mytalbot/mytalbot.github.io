@@ -25,11 +25,10 @@ about:
 ---
 
 ## About Me
+I am a data scientist (and biochemist) who, since April 2026, serves as acting professor (Vertretungsprofessur, W3) and director of the [Institute of Medical Statistics](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-statistik/institut/) at University Hospital RWTH Aachen. I also lead the [Preclinical Data Science](https://www.mhh.de/talbot) group at the Institute for Laboratory Animal Science at Hannover Medical School (MHH), where I specialise in the intersection of artificial intelligence, statistics, and translational laboratory animal and veterinary research.
 
-I am a data scientist (and biochemist), and leader of the [Preclinical Data Science](https://www.mhh.de/talbot) group at the Institute for Laboratory Animal Science at Hannover Medical School (MHH), where I specialise in the intersection of artificial intelligence, statistics, and translational laboratory animal/veterinary research.
-
-My research focuses on developing data-science-driven solutions for quantitative severity assessment in animal research. A major achievement has been the RELSA (Relative Severity Assessment) score, which has also been adapted for pediatric care as the Patient Vital Score (PVS). I apply AI and statistical methods to support regulatory processes, experimental design, and the 3Rs principles in preclinical research.
-
+My research develops quantitative solutions for human, veterinary and animal research, with a strong focus on severity assessment, clinical decision support systems, and the implementation of AI. Translation is central to my work, connecting animal and human studies so that findings in one inform the other. A clear example is the RELSA (Relative Severity Assessment) score, which began in animal research and has since been adapted for paediatric care as the Patient Vital Score (PVS). I am equally drawn to biometry and experimental study design, and to teaching statistics, machine learning, and how to put the 3R principle into practice.
+ 
 ## Research Interests
 
 - **Severity Assessment**: Multidimensional scoring algorithms (e.g., RELSA) for objective burden quantification
@@ -39,6 +38,10 @@ My research focuses on developing data-science-driven solutions for quantitative
 - **3Rs & Alternative Methods**: Data-driven reduction strategies and organoid model validation
 
 ## Current Position
+**Acting Professor (Vertretungsprofessur, W3) and Director**
+*Institute of Medical Statistics*
+University Hospital RWTH Aachen
+Aachen, Germany
 
 **Group Leader, Preclinical Data Science**
 *Institute of Laboratory Animal Science*
