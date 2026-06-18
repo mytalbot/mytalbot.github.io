@@ -5,6 +5,10 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+Ottlewski, A. L., Häger, C., Hermann, E. J., Fogaing Kamgaing, F., Alam, M., Schwabe, J. D., Thiesler, H., Hildebrandt, H., Glasenapp, A., Bankstahl, M., **Talbot, S. R.**, Krauss, J. K., & Schwabe, K. (2026). Voluntary Wheel Running as Refinement Tool for Postoperative Severity Assessment and Humane Endpoint Detection in Rats with Brain Tumors. **Brain Sciences**, 16(6), 635. [DOI](https://doi.org/10.3390/brainsci16060635)
+
+Schreiber, Tim MPharma; Leitner, Emily MSc; Steinhorst, Sabinea; Brandstetter, Jakob MSc; Glasenapp, Aylina DVM; **Talbot, Steven R. PhD**; Palme, Rupert DVM; Bankstahl, Marion DVMb; Vollmar, Brigitte MD; Kumstel, Simone PhD. Effects of orally administered metamizole, tramadol, and buprenorphine on postsurgical recovery in mice. International **Journal of Surgery** ():10.1097/JS9.0000000000005373, May 18, 2026. | [DOI](https://doi.org/10.1097/JS9.0000000000005373)
+
 Hanna Kirchhoff, Caroline Schoenherr, Lisa Fleischer, **Steven R. Talbot**, Florian H. Heidel, Anke K. Bergmann, Matthias Eder & Michaela Scherr. Differential mitochondrial priming by BCR::ABL1 in B-cell precursor acute lymphoblastic leukemia. **Leukemia** (2026). [DOI](https://doi.org/10.1038/s41375-026-02944-z)
 
 Begni, Veronica, Floriana De Cillis, Natascha Pfeiffer, **Steven Roger Talbot**, Peter Gass, Annamaria Cattaneo, Marco Andrea Riva, and Anne Stephanie Mallien. 2026. "Distinct Molecular Responses to Ketamine and Imipramine in Cortical and Striatal Regions Following Acute Swim Stress" **Biomolecules** 16, no. 4: 484. [DOI](https://doi.org/10.3390/biom16040484%5BDOI%5D)
