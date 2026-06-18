@@ -25,9 +25,11 @@ about:
 ---
 
 ## About Me
-I am a data scientist (and biochemist) who, since April 2026, serves as acting professor (Vertretungsprofessur, W3) and director of the [Institute of Medical Statistics](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-statistik/institut/) at University Hospital RWTH Aachen. I also lead the [Preclinical Data Science](https://www.mhh.de/talbot) group at the Institute for Laboratory Animal Science at Hannover Medical School (MHH), where I specialise in the intersection of artificial intelligence, statistics, and translational laboratory animal and veterinary research.
+I am a data scientist and biochemist. Since April 2026 I have been acting professor (Vertretungsprofessur, W3) and director of the [Institute of Medical Statistics](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-statistik/institut/) at University Hospital RWTH Aachen. I also lead the [Preclinical Data Science](https://www.mhh.de/talbot)  group at the Institute for Laboratory Animal Science, Hannover Medical School (MHH).
+ 
+My work lives where artificial intelligence, statistics, and translational research meet, for patients of every kind: a person, an animal in the clinic, or an animal in the laboratory. I have a particular knack for severity assessment, clinical decision support, and the honest, practical use of AI. The RELSA (Relative Severity Assessment) score is one of my leading tools. It began as a way to put a number on an animal's suffering and has since grown into the Patient Vital Score (PVS), now watching over children in paediatric care.
 
-My research develops quantitative solutions for human, veterinary and animal research, with a strong focus on severity assessment, clinical decision support systems, and the implementation of AI. Translation is central to my work, connecting animal and human studies so that findings in one inform the other. A clear example is the RELSA (Relative Severity Assessment) score, which began in animal research and has since been adapted for paediatric care as the Patient Vital Score (PVS). I am equally drawn to biometry and experimental study design, and to teaching statistics, machine learning, and how to put the 3R principle into practice.
+And I am every bit as devoted to the craft: biometry, experimental design, and teaching the next generation to wield statistics and machine learning, and to bring the 3R principle to life.
  
 ## Research Interests
 
