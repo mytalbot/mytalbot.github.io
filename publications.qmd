@@ -5,6 +5,8 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+Kistermann L, Strunk M, Knorr IJ, **Talbot SR,** Ernst L, Tolba RH. Preregistration of Preclinical Animal Studies as a Tool for Refinement: A Feasibility Study Comparing the German Animal Study Registry and Preclinicaltrials.eu. **Animals**. 2026; 16(14):2226. [DOI](https://doi.org/10.3390/ani16142226).
+
 [★]{.pub-badge}Lutscher S, Goral L, Häger C, Munk A, Heider M, Weegh N, Zechner D, Potschka H, von Knethen A, Bleich A and **Talbot SR** (2026) Refining humane endpoint detection by time-series forecasting and threshold definition using a multivariate severity score. **Front. Physiol.** 17:1869563. [DOI](https://doi.org/10.3389/fphys.2026.1869563).
 
 Edith K.J. Schwarz, Jan C. Kamp, Svenja Gaedcke, Christopher Werlein, Stephanie Schubert, Da-Hee Park, Regina Engelhardt, Robert Geffers, Fabio Ius, Stijn E. Verleden, **Steven R. Talbot**, Jens Gottlieb, Hoen-oh Shin, Holger Schlüter, Danny D. Jonigk, Lavinia Neubert, Mark P. Kühnel, Alveolar macrophage activation and polarization signatures in stable lung transplant recipients and chronic lung allograft dysfunction, **The Journal of Heart and Lung Transplantation**, 2026,ISSN 1053-2498, [DOI](https://doi.org/10.1016/j.healun.2026.06.016).  
