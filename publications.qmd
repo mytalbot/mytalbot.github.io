@@ -5,6 +5,8 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+[★]{.pub-badge}Kschonek JD, Kästner SBR, Ohland PLS, Lutscher S, Volk HA and **Talbot SR** (2026) Corridor-based relative severity assessment of the canine anaesthetic course. **Front. Vet. Sci.** 13:1939921. [DOI](10.3389/fvets.2026.1939921).
+
 Crispens, C., Wilken-Schmitz, A., Dern, V., Rahimi, A.R., Madau, E., Frigger, N.C., Jakob, J., Häupl, B., Oellerich, T., Weigert, A., **Talbot, S.R.**, Zacharowski, K., Heinicke, U., and von Knethen, A. (2026). Age- and sex-dependent heterogeneity during LPS-induced murine acute lung injury. **Immunity & Ageing**.  [DOI](https://doi.org/10.1186/s12979-026-00592-6).
 
 Porte, C., Kohlen, M., Lisson, T., Dencks, S., von Stillfried, S., Magnuska, Z.A., Winkler, B.S., Rix, A., Koczera, P., Boor, P., **Talbot, S.R.**, Schmitz, G., Stickeler, E., and Kiessling, F. (2026). Ultrasound localisation microscopy predicts neoadjuvant chemotherapy response in patients with breast cancer. **eBioMedicine** 131. [DOI](https://doi.org/10.1016/j.ebiom.2026.106442).
@@ -61,7 +63,7 @@ COST Action TEATIME CA20135 welfare group. (2025). Advocating for automation in 
 
 [★]{.pub-badge} Ohland, P. L. S., Jack, T., Mast, M., Melk, A., Bleich, A., & **Talbot, S. R.** (2024). Continuous monitoring of physiological data using the patient vital status fusion score in septic critical care patients. *Scientific Reports, 14*, 8825. [DOI](https://doi.org/10.1038/s41598-024-57712-9)
 
-[★]{.pub-badge} **Talbot, S. R.**, Heider, M., Wirth, M., Jörns, A., & Naujok, O. (2024). Exploring dose-response variability and relative severity assessment in STZ-induced diabetes male NSG mice. *Scientific Reports, 14*, 16307. [DOI](https://doi.org/10.1038/s41598-024-67490-z)
+[★]{.pub-badge} **Talbot, S. R.**, Heider, M., Wirth, M., Jörns, A., & Naujok, O. (2024). Exploring dose-response variability and relative severity assessment in STZ-induced diabetes male NSG mice. *Scientific Reports, 14*, 16559. [DOI](https://doi.org/10.1038/s41598-024-67490-z)
 
 Baskaya, F., Lemainque, T., Klinkhammer, B., Koletnik, S., von Stillfried, S., **Talbot, S. R.**, Boor, P., Schulz, V., Lederle, W., & Kiessling, F. (2024). Pathophysiologic Mapping of Chronic Liver Diseases With Longitudinal Multiparametric MRI in Animal Models. *Investigative Radiology*. [DOI](https://doi.org/10.1097/RLI.0000000000001075)
 
