@@ -5,6 +5,10 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+[★]{.pub-badge}**Talbot, S.**, Lutscher, S., Ernst, L., Kistermann, L., & Tolba, R. (2026). Borrow, don’t breed: How historical controls can cut concurrent animal numbers. **ALTEX - Alternatives to Animal Experimentation.** [DOI](https://doi.org/10.14573/altex.2606081).
+
+[★]{.pub-badge}Ohland PLS, Halle S, Brand K, Bleich A and **Talbot SR** (2026) Quantifying disease severity in amanitin-intoxicated patients by fusing common laboratory values. **Front. Toxicol.** 8:1995921. [DOI](10.3389/ftox.2026.1995921).
+
 [★]{.pub-badge}Kschonek JD, Kästner SBR, Ohland PLS, Lutscher S, Volk HA and **Talbot SR** (2026) Corridor-based relative severity assessment of the canine anaesthetic course. **Front. Vet. Sci.** 13:1939921. [DOI](10.3389/fvets.2026.1939921).
 
 Crispens, C., Wilken-Schmitz, A., Dern, V., Rahimi, A.R., Madau, E., Frigger, N.C., Jakob, J., Häupl, B., Oellerich, T., Weigert, A., **Talbot, S.R.**, Zacharowski, K., Heinicke, U., and von Knethen, A. (2026). Age- and sex-dependent heterogeneity during LPS-induced murine acute lung injury. **Immunity & Ageing**.  [DOI](https://doi.org/10.1186/s12979-026-00592-6).
