@@ -5,6 +5,8 @@ title: "Publications"
 Below is a list of my peer-reviewed publications organized by year. Publications where I am first, shared first, or last/senior author are marked with ★. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=K_y70hIAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0002-9062-4065).
 
 ## 2026
+[★]{.pub-badge} Mallien, A.S., Munk, A., Rix, A., Vogt, M.A., Pfeiffer, N., Buchecker, V., Girbig, R., Neunecker, S., Becker, L., Franz, M., Baier, J., Brandwein, C., Bleich, A., Palme, R., Tolba, R., Potschka, H., Kießling, F., Chourbaji, S., **Talbot, S.R.**, and Gass, P. (2026). Laboratory conditions matter: social housing in male and female laboratory mice in a multicenter study approach. **Lab Anim.** [DOI]( 10.1038/s41684-026-01805-7).
+
 [★]{.pub-badge}**Talbot, S.**, Lutscher, S., Ernst, L., Kistermann, L., & Tolba, R. (2026). Borrow, don’t breed: How historical controls can cut concurrent animal numbers. **ALTEX - Alternatives to Animal Experimentation.** [DOI](https://doi.org/10.14573/altex.2606081).
 
 [★]{.pub-badge}Ohland PLS, Halle S, Brand K, Bleich A and **Talbot SR** (2026) Quantifying disease severity in amanitin-intoxicated patients by fusing common laboratory values. **Front. Toxicol.** 8:1995921. [DOI](10.3389/ftox.2026.1995921).
